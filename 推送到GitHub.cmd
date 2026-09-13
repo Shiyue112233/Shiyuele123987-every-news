@@ -89,7 +89,25 @@ if errorlevel 1 (
 )
 
 echo.
-echo [6/6] 开始推送（首次会弹出浏览器让你登录 GitHub，点同意即可）
+echo [6/7] 同步远端（云端每天也会自己提交，先并入再推）
+"%GITEXE%" -c safe.directory=* fetch origin main >nul 2>&1
+if errorlevel 1 (
+  echo       取不到远端（网络问题），跳过同步。
+) else (
+  "%GITEXE%" -c safe.directory=* rev-parse --verify origin/main >nul 2>&1
+  if not errorlevel 1 (
+    "%GITEXE%" -c safe.directory=* merge -X ours origin/main --no-edit >nul 2>&1
+    if errorlevel 1 (
+      echo       自动合并没成功，已放弃合并（保持本地内容），稍后按提示重跑。
+      "%GITEXE%" -c safe.directory=* merge --abort >nul 2>&1
+    ) else (
+      echo       已与远端同步（保留本地最新内容）。
+    )
+  )
+)
+
+echo.
+echo [7/7] 开始推送（首次会弹出浏览器让你登录 GitHub，点同意即可）
 echo.
 "%GITEXE%" -c safe.directory=* push -u origin main
 if errorlevel 1 (
