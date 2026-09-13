@@ -1,21 +1,23 @@
 @echo off
-rem ä¾› Windows è®¡åˆ’ä»»åŠ¡è°ƒç”¨çš„é™é»˜åˆ·æ–°è„šæœ¬ï¼šä¸å¼¹çª—ã€ä¸æš‚åœï¼Œåªå†™æ—¥å¿—ã€‚
-chcp 65001 >nul
+rem ¹© Windows ¼Æ»®ÈÎÎñµ÷ÓÃµÄ¾²Ä¬Ë¢ÐÂ½Å±¾£º²»µ¯´°¡¢²»ÔÝÍ££¬Ö»Ð´ÈÕÖ¾¡£
 cd /d "%~dp0.."
 
 set "LOG=%~dp0..\data\refresh.log"
 
-where python >nul 2>&1
-if errorlevel 1 (
-  echo [%date% %time%] æœªæ‰¾åˆ° pythonï¼Œè·³è¿‡åˆ·æ–°ã€‚>>"%LOG%"
+set "PY="
+for %%p in (python.exe) do if not defined PY if exist "%%~$PATH:p" set "PY=%%~$PATH:p"
+if not defined PY if exist "%LOCALAPPDATA%\Programs\Python\Python313\python.exe" set "PY=%LOCALAPPDATA%\Programs\Python\Python313\python.exe"
+if not defined PY for /d %%d in ("%LOCALAPPDATA%\Programs\Python\Python*") do if not defined PY if exist "%%~fd\python.exe" set "PY=%%~fd\python.exe"
+if not defined PY (
+  echo [%date% %time%] ÕÒ²»µ½ python.exe£¬Ìø¹ýË¢ÐÂ¡£>>"%LOG%"
   exit /b 1
 )
 
-echo [%date% %time%] å¼€å§‹åˆ·æ–°>>"%LOG%"
-python scripts\fetch_news.py --quiet >>"%LOG%" 2>&1
+echo [%date% %time%] ¿ªÊ¼Ë¢ÐÂ>>"%LOG%"
+"%PY%" scripts\fetch_news.py --quiet >>"%LOG%" 2>&1
 if errorlevel 1 (
-  echo [%date% %time%] åˆ·æ–°å¤±è´¥ï¼ˆé€€å‡ºç  %errorlevel%ï¼‰>>"%LOG%"
+  echo [%date% %time%] Ë¢ÐÂÊ§°Ü¡£>>"%LOG%"
   exit /b 1
 )
-echo [%date% %time%] åˆ·æ–°å®Œæˆ>>"%LOG%"
+echo [%date% %time%] Ë¢ÐÂÍê³É>>"%LOG%"
 exit /b 0

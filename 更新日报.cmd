@@ -1,27 +1,29 @@
 @echo off
-chcp 65001 >nul
 setlocal
 cd /d "%~dp0"
 
-where python >nul 2>&1
-if errorlevel 1 (
-  echo [é”™è¯¯] æœªæ‰¾åˆ° pythonï¼Œè¯·å…ˆå®‰è£… Python å¹¶å‹¾é€‰ Add to PATHã€‚
+set "PY="
+for %%p in (python.exe) do if not defined PY if exist "%%~$PATH:p" set "PY=%%~$PATH:p"
+if not defined PY if exist "%LOCALAPPDATA%\Programs\Python\Python313\python.exe" set "PY=%LOCALAPPDATA%\Programs\Python\Python313\python.exe"
+if not defined PY for /d %%d in ("%LOCALAPPDATA%\Programs\Python\Python*") do if not defined PY if exist "%%~fd\python.exe" set "PY=%%~fd\python.exe"
+if not defined PY (
+  echo [´íÎó] ÕÒ²»µ½ python.exe£¬ÇëÏÈ°²×° Python ²¢¹´Ñ¡ Add to PATH¡£
   echo.
   pause
   exit /b 1
 )
 
-python scripts\fetch_news.py %*
+echo ÕıÔÚ×¥È¡×îĞÂĞÂÎÅ...
+"%PY%" scripts\fetch_news.py %*
 if errorlevel 1 (
   echo.
-  echo [è­¦å‘Š] æœªæŠ“åˆ°ä»»ä½•æ–°é—»ï¼Œè¯·æ£€æŸ¥ç½‘ç»œåé‡è¯•ã€‚
+  echo [¾¯¸æ] Ã»×¥µ½ĞÂÎÅ£¬Çë¼ì²éÍøÂçºóÖØÊÔ¡£
   echo.
   pause
   exit /b 1
 )
 
 echo.
-echo å®Œæˆã€‚æ­£åœ¨æ‰“å¼€ index.html ...
+echo Íê³É¡£ÕıÔÚ´ò¿ª index.html ...
 start "" "%~dp0index.html"
-echo.
 pause

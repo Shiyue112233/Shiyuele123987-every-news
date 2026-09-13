@@ -1,40 +1,46 @@
 @echo off
-chcp 65001 >nul
 setlocal enabledelayedexpansion
 cd /d "%~dp0"
 
 echo ============================================
-echo   æ¯æ—¥ç®€æŠ¥ Â· æœ¬åœ°ç½‘ç«™
+echo   Ã¿ÈÕ¼ò±¨ ¡¤ ±¾µØÍøÕ¾£¨ÊÖ»úÍ¬ WiFi ¿É¿´£©
 echo ============================================
 echo.
 
-where python >nul 2>&1
-if errorlevel 1 (
-  echo [é”™è¯¯] æœªæ‰¾åˆ° pythonï¼Œè¯·å…ˆå®‰è£… Python å¹¶å‹¾é€‰ Add to PATHã€‚
+set "PY="
+for %%p in (python.exe) do if not defined PY if exist "%%~$PATH:p" set "PY=%%~$PATH:p"
+if not defined PY if exist "%LOCALAPPDATA%\Programs\Python\Python313\python.exe" set "PY=%LOCALAPPDATA%\Programs\Python\Python313\python.exe"
+if not defined PY for /d %%d in ("%LOCALAPPDATA%\Programs\Python\Python*") do if not defined PY if exist "%%~fd\python.exe" set "PY=%%~fd\python.exe"
+if not defined PY (
+  echo [´íÎó] ÕÒ²»µ½ python.exe£¬ÇëÏÈ°²×° Python ²¢¹´Ñ¡ Add to PATH¡£
   echo.
   pause
   exit /b 1
 )
 
-echo [1/3] æ­£åœ¨æŠ“å–æœ€æ–°å†…å®¹ï¼ˆçº¦ 5 ç§’ï¼Œå¤±è´¥åˆ™ç›´æ¥ç”¨ä¸Šæ¬¡å†…å®¹ï¼‰...
-python scripts\fetch_news.py --quiet
-if errorlevel 1 echo       [æç¤º] æœ¬æ¬¡æŠ“å–æœªæˆåŠŸï¼Œå°†æ˜¾ç¤ºä¸Šä¸€æ¬¡ç”Ÿæˆçš„å†…å®¹ã€‚
+echo [1/3] ×¥È¡×îĞÂĞÂÎÅ£¨Ô¼ 5 Ãë£¬Ê§°ÜÔòÓÃÉÏ´ÎÄÚÈİ£©...
+"%PY%" scripts\fetch_news.py --quiet
+if errorlevel 1 echo       ±¾´Î×¥È¡Î´³É¹¦£¬½«ÏÔÊ¾ÉÏÒ»´ÎÉú³ÉµÄÄÚÈİ¡£
 
-echo [2/3] å–æœ¬æœºå±€åŸŸç½‘åœ°å€...
-for /f "delims=" %%i in ('python scripts\lan_ip.py 2^>nul') do set "LANIP=%%i"
+echo [2/3] È¡±¾»ú¾ÖÓòÍøµØÖ·...
+set "TMPF=%TEMP%\codex-news-lanip.txt"
+del "%TMPF%" >nul 2>&1
+"%PY%" scripts\lan_ip.py >"%TMPF%" 2>nul
+set "LANIP="
+if exist "%TMPF%" for /f "usebackq delims=" %%i in ("%TMPF%") do set "LANIP=%%i"
 
-echo [3/3] å¯åŠ¨ç½‘ç«™æœåŠ¡...
+echo [3/3] Æô¶¯ÍøÕ¾·şÎñ...
 echo.
-echo    ç”µè„‘ä¸Šæ‰“å¼€ï¼š  http://localhost:8080
-if defined LANIP echo    æ‰‹æœºä¸Šæ‰“å¼€ï¼š  http://!LANIP!:8080  ï¼ˆéœ€åŒä¸€ WiFiï¼‰
+echo    µçÄÔÉÏ´ò¿ª£º  http://localhost:8080
+if defined LANIP echo    ÊÖ»úÉÏ´ò¿ª£º  http://!LANIP!:8080   £¨ÊÖ»úÒªºÍµçÄÔÔÚÍ¬Ò»¸ö WiFi£©
 echo.
-echo    è¿™ä¸ªçª—å£ä¸è¦å…³ï¼Œå…³æ‰ç½‘ç«™å°±åœäº†ã€‚æŒ‰ Ctrl+C å¯åœæ­¢ã€‚
+echo    Õâ¸ö´°¿Ú²»Òª¹Ø£¬¹ØµôÍøÕ¾¾ÍÍ£ÁË¡£°´ Ctrl+C ¿ÉÒÔÍ£Ö¹¡£
 echo ============================================
 echo.
 
 start "" "http://localhost:8080/"
-python -m http.server 8080 --bind 0.0.0.0 --directory site
+"%PY%" -m http.server 8080 --bind 0.0.0.0 --directory site
 
 echo.
-echo ç½‘ç«™å·²åœæ­¢ã€‚
+echo ÍøÕ¾ÒÑÍ£Ö¹¡£
 pause

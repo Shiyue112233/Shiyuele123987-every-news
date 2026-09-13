@@ -1,99 +1,103 @@
 @echo off
-chcp 65001 >nul
 setlocal enabledelayedexpansion
+title ����ÿ�ռ򱨵� GitHub Pages
 cd /d "%~dp0"
 
-rem -c safe.directory=* ：绕开「目录属于沙箱账号」导致的 dubious ownership 报错
-set "GITC=git -c safe.directory=*"
-
 echo ============================================================
-echo   把「每日简报」发布到 GitHub Pages（手机可看）
+echo   �ѡ�ÿ�ռ򱨡������� GitHub Pages���ֻ��ɿ���
 echo ============================================================
 echo.
 
-where git >nul 2>&1
-if errorlevel 1 (
-  echo [错误] 没找到 git。请先安装 Git for Windows：https://git-scm.com/download/win
+rem ---------- �� git.exe��PATH ��û�о��ó�����װλ�ã��ٲ����� Codex ��������ʱ ----------
+set "GITEXE="
+for %%g in (git.exe) do if not defined GITEXE if exist "%%~$PATH:g" set "GITEXE=%%~$PATH:g"
+if not defined GITEXE if exist "%ProgramFiles%\Git\cmd\git.exe" set "GITEXE=%ProgramFiles%\Git\cmd\git.exe"
+if not defined GITEXE if exist "%ProgramFiles(x86)%\Git\cmd\git.exe" set "GITEXE=%ProgramFiles(x86)%\Git\cmd\git.exe"
+if not defined GITEXE if exist "%LOCALAPPDATA%\Programs\Git\cmd\git.exe" set "GITEXE=%LOCALAPPDATA%\Programs\Git\cmd\git.exe"
+if not defined GITEXE for /d %%d in ("%USERPROFILE%\.cache\codex-runtimes\*") do if not defined GITEXE if exist "%%~fd\dependencies\native\git\cmd\git.exe" set "GITEXE=%%~fd\dependencies\native\git\cmd\git.exe"
+if not defined GITEXE (
+  echo [����] �Ҳ��� git.exe��
+  echo        ���Ȱ�װ Git for Windows: https://git-scm.com/download/win
   echo.
   pause
   exit /b 1
 )
+echo ʹ�� git: %GITEXE%
+echo.
 
-if not exist ".github\workflows\daily.yml" (
-  echo [警告] 没找到 .github\workflows\daily.yml
-  echo         没有它就不会每天自动更新，请确认文件夹完整（含隐藏的 .github）。
-  echo.
-)
+rem ---------- �� python.exe���Ҳ���������ץȡ�����������ݷ�����----------
+set "PY="
+for %%p in (python.exe) do if not defined PY if exist "%%~$PATH:p" set "PY=%%~$PATH:p"
+if not defined PY if exist "%LOCALAPPDATA%\Programs\Python\Python313\python.exe" set "PY=%LOCALAPPDATA%\Programs\Python\Python313\python.exe"
+if not defined PY for /d %%d in ("%LOCALAPPDATA%\Programs\Python\Python*") do if not defined PY if exist "%%~fd\python.exe" set "PY=%%~fd\python.exe"
 
-echo [1/6] 抓取最新内容（约 5 秒）...
-where python >nul 2>&1
-if not errorlevel 1 (
-  python scripts\fetch_news.py --quiet
-  if errorlevel 1 echo       [提示] 本次抓取未成功，会用现有内容发布。
+echo [1/6] ץȡ��������...
+if defined PY (
+  "%PY%" scripts\fetch_news.py --quiet
+  if errorlevel 1 echo       ����ץȡδ�ɹ��������������ݷ�����
 ) else (
-  echo       [提示] 未找到 python，跳过抓取，直接发布现有内容。
+  echo       δ�ҵ� python������ץȡ��ֱ�ӷ����������ݡ�
 )
 
-echo [2/6] 处理 Git 目录所有权...
-git config --global --add safe.directory "%CD%" >nul 2>&1
-%GITC% config core.autocrlf false >nul 2>&1
+echo [2/6] ����Ŀ¼����Ȩ...
+"%GITEXE%" config --global --add safe.directory "%CD%" >nul 2>&1
+"%GITEXE%" -c safe.directory=* config core.autocrlf false >nul 2>&1
 
-echo [3/6] 准备仓库...
+echo [3/6] ׼���ֿ�...
 if exist ".git" (
-  echo       已有仓库，跳过初始化。
+  echo       ���вֿ⣬������ʼ����
 ) else (
-  %GITC% init -b main >nul
-  echo       已初始化。
+  "%GITEXE%" -c safe.directory=* init -b main >nul
+  echo       �ѳ�ʼ����
 )
-%GITC% config user.name "daily-brief" >nul 2>&1
-%GITC% config user.email "daily-brief@users.noreply.github.com" >nul 2>&1
+"%GITEXE%" -c safe.directory=* config user.name "daily-brief" >nul 2>&1
+"%GITEXE%" -c safe.directory=* config user.email "daily-brief@users.noreply.github.com" >nul 2>&1
 
-echo [4/6] 提交内容...
-%GITC% add -A
-%GITC% diff --cached --quiet
+echo [4/6] �ύ����...
+"%GITEXE%" -c safe.directory=* add -A
+"%GITEXE%" -c safe.directory=* diff --cached --quiet
 if errorlevel 1 (
-  %GITC% commit -q -m "更新简报 %date%"
-  echo       已提交。
+  "%GITEXE%" -c safe.directory=* commit -q -m "���¼� %date%"
+  echo       ���ύ��
 ) else (
-  echo       没有新变化。
+  echo       û���±仯��
 )
 
 echo.
-echo [5/6] 远程仓库地址
+echo [5/6] Զ�ֿ̲��ַ
+set "TMPF=%TEMP%\codex-news-remote.txt"
+del "%TMPF%" >nul 2>&1
+"%GITEXE%" -c safe.directory=* remote get-url origin >"%TMPF%" 2>nul
 set "CUR="
-for /f "delims=" %%i in ('%GITC% remote get-url origin 2^>nul') do set "CUR=%%i"
-if defined CUR echo       当前：!CUR!
-echo       例：https://github.com/yourname/daily-brief.git
+if exist "%TMPF%" for /f "usebackq delims=" %%i in ("%TMPF%") do set "CUR=%%i"
+if defined CUR echo       ��ǰ��!CUR!
 set "REPO_URL="
-set /p "REPO_URL=请粘贴 GitHub 仓库地址后回车（直接回车=用当前地址）："
-if "!REPO_URL!"=="" (
-  if defined CUR (
-    set "REPO_URL=!CUR!"
-  ) else (
-    echo [错误] 没有地址，无法推送。请先到 GitHub 新建一个空仓库再把地址粘进来。
-    echo.
-    pause
-    exit /b 1
-  )
+set /p "REPO_URL= ֱ�ӻس��õ�ǰ��ַ����ճ���µ�ַ��س���"
+if not defined REPO_URL set "REPO_URL=!CUR!"
+if not defined REPO_URL (
+  echo [����] û�вֿ��ַ�����ȵ� GitHub �½�һ���ղֿ⣬�ٰѵ�ַճ������
+  echo.
+  pause
+  exit /b 1
 )
 
-%GITC% remote get-url origin >nul 2>&1
+"%GITEXE%" -c safe.directory=* remote get-url origin >nul 2>&1
 if errorlevel 1 (
-  %GITC% remote add origin "!REPO_URL!"
+  "%GITEXE%" -c safe.directory=* remote add origin "!REPO_URL!"
 ) else (
-  %GITC% remote set-url origin "!REPO_URL!"
+  "%GITEXE%" -c safe.directory=* remote set-url origin "!REPO_URL!"
 )
 
 echo.
-echo [6/6] 推送到 GitHub（首次会弹浏览器让你登录，登录一次即可）
+echo [6/6] ��ʼ���ͣ��״λᵯ������������¼ GitHub����ͬ�⼴�ɣ�
 echo.
-%GITC% push -u origin main
+"%GITEXE%" -c safe.directory=* push -u origin main
 if errorlevel 1 (
   echo.
-  echo [失败] 常见原因：
-  echo    1^) 仓库地址粘贴错了；
-  echo    2^) 没登录 GitHub —— 重跑本脚本，按弹出的窗口完成授权；
-  echo    3^) 仓库不是空的 —— 新建仓库时不要勾 README / .gitignore / license。
+  echo [ʧ��] ����ԭ��
+  echo    1^) �ֿ��ַճ������
+  echo    2^) �������Ȩû��� ���� ���ܱ��ű�����������ͬ��
+  echo    3^) �ֿⲻ�ǿյ� ���� �½��ֿ�ʱ��Ҫ�� README / .gitignore / license
   echo.
   pause
   exit /b 1
@@ -101,17 +105,14 @@ if errorlevel 1 (
 
 echo.
 echo ============================================================
-echo   推送完成！
+echo   ������ɣ�
 echo ============================================================
 echo.
-echo   还差最后一步（只需做一次）：
-echo     1. 打开你的仓库页面 -^> Settings -^> 左侧 Pages
-echo     2. Source 选 "GitHub Actions"，保存
-echo     3. 顶部 Actions -^> 选「每日更新简报」-^> Run workflow 手动跑一次
-echo     4. 等 1 分钟，网址就固定为：
-echo        https://你的用户名.github.io/仓库名/
+echo   ���������ֻ����һ�Σ���
+echo     1. �򿪲ֿ�ҳ�� -^> Settings -^> ��� Pages
+echo        Build and deployment -^> Source ѡ "GitHub Actions"
+echo     2. �򿪲ֿ� Actions ҳ -^> ÿ�ո��¼� -^> Run workflow
 echo.
-echo   之后每天北京时间 06:30 云端自动抓取 + 自动发布，手机上收藏那个网址即可。
+echo   ֮��ÿ�챱��ʱ�� 06:30 �ƶ��Զ����¡�
 echo.
-start "" "https://github.com"
 pause
