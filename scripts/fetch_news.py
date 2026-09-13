@@ -67,12 +67,22 @@ class Item:
     published: datetime | None = None
     abstract: str = ""
     weight: int = 5
+    tier: int = 2
+    domain: str = ""
+    also: list[str] = field(default_factory=list)
+    peer_ids: list[int] = field(default_factory=list)
     extra: dict = field(default_factory=dict)
 
     @property
     def sort_key(self) -> tuple:
         ts = self.published.timestamp() if self.published else 0
-        return (self.weight, ts)
+        # 多家来源互证过的条目小幅加权（真实性/重要性信号）
+        score = self.weight + (1 if self.also else 0)
+        return (score, -self.tier, ts)
+
+    @property
+    def source_count(self) -> int:
+        return len({self.source} | set(self.also))
 
 
 # ---------------------------------------------------------------- 文本工具
@@ -189,7 +199,8 @@ def tag_attr(block: str, name: str, attr: str) -> str:
     return html_mod.unescape(m.group(1)) if m else ""
 
 
-def parse_feed(text: str, name: str, category: str, weight: int) -> list[Item]:
+def parse_feed(text: str, name: str, category: str, weight: int,
+               tier: int = 2, domain: str = "") -> list[Item]:
     out: list[Item] = []
     for m in ITEM_RE.finditer(text):
         block = m.group(2)
@@ -207,7 +218,8 @@ def parse_feed(text: str, name: str, category: str, weight: int) -> list[Item]:
         abstract = tag_value(block, "description", "summary", "content")
         abstract = re.sub(r"\s+", " ", abstract)[:160]
         out.append(Item(title=title, link=link, source=name, category=category,
-                        published=published, abstract=abstract, weight=weight))
+                        published=published, abstract=abstract, weight=weight,
+                        tier=tier, domain=domain))
     return out
 
 
@@ -220,7 +232,11 @@ def gather(sources: list[dict]) -> tuple[list[Item], list[str], list[str]]:
         try:
             raw = fetch(src["url"])
             text = decode(raw)
-            got = parse_feed(text, src["name"], src["category"], int(src.get("weight", 5)))
+            host = (urllib.parse.urlparse(src["url"]).hostname or "").lower()
+            if host.startswith("www."):
+                host = host[4:]
+            got = parse_feed(text, src["name"], src["category"],
+                             int(src.get("weight", 5)), int(src.get("tier", 2)), host)
             return src, got, None
         except Exception as exc:  # noqa: BLE001
             return src, [], f"{type(exc).__name__}: {exc}"
@@ -235,6 +251,70 @@ def gather(sources: list[dict]) -> tuple[list[Item], list[str], list[str]]:
     return items, ok, bad
 
 
+def mark_corroboration(items: list[Item]) -> None:
+    """
+    跨来源互证：同一事件被「不同域名」的多家媒体报道时，给这些条目打上 also 标记。
+    页面会显示「多源 ×N」，排序时也小幅加权——这是本站在没法人工核实时的真实性信号。
+    中文按「标题二元组」比，英文按「实词集合」比，避免两种语言互相误配。
+    """
+    zh: list[tuple[int, set[str]]] = []
+    en: list[tuple[int, set[str]]] = []
+    for idx, it in enumerate(items):
+        key = norm_key(it.title)
+        if len(key) >= 8 and _cjk_ratio(key) > 0.5:
+            zh.append((idx, {key[p:p + 2] for p in range(len(key) - 1)}))
+        else:
+            toks = latin_tokens(it.title)
+            if len(toks) >= 3:
+                en.append((idx, toks))
+
+    def pair_up(bucket: list[tuple[int, set[str]]], need: int, ratio: float) -> None:
+        for x in range(len(bucket)):
+            i, gi = bucket[x]
+            for y in range(x + 1, len(bucket)):
+                j, gj = bucket[y]
+                a, b = items[i], items[j]
+                if not a.domain or a.domain == b.domain:
+                    continue
+                inter = len(gi & gj)
+                if inter >= need and inter / max(1, min(len(gi), len(gj))) >= ratio:
+                    _link_peers(a, b)
+
+    pair_up(zh, 6, 0.45)   # 中文：6 个以上共同二字词，且占比够高
+    pair_up(en, 3, 0.45)   # 英文：3 个以上共同实词
+
+
+def _cjk_ratio(s: str) -> float:
+    if not s:
+        return 0.0
+    n = sum(1 for ch in s if "\u4e00" <= ch <= "\u9fff")
+    return n / len(s)
+
+
+STOPWORDS = {
+    "the", "a", "an", "of", "and", "or", "for", "to", "in", "on", "at", "is", "are",
+    "was", "were", "be", "been", "with", "from", "by", "as", "it", "its", "this",
+    "that", "these", "those", "new", "says", "say", "said", "after", "over", "into",
+    "about", "how", "why", "what", "who", "when", "where", "will", "would", "could",
+    "can", "may", "not", "no", "up", "down", "out", "but", "more", "most", "than",
+    "then", "also", "has", "have", "had", "you", "your", "we", "our", "they", "their",
+    "he", "she", "his", "her", "me", "us", "them", "here", "there", "one", "two",
+}
+
+
+def latin_tokens(title: str) -> set[str]:
+    """取英文标题里的实词（3 字母以上、去停用词）。"""
+    return {t for t in re.findall(r"[A-Za-z0-9]{3,}", (title or "").lower())
+            if t not in STOPWORDS}
+
+
+def _link_peers(a: Item, b: Item) -> None:
+    a.also.append(b.source)
+    b.also.append(a.source)
+    a.peer_ids.append(id(b))
+    b.peer_ids.append(id(a))
+
+
 # ---------------------------------------------------------------- 挑选
 def pick(items: list[Item], quotas: dict, limit: int, now: datetime) -> list[Item]:
     fresh_cut = now - timedelta(hours=48)
@@ -243,8 +323,13 @@ def pick(items: list[Item], quotas: dict, limit: int, now: datetime) -> list[Ite
     def is_fresh(it: Item) -> bool:
         return bool(it.published and it.published >= fresh_cut)
 
+    def three_grams(s: str) -> set[str]:
+        return {s[i:i + 3] for i in range(len(s) - 2)} if len(s) >= 3 else set()
+
     seen_titles: list[str] = []
+    seen_grams: list[set[str]] = []
     seen_links: set[str] = set()
+    chosen_ids: set[int] = set()
 
     def accept(it: Item) -> bool:
         if not it.title or not it.link:
@@ -252,14 +337,24 @@ def pick(items: list[Item], quotas: dict, limit: int, now: datetime) -> list[Ite
         key = norm_key(it.title)
         if not key:
             return False
-        if any(key[:14] == s[:14] for s in seen_titles):
-            return False
-        if any(similar(key, s) > 0.82 for s in seen_titles if len(s) > 10):
-            return False
         if it.link in seen_links:
             return False
+        # 同一事件已经收录过一条（多源互证过的同伴），就不重复占位
+        if any(pid in chosen_ids for pid in it.peer_ids):
+            return False
+        grams = three_grams(key)
+        for s, g in zip(seen_titles, seen_grams):
+            if key[:14] == s[:14]:
+                return False
+            if len(s) > 10 and similar(key, s) > 0.82:
+                return False
+            # 同一事件被不同媒体改写标题：共享三元组足够多也算重复
+            if similar(key, s) > 0.72:
+                return False
         seen_titles.append(key)
+        seen_grams.append(grams)
         seen_links.add(it.link)
+        chosen_ids.add(id(it))
         return True
 
     pool = sorted(items, key=lambda x: x.sort_key, reverse=True)
@@ -335,7 +430,7 @@ def rel_time(dt: datetime | None, now: datetime) -> str:
     return dt.strftime("%m-%d %H:%M")
 
 
-CAT_ORDER = ["要闻", "国际", "财经", "科技", "AI", "社会", "教育", "商业", "体育"]
+CAT_ORDER = ["要闻", "国际", "财经", "科技", "AI", "科学", "社会", "教育", "体育", "商业"]
 
 
 def render_daily(template: str, chosen: list[Item], meta: dict, prefix: str,
@@ -355,11 +450,19 @@ def render_daily(template: str, chosen: list[Item], meta: dict, prefix: str,
             ts = rel_time(it.published, now)
             abs_time = it.published.strftime("%m-%d %H:%M") if it.published else ""
             abstract = f'<div class="abstract">{esc(it.abstract)}</div>' if len(it.abstract) > 30 else ""
+            peers = sorted({it.source} | set(it.also))
+            multi = ""
+            if len(peers) > 1:
+                other = sorted(set(it.also))
+                tip = "、".join(other[:5]) + ("…" if len(other) > 5 else "")
+                multi = (f'<span class="chip multi" title="另有多家来源报道：{esc(tip)}">'
+                         f'多源 ×{len(peers)}</span>')
             lis.append(
                 '<li>'
                 f'<a class="title" href="{esc(safe_link(it.link))}" target="_blank" rel="noopener">{esc(it.title)}</a>'
                 f'{abstract}'
                 f'<div class="meta"><span class="chip">{esc(it.source)}</span>'
+                f'{multi}'
                 f'<span title="{esc(abs_time)}">{esc(ts)}</span></div>'
                 '</li>'
             )
@@ -502,7 +605,9 @@ def issue_to_items(issue: dict) -> list[Item]:
     for x in issue.get("items", []):
         it = Item(title=x.get("title", ""), link=x.get("link", ""),
                   source=x.get("source", ""), category=x.get("category", "要闻"),
-                  abstract=x.get("abstract", ""), weight=5)
+                  abstract=x.get("abstract", ""), weight=5,
+                  tier=int(x.get("tier", 2) or 2),
+                  also=list(x.get("also", []) or []))
         if x.get("published"):
             try:
                 it.published = datetime.fromisoformat(x["published"])
@@ -579,6 +684,7 @@ def main(argv: list[str] | None = None) -> int:
     tools = json.loads((DATA / "tools.json").read_text(encoding="utf-8"))["tools"]
 
     items, ok, bad = gather(src_conf["sources"])
+    mark_corroboration(items)
     chosen = pick(items, src_conf["分类配额"], args.limit, now)
 
     idx = daily_index(now)
@@ -600,6 +706,8 @@ def main(argv: list[str] | None = None) -> int:
                 "category": it.category,
                 "published": it.published.isoformat() if it.published else None,
                 "abstract": it.abstract,
+                "tier": it.tier,
+                "also": sorted(set(it.also)),
             } for it in chosen
         ],
     }

@@ -1,31 +1,55 @@
 {
-  "说明": "新闻源清单。name=展示名；category=归类；url=抓取地址；weight=排序权重(越大越优先)。可自行增删。",
-  "note": "本环境 HTTPS 被拦截，只有 http:// 源可用。加入 https 源不会报错，但会连不上并从统计中标注为失败。",
-  "sources": [
-    { "name": "中新网·滚动", "category": "要闻", "url": "http://www.chinanews.com.cn/rss/scroll-news.xml", "weight": 10 },
-    { "name": "中新网·国际", "category": "国际", "url": "http://www.chinanews.com.cn/rss/importnews.xml", "weight": 9 },
-    { "name": "中新网·社会", "category": "社会", "url": "http://www.chinanews.com.cn/rss/society.xml", "weight": 7 },
-    { "name": "中新网·财经", "category": "财经", "url": "http://www.chinanews.com.cn/rss/finance.xml", "weight": 9 },
-    { "name": "中新网·教育", "category": "教育", "url": "http://www.chinanews.com.cn/rss/edu.xml", "weight": 6 },
-    { "name": "中新网·体育", "category": "体育", "url": "http://www.chinanews.com.cn/rss/sports.xml", "weight": 6 },
-    { "name": "东方财富", "category": "财经", "url": "http://rss.eastmoney.com/rss_partener.xml", "weight": 8 },
-    { "name": "ZOL 科技", "category": "科技", "url": "http://rss.zol.com.cn/news.xml", "weight": 7 },
-    { "name": "Solidot 奇客", "category": "科技", "url": "http://www.solidot.org/index.rss", "weight": 9 },
-    { "name": "开源中国", "category": "科技", "url": "http://www.oschina.net/news/rss", "weight": 7 },
-    { "name": "少数派", "category": "科技", "url": "http://sspai.com/feed", "weight": 7 },
-    { "name": "极客公园", "category": "科技", "url": "http://www.geekpark.net/rss", "weight": 8 },
-    { "name": "量子位", "category": "AI", "url": "http://www.qbitai.com/feed", "weight": 9 },
-    { "name": "创业邦", "category": "商业", "url": "http://www.cyzone.cn/rss/", "weight": 7 }
-  ],
+  "说明": "新闻源清单。name=展示名；category=归类；url=抓取地址；weight=排序权重(0-10，越大越优先)；tier=来源等级(1=权威通讯社/央媒，2=主流专业媒体，3=行业社区，用于同权重时的排序偏好)；lang=语言；region=cn/intl。可自行增删。",
+  "note": "抓取失败的源不会影响出报，只会在每期页脚的「抓取状态」里列出。BBC/Guardian/NYT/DW/Al Jazeera 在中国大陆网络下通常不可达，但 GitHub Actions 的云端服务器可以正常抓取——所以云端那期国际内容更全，本机跑则自动退化为中文源为主。",
   "分类配额": {
     "要闻": 3,
-    "国际": 2,
+    "国际": 4,
     "财经": 3,
-    "科技": 4,
+    "科技": 3,
     "AI": 2,
+    "科学": 2,
     "社会": 1,
     "教育": 1,
-    "商业": 1,
-    "体育": 1
-  }
+    "体育": 1,
+    "商业": 1
+  },
+  "sources": [
+    { "name": "中新网·滚动", "category": "要闻", "url": "http://www.chinanews.com.cn/rss/scroll-news.xml", "weight": 10, "tier": 1, "lang": "zh", "region": "cn" },
+    { "name": "中新网·国际", "category": "国际", "url": "http://www.chinanews.com.cn/rss/importnews.xml", "weight": 9, "tier": 1, "lang": "zh", "region": "cn" },
+    { "name": "中新网·财经", "category": "财经", "url": "http://www.chinanews.com.cn/rss/finance.xml", "weight": 9, "tier": 1, "lang": "zh", "region": "cn" },
+    { "name": "中新网·社会", "category": "社会", "url": "http://www.chinanews.com.cn/rss/society.xml", "weight": 7, "tier": 1, "lang": "zh", "region": "cn" },
+    { "name": "中新网·教育", "category": "教育", "url": "http://www.chinanews.com.cn/rss/edu.xml", "weight": 7, "tier": 1, "lang": "zh", "region": "cn" },
+    { "name": "中新网·体育", "category": "体育", "url": "http://www.chinanews.com.cn/rss/sports.xml", "weight": 7, "tier": 1, "lang": "zh", "region": "cn" },
+
+    { "name": "界面新闻", "category": "财经", "url": "https://a.jiemian.com/index.php?m=article&a=rss", "weight": 8, "tier": 2, "lang": "zh", "region": "cn" },
+    { "name": "东方财富", "category": "财经", "url": "http://rss.eastmoney.com/rss_partener.xml", "weight": 7, "tier": 2, "lang": "zh", "region": "cn" },
+    { "name": "创业邦", "category": "商业", "url": "http://www.cyzone.cn/rss/", "weight": 6, "tier": 2, "lang": "zh", "region": "cn" },
+
+    { "name": "Solidot 奇客", "category": "科技", "url": "http://www.solidot.org/index.rss", "weight": 9, "tier": 2, "lang": "zh", "region": "cn" },
+    { "name": "极客公园", "category": "科技", "url": "http://www.geekpark.net/rss", "weight": 8, "tier": 2, "lang": "zh", "region": "cn" },
+    { "name": "少数派", "category": "科技", "url": "https://sspai.com/feed", "weight": 7, "tier": 2, "lang": "zh", "region": "cn" },
+    { "name": "开源中国", "category": "科技", "url": "http://www.oschina.net/news/rss", "weight": 6, "tier": 3, "lang": "zh", "region": "cn" },
+    { "name": "ZOL 科技", "category": "科技", "url": "http://rss.zol.com.cn/news.xml", "weight": 5, "tier": 3, "lang": "zh", "region": "cn" },
+    { "name": "量子位", "category": "AI", "url": "http://www.qbitai.com/feed", "weight": 9, "tier": 2, "lang": "zh", "region": "cn" },
+
+    { "name": "BBC World", "category": "国际", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "weight": 10, "tier": 1, "lang": "en", "region": "intl" },
+    { "name": "BBC Business", "category": "财经", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "weight": 9, "tier": 1, "lang": "en", "region": "intl" },
+    { "name": "BBC Tech", "category": "科技", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "weight": 9, "tier": 1, "lang": "en", "region": "intl" },
+    { "name": "The Guardian·World", "category": "国际", "url": "https://www.theguardian.com/world/rss", "weight": 9, "tier": 1, "lang": "en", "region": "intl" },
+    { "name": "纽约时报·国际", "category": "国际", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "weight": 9, "tier": 1, "lang": "en", "region": "intl" },
+    { "name": "DW 中文", "category": "国际", "url": "https://rss.dw.com/rdf/rss-chi-all", "weight": 8, "tier": 1, "lang": "zh", "region": "intl" },
+    { "name": "Al Jazeera", "category": "国际", "url": "https://www.aljazeera.com/xml/rss/all.xml", "weight": 8, "tier": 2, "lang": "en", "region": "intl" },
+    { "name": "France24", "category": "国际", "url": "https://www.france24.com/en/rss", "weight": 8, "tier": 2, "lang": "en", "region": "intl" },
+    { "name": "NPR World", "category": "国际", "url": "https://feeds.npr.org/1004/rss.xml", "weight": 7, "tier": 2, "lang": "en", "region": "intl" },
+
+    { "name": "Ars Technica", "category": "科技", "url": "https://feeds.arstechnica.com/arstechnica/index", "weight": 8, "tier": 2, "lang": "en", "region": "intl" },
+    { "name": "The Verge", "category": "科技", "url": "https://www.theverge.com/rss/index.xml", "weight": 8, "tier": 2, "lang": "en", "region": "intl" },
+    { "name": "TechCrunch", "category": "科技", "url": "https://techcrunch.com/feed/", "weight": 7, "tier": 2, "lang": "en", "region": "intl" },
+    { "name": "MIT Tech Review", "category": "科技", "url": "https://www.technologyreview.com/feed/", "weight": 8, "tier": 2, "lang": "en", "region": "intl" },
+
+    { "name": "Nature", "category": "科学", "url": "https://www.nature.com/nature.rss", "weight": 10, "tier": 1, "lang": "en", "region": "intl" },
+    { "name": "IEEE Spectrum", "category": "科学", "url": "https://spectrum.ieee.org/feeds/feed.rss", "weight": 8, "tier": 2, "lang": "en", "region": "intl" },
+    { "name": "Phys.org", "category": "科学", "url": "https://phys.org/rss-feed/", "weight": 7, "tier": 2, "lang": "en", "region": "intl" },
+    { "name": "ScienceDaily", "category": "科学", "url": "https://www.sciencedaily.com/rss/all.xml", "weight": 6, "tier": 3, "lang": "en", "region": "intl" }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T20:58:45.680915+08:00",
+  "generated_at": "2026-09-13T21:58:33.438480+08:00",
   "count": 20,
   "quote": {
     "text": "别急着反驳，先确认你们说的是不是同一件事。",
@@ -15,53 +15,72 @@
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
-    "中新网·社会 30条",
     "中新网·财经 30条",
+    "中新网·社会 30条",
     "中新网·教育 30条",
-    "中新网·体育 30条"
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 94条",
+    "创业邦 30条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
   ],
   "sources_failed": [
-    "东方财富(HTTPError: HTTP Error 500: Internal Privoxy Error)",
-    "ZOL 科技(HTTPError: HTTP Error 500: Internal Privoxy Error)",
-    "Solidot 奇客(HTTPError: HTTP Error 500: Internal Privoxy Error)",
-    "开源中国(HTTPError: HTTP Error 500: Internal Privoxy Error)",
-    "少数派(HTTPError: HTTP Error 500: Internal Privoxy Error)",
-    "极客公园(HTTPError: HTTP Error 500: Internal Privoxy Error)",
-    "量子位(HTTPError: HTTP Error 500: Internal Privoxy Error)",
-    "创业邦(HTTPError: HTTP Error 500: Internal Privoxy Error)"
+    "BBC World(URLError: <urlopen error timed out>)",
+    "BBC Business(URLError: <urlopen error timed out>)",
+    "BBC Tech(URLError: <urlopen error timed out>)",
+    "The Guardian·World(URLError: <urlopen error timed out>)",
+    "纽约时报·国际(URLError: <urlopen error timed out>)",
+    "DW 中文(URLError: <urlopen error timed out>)",
+    "Al Jazeera(URLError: <urlopen error timed out>)"
   ],
   "items": [
     {
-      "title": "两大足球公益项目在江西定南启动",
-      "link": "https://www.chinanews.com.cn/ty/2026/09-13/10695815.shtml",
+      "title": "习近平结束出席金砖国家领导人第十八次会晤回到北京",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-13/10695840.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-09-13T20:55:25+08:00",
-      "abstract": "中新网赣州9月13日电 “定南足球发展公益项目”合作签约仪式暨“数选未来”青少年足球公益项目启动仪式13日在江西省赣州市定南(国家)青少年足球训练中心举行。"
+      "published": "2026-09-13T21:34:37+08:00",
+      "abstract": "新华社北京9月13日电 9月13日晚，国家主席习近平圆满结束出席金砖国家领导人第十八次会晤回到北京。",
+      "tier": 1,
+      "also": [
+        "东方财富",
+        "界面新闻"
+      ]
     },
     {
-      "title": "“八十一弯”成往事：渭源养路人50载接力护坦途",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-13/10695814.shtml",
+      "title": "习言道｜金砖峰会，习近平为何强调“坚定站在历史正确一边”",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-13/10695841.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-09-13T20:50:44+08:00",
-      "abstract": "中新网兰州9月13日电 (戴文昌 马富 平王庆)初秋时节，甘肃定西市渭源县山林间，新农人满载大豆驱车行驶在平整沥青路上，车轮碾过路面，笑声散落村落。脚下这条国道，曾是民谣里“海拔三千三，离天三尺三”的险峻盘山路。五十载风雨坚守，一代代养路人接续护路，让昔日“八十一弯”成往事，天堑变坦途。"
+      "published": "2026-09-13T21:48:36+08:00",
+      "abstract": "中新网9月13日电 题：金砖峰会，习近平为何强调“坚定站在历史正确一边”",
+      "tier": 1,
+      "also": []
     },
     {
-      "title": "受热带低压环流影响 广西部分海上航线及旅游项目暂停",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-13/10695813.shtml",
+      "title": "“读心”有术 “写脑”有方 安徽脑机接口产业加速落地",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-13/10695836.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-09-13T20:50:10+08:00",
-      "abstract": "中新社广西北海9月13日电 (陈秋霞)受南海热带低压外围环流影响，广西北部湾海域13日风浪加剧，部分沿海海上客运及旅游项目实施暂停运营。"
-    },
-    {
-      "title": "北京立法促进民族团结进步 以首善标准建设示范城市",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-13/10695800.shtml",
-      "source": "中新网·国际",
-      "category": "国际",
-      "published": "2026-09-13T20:39:02+08:00",
-      "abstract": "中新网北京9月13日电 (记者 陈杭)北京市第十六届人民代表大会常务委员会第二十六次会议近日通过《北京市人民代表大会常务委员会关于进一步促进民族团结进步的决定》(下称决定)。决定自公布之日起施行。"
+      "published": "2026-09-13T21:29:13+08:00",
+      "abstract": "中新社合肥9月13日电 (记者 张俊)安徽多家脑机接口项目团队近日接受中新社记者采访，探析脑机接口技术如何从实验室走向临床应用。",
+      "tier": 1,
+      "also": []
     },
     {
       "title": "官方通报菏泽古沉船考古疑似文物遗失：已组建联合调查组",
@@ -69,39 +88,159 @@
       "source": "中新网·国际",
       "category": "国际",
       "published": "2026-09-13T18:23:31+08:00",
-      "abstract": "中新网9月13日电 据“文旅山东”微信公众号消息，山东省文化和旅游厅(山东省文物局)9月13日发布情况通报称，近期，山东省文化和旅游厅接到群众反映菏泽元代古沉船考古发掘中疑似存在文物遗失问题的举报，立即开展核查督办。"
+      "abstract": "中新网9月13日电 据“文旅山东”微信公众号消息，山东省文化和旅游厅(山东省文物局)9月13日发布情况通报称，近期，山东省文化和旅游厅接到群众反映菏泽元代古沉船考古发掘中疑似存在文物遗失问题的举报，立即开展核查督办。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
     },
     {
-      "title": "广西平南三桥入选中国土木工程詹天佑奖",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-13/10695810.shtml",
+      "title": "Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea",
+      "link": "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
+      "source": "France24",
+      "category": "国际",
+      "published": "2026-09-13T04:51:50+08:00",
+      "abstract": "Saudi Arabia on Saturday shut down the vital East-West pipeline after the conduit came under attack in the widening Middle East war, threatening to send energy ",
+      "tier": 2,
+      "also": [
+        "NPR World"
+      ]
+    },
+    {
+      "title": "伊朗一商船在南部格什姆岛遭袭致1死3伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-13/10695678.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-09-13T17:12:23+08:00",
+      "abstract": "中新社北京9月13日电 德黑兰消息：当地时间9月13日，伊朗一艘商船在南部格什姆岛附近遭袭，造成1人死亡、3人受伤。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "Yemen: The Houthis test Iran's regional influence",
+      "link": "https://www.france24.com/en/video/20260913-yemen-the-houthis-test-iran-s-regional-influence",
+      "source": "France24",
+      "category": "国际",
+      "published": "2026-09-13T21:29:02+08:00",
+      "abstract": "Iran-backed Houthi attacks on Saudi Arabia have intensified as fighting spreads around the Bab el-Mandeb Strait, a vital chokepoint for global trade and oil shi",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "中国超级稻三十年暨种业高质量发展大会在沈阳举办",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-13/10695822.shtml",
       "source": "中新网·财经",
       "category": "财经",
-      "published": "2026-09-13T20:46:48+08:00",
-      "abstract": "中新网南宁9月13日电(张广权 陈佳洛)近日，第二十一届中国土木工程詹天佑奖评选结果正式公布，由广西交通投资集团投资建设并技术攻关的荔浦至玉林高速公路平南三桥入选获奖名单，斩获中国土木工程领域工程建设科技创新最高荣誉。"
+      "published": "2026-09-13T20:59:47+08:00",
+      "abstract": "中新网沈阳9月13日电 (王翕瞳)中国超级稻三十年暨种业高质量发展大会12日至14日在沈阳举行，大会主题为“锚定国家粮食安全，聚智种业创新发展”。",
+      "tier": 1,
+      "also": []
     },
     {
-      "title": "宁夏供销系统启动农业社会化服务提质增效行动",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-13/10695797.shtml",
+      "title": "数智赋能金融开放 服贸会搭建全球金融合作平台",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-13/10695820.shtml",
       "source": "中新网·财经",
       "category": "财经",
-      "published": "2026-09-13T20:38:48+08:00",
-      "abstract": "中新网银川9月13日电 (记者 于晶)13日，记者从宁夏供销合作社获悉，该单位印发《关于组织开展农业社会化服务提质增效行动的通知》，以建强服务载体、创新服务模式、完善数字支撑、强化要素保障为抓手，全面启动农业社会化服务提质增效行动，打通为农服务“最后一公里”，助力特色农业高质量发展。"
+      "published": "2026-09-13T20:58:53+08:00",
+      "abstract": "中新网北京9月13日电 (记者 杜燕)为期五天的2026年中国国际服务贸易交易会13日落下帷幕。作为服贸会九大专题之一，本届金融服务专题围绕“AI数智赋能”一条核心主线，聚焦科技金融、跨境金融两大展示方向，不仅吸引了来自20多个国家和地区的50家国际知名外资金融机构齐亮相，而且吸引了来自世界各地的观众看展、听会，构筑起",
+      "tier": 1,
+      "also": []
     },
     {
-      "title": "贵州酒商加速转型破圈 年轻化赛道激活酒业新消费",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-13/10695788.shtml",
-      "source": "中新网·财经",
+      "title": "十大机构论市：以史为鉴 美联储加息 A股如何走？",
+      "link": "http://finance.eastmoney.com/news/1345,202609133872841523.html",
+      "source": "东方财富",
       "category": "财经",
-      "published": "2026-09-13T20:18:09+08:00",
-      "abstract": "中新网贵阳9月13日电 题：贵州酒商加速转型破圈 年轻化赛道激活酒业新消费"
+      "published": "2026-09-13T17:00:22+08:00",
+      "abstract": "本周沪指下跌1.07%，深证成指下跌0.34%，创业板指上涨1.08%。下周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 国信策略：以史为鉴 美联储加息 A股如何走？ 美联储加息未必导致A股下跌，还需关注加息性质及国内变量的变化。美联储加息通过无风险利率、金融条件和美元流动性影响股票、债券、外汇与商",
+      "tier": 2,
+      "also": []
     },
     {
-      "title": "安全行水174天 宁夏引黄灌区2026年夏秋灌顺利收官",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-13/10695802.shtml",
+      "title": "暴雪宣布 FPS 版《星际争霸》",
+      "link": "https://www.solidot.org/story?sid=85362",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-09-13T11:10:07+08:00",
+      "abstract": "暴雪宣布了 FPS 版《星际争霸》，游戏仍然处于早期开发阶段，目标发售时间是在 2030 年。暴雪称，新作是一款开放世界、剧情驱动的科幻射击游戏，故事背景设定在《星际争霸 II》事件发生后数十年，是《星际争霸》宇宙中的一款全新作品。RTS 版《星际争霸》于 1998 年发布，2015 年发布了《星际争霸II》三部曲中的",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "source": "The Verge",
+      "category": "科技",
+      "published": "2026-09-12T17:16:28+08:00",
+      "abstract": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a va",
+      "tier": 2,
+      "also": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
+      "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-09-13T19:00:41+08:00",
+      "abstract": "The manufacturer has a service that lets owners repair their own equipment.",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+      "link": "https://www.qbitai.com/2026/09/488672.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-09-13T15:38:20+08:00",
+      "abstract": "亮源新创的Physical Al路线清晰了",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
+      "link": "https://www.qbitai.com/2026/09/488519.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-09-13T15:20:19+08:00",
+      "abstract": "出身寒微不是耻辱，放弃自己才是。",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Physicists turn classical light into a quantum machine for information processing",
+      "link": "https://phys.org/news/2026-09-physicists-classical-quantum-machine.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-09-12T18:00:01+08:00",
+      "abstract": "Quantum computers promise to tackle problems that are extraordinarily difficult for today's computers. But there is a major obstacle: quantum systems are notori",
+      "tier": 2,
+      "also": [
+        "ScienceDaily"
+      ]
+    },
+    {
+      "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
+      "link": "https://spectrum.ieee.org/ieee-to-reward-sections",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-09-12T02:00:02+08:00",
+      "abstract": "For this year’s IEEE annual election, the IEEE Tellers Committee will recognize the Sections with the highest voter turnout (based on total eligible voters) in ",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "（乡村行·看振兴）广西乡村秋种香葱忙 小葱成富民“金钥匙”",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-13/10695831.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-09-13T20:39:18+08:00",
-      "abstract": "中新网银川9月13日电 (记者 于晶)随着盐环定扬水系统最后一台机组平稳停运，9月13日，宁夏引黄灌区2026年夏秋灌工作圆满结束。自3月24日唐正闸开闸供水以来，灌区累计安全行水174天，引黄河水40.2亿立方米，全力保障近1000万亩农田灌溉，为宁夏夏秋粮稳产增收、“六特”产业高质量发展筑牢水安全屏障。"
+      "published": "2026-09-13T21:07:40+08:00",
+      "abstract": "中新网柳州9月13日电(韦莹芸 周晓玉)近日，在广西柳州市柳江区三都镇里贡村，村民们手持葱苗俯身定植、覆土稳苗、浇水定根，整套农事动作娴熟流畅，新栽的葱苗整齐排布、青翠鲜嫩，在暖阳映衬下焕发出勃勃生机。",
+      "tier": 1,
+      "also": []
     },
     {
       "title": "2026年宁夏青少年禁毒知识竞赛总决赛在银川举办",
@@ -109,87 +248,19 @@
       "source": "中新网·教育",
       "category": "教育",
       "published": "2026-09-13T20:58:17+08:00",
-      "abstract": "中新网银川9月13日电 (记者 杨迪)9月13日，2026年宁夏青少年禁毒知识竞赛总决赛在北方民族大学举办。来自宁夏五市选拔出的14支代表队、42名选手经过多轮激烈角逐，最终大武口区代表队斩获一等奖，同心县、永宁县获得二等奖，平罗县、金凤区、西吉县获三等奖，三名现场观众获得“个人答题王”奖励。"
+      "abstract": "中新网银川9月13日电 (记者 杨迪)9月13日，2026年宁夏青少年禁毒知识竞赛总决赛在北方民族大学举办。来自宁夏五市选拔出的14支代表队、42名选手经过多轮激烈角逐，最终大武口区代表队斩获一等奖，同心县、永宁县获得二等奖，平罗县、金凤区、西吉县获三等奖，三名现场观众获得“个人答题王”奖励。",
+      "tier": 1,
+      "also": []
     },
     {
-      "title": "山西繁峙：884名跑者滹沱河畔竞速 体育帮扶赋能县域发展",
-      "link": "https://www.chinanews.com.cn/ty/2026/09-13/10695811.shtml",
+      "title": "“奥跑中国”系列赛繁峙站开跑 800余选手角逐滹沱河畔",
+      "link": "https://www.chinanews.com.cn/ty/2026/09-13/10695827.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-09-13T20:47:14+08:00",
-      "abstract": "中新网忻州9月13日电 (杨静 钟昱星 刘珮琪)2026奥跑中国奥林匹克体育中心大众路跑全国系列赛·繁峙站13日在山西省忻州市繁峙县滹源景区环河道路鸣枪开赛。来自全国各地884名跑步爱好者齐聚滹沱河畔，在青山绿水间竞速奔跑。"
-    },
-    {
-      "title": "福建漳州举办台胞台属迎中秋、庆国庆活动",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-13/10695812.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-09-13T20:49:40+08:00",
-      "abstract": "中新网漳州9月13日电 (刘晨欣)12 日，福建漳州举办“侨批连两岸·家国共团圆”——在漳台胞台属迎中秋、庆国庆活动。在漳台胞、两岸婚姻家庭代表等近30人参会，活动旨为增进两岸亲情、促进漳台同胞心灵契合。"
-    },
-    {
-      "title": "中国驻泗水总领馆：印尼失联客轮上无中国公民",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-13/10695805.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-09-13T20:48:18+08:00",
-      "abstract": "中新网雅加达9月13日电 (记者 李志全)中国驻泗水总领馆13日发布消息，从泗水出发的一艘印尼失联客轮已确认沉没，船上无中国公民。"
-    },
-    {
-      "title": "印尼失联客轮确认倾覆 百余人仍下落不明",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-13/10695804.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-09-13T20:47:52+08:00",
-      "abstract": "中新社雅加达9月13日电 (记者 李志全)印度尼西亚一艘载有243人的客轮13日在爪哇海海域失联。印尼交通部门表示，已确认该船发生倾覆。目前事故造成6人遇难，仍有百余人失踪。"
-    },
-    {
-      "title": "“丝路书香·四海传福”图书巡回展亮相马尼拉国际书展",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-13/10695777.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-09-13T20:47:26+08:00",
-      "abstract": "中新网马尼拉9月13日电 2026年“丝路书香·四海传福”图书巡回展9日至13日在菲律宾帕赛市举行的第47届菲律宾马尼拉国际书展上亮相。"
-    },
-    {
-      "title": "中国驻杜塞尔多夫总领馆举行庆祝中华人民共和国成立77周年招待会",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-13/10695762.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-09-13T20:47:06+08:00",
-      "abstract": "中新网杜塞尔多夫9月13日电 (记者 马秀秀)中国驻杜塞尔多夫总领馆12日晚在杜塞尔多夫举行庆祝中华人民共和国成立77周年招待会暨杜塞尔多夫中国周开幕演出。州市代表，经济、教育、媒体、文化、体育界友好人士，北威州领团，华侨华人、中资机构和企业、留学人员代表等300余人出席。"
-    },
-    {
-      "title": "华侨大学开学 迎逾万名海内外新生",
-      "link": "https://www.chinanews.com.cn/edu/2026/09-13/10695809.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-09-13T20:46:24+08:00",
-      "abstract": "中新网泉州9月13日电 (记者 孙虹)华侨大学2026级新生开学典礼13日分别在福建泉州、厦门两校区举行，怀揣梦想的逾万名海内外新生于此踏上一段全新的旅程。"
-    },
-    {
-      "title": "《2026粤港澳大湾区青年歌会》播出 金志文等众歌手唱响湾区",
-      "link": "https://www.chinanews.com.cn/dwq/2026/09-13/10695807.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-09-13T20:45:54+08:00",
-      "abstract": "中新网广州9月13日电 (记者 程景伟)《追光吧 青春大湾区——2026粤港澳大湾区青年歌会》13日晚在广东卫视大小屏播出。金志文、许飞、崔子格、张星特等青年歌手艺人，用歌声演绎新时代湾区青年昂扬的精神风貌。"
-    },
-    {
-      "title": "重庆市政府办公厅副主任陶晓锋接受审查调查",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-13/10695808.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-09-13T20:44:28+08:00",
-      "abstract": "中新网9月13日电 据重庆市纪委监委消息：重庆市政府办公厅副主任陶晓锋涉嫌严重违纪违法，目前正接受重庆市纪委监委纪律审查和监察调查。"
-    },
-    {
-      "title": "湖南举办五彩湘茶斗茶大会 打造全民茶文化IP赛事",
-      "link": "https://www.chinanews.com.cn/cul/2026/09-13/10695803.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-09-13T20:39:42+08:00",
-      "abstract": "中新网长沙9月13日电(向一鹏 戚宁)12日至13日，2026第十八届湖南茶业博览会茶祖神农杯·五彩湘茶斗茶大会在长沙举行。"
+      "published": "2026-09-13T21:07:34+08:00",
+      "abstract": "中新网9月13日电 据活动主办方消息，9月13日上午，2026年“奥跑中国”大众路跑全国系列赛繁峙站在繁峙县滨河公园环河道路鸣枪开赛，来自全国各地的884名运动员齐聚滹沱河畔参与角逐。",
+      "tier": 1,
+      "also": []
     }
   ]
 }
