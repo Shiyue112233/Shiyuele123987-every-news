@@ -1,0 +1,62 @@
+# 每日自动更新「每日简报」并发布到 GitHub Pages
+# 用法：把本文件放到仓库的 .github/workflows/daily.yml
+# 前提：仓库根目录下就是「新闻日报」文件夹的内容（scripts/、data/、site/）
+
+name: 每日更新简报
+
+on:
+  schedule:
+    # GitHub 用的是 UTC。22:30 UTC = 北京时间次日 06:30
+    - cron: "30 22 * * *"
+  workflow_dispatch:        # 也可以在 Actions 页面手动点一下跑
+
+permissions:
+  contents: write           # 允许把新生成的内容提交回仓库
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 抓取并生成站点
+        run: python scripts/fetch_news.py --quiet
+
+      - name: 提交当天快照
+        run: |
+          git config user.name "daily-brief-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data site
+          git diff --staged --quiet || git commit -m "chore: 更新 $(date +'%Y-%m-%d') 简报"
+          git push
+
+      - name: 关闭 Jekyll 处理
+        run: touch site/.nojekyll
+
+      - name: 打包站点
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 发布到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

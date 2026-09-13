@@ -1,0 +1,31 @@
+{
+  "说明": "新闻源清单。name=展示名；category=归类；url=抓取地址；weight=排序权重(越大越优先)。可自行增删。",
+  "note": "本环境 HTTPS 被拦截，只有 http:// 源可用。加入 https 源不会报错，但会连不上并从统计中标注为失败。",
+  "sources": [
+    { "name": "中新网·滚动", "category": "要闻", "url": "http://www.chinanews.com.cn/rss/scroll-news.xml", "weight": 10 },
+    { "name": "中新网·国际", "category": "国际", "url": "http://www.chinanews.com.cn/rss/importnews.xml", "weight": 9 },
+    { "name": "中新网·社会", "category": "社会", "url": "http://www.chinanews.com.cn/rss/society.xml", "weight": 7 },
+    { "name": "中新网·财经", "category": "财经", "url": "http://www.chinanews.com.cn/rss/finance.xml", "weight": 9 },
+    { "name": "中新网·教育", "category": "教育", "url": "http://www.chinanews.com.cn/rss/edu.xml", "weight": 6 },
+    { "name": "中新网·体育", "category": "体育", "url": "http://www.chinanews.com.cn/rss/sports.xml", "weight": 6 },
+    { "name": "东方财富", "category": "财经", "url": "http://rss.eastmoney.com/rss_partener.xml", "weight": 8 },
+    { "name": "ZOL 科技", "category": "科技", "url": "http://rss.zol.com.cn/news.xml", "weight": 7 },
+    { "name": "Solidot 奇客", "category": "科技", "url": "http://www.solidot.org/index.rss", "weight": 9 },
+    { "name": "开源中国", "category": "科技", "url": "http://www.oschina.net/news/rss", "weight": 7 },
+    { "name": "少数派", "category": "科技", "url": "http://sspai.com/feed", "weight": 7 },
+    { "name": "极客公园", "category": "科技", "url": "http://www.geekpark.net/rss", "weight": 8 },
+    { "name": "量子位", "category": "AI", "url": "http://www.qbitai.com/feed", "weight": 9 },
+    { "name": "创业邦", "category": "商业", "url": "http://www.cyzone.cn/rss/", "weight": 7 }
+  ],
+  "分类配额": {
+    "要闻": 3,
+    "国际": 2,
+    "财经": 3,
+    "科技": 4,
+    "AI": 2,
+    "社会": 1,
+    "教育": 1,
+    "商业": 1,
+    "体育": 1
+  }
+}

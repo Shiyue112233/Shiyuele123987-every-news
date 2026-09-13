@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>关于 · 每日简报</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a class="logo" href="index.html"><span></span>每日简报</a>
+    <div class="links">
+      <a href="index.html">今日</a>
+      <a href="archive.html">归档</a>
+      <a href="about.html" class="active">关于</a>
+    </div>
+  </div>
+</nav>
+
+<div class="wrap">
+  <header class="top">
+    <div class="date-block">
+      <div class="d1">关于</div>
+      <div class="d2">这份简报是怎么来的</div>
+    </div>
+    <div class="brand">
+      <b>关 于 本 站</b>
+      ABOUT
+    </div>
+  </header>
+
+  <div class="card prose">
+    <h2>这是什么</h2>
+    <p>一份每天自动生成的个人新闻简报：约 20 条精选资讯，配一条寄语和一个工具推荐。
+       内容按分类配比挑选，只看近 48 小时内的新条目。</p>
+
+    <h2>内容怎么来的</h2>
+    <ul>
+      <li>从多个公开新闻源抓取，按「要闻 / 国际 / 财经 / 科技 / AI / 社会 / 教育 / 商业 / 体育」配额挑选；</li>
+      <li>同一事件自动去重，单一来源不会占满整栏，按站内权重与新鲜度排序；</li>
+      <li>寄语与工具按日期轮换，同一天永远显示同一条。</li>
+    </ul>
+
+    <h2>怎么更新</h2>
+    <table>
+      <tr><th>想做的事</th><th>怎么做</th></tr>
+      <tr><td>看最新一期</td><td>刷新本页即可（定时任务每天自动重跑）</td></tr>
+      <tr><td>手动重新抓取</td><td>双击 <code>更新日报.cmd</code></td></tr>
+      <tr><td>本地起个网址看</td><td>双击 <code>打开网站.cmd</code>，浏览器打开 <code>http://localhost:8080</code></td></tr>
+      <tr><td>换新闻源 / 改条数</td><td>编辑 <code>data/sources.json</code></td></tr>
+      <tr><td>换寄语 / 换工具</td><td>编辑 <code>data/quotes.json</code>、<code>data/tools.json</code></td></tr>
+    </table>
+
+    <h2>说明</h2>
+    <ul>
+      <li>本站为纯静态页面，不追踪、不收集任何信息。</li>
+      <li>新闻标题与摘要版权归原媒体所有，点击标题可跳转到原文。</li>
+      <li>更新时间为每天 06:30；历史每期都保存在「归档」里。</li>
+    </ul>
+
+    <p style="margin-top:22px"><a href="index.html">← 回到今日</a></p>
+  </div>
+</div>
+
+</body>
+</html>

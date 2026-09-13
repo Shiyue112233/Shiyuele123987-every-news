@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/refresh.log
+部署素材/*.zip

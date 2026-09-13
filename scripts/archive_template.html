@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>归档 · 每日简报</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a class="logo" href="index.html"><span></span>每日简报</a>
+    <div class="links">
+      <a href="index.html">今日</a>
+      <a href="archive.html" class="active">归档</a>
+      <a href="about.html">关于</a>
+    </div>
+  </div>
+</nav>
+
+<div class="wrap">
+  <header class="top">
+    <div class="date-block">
+      <div class="d1">归档</div>
+      <div class="d2">共 {{COUNT}} 期 · 每期 {{PER_PAGE}} 条精选</div>
+    </div>
+    <div class="brand">
+      <b>往 期 回 顾</b>
+      ARCHIVE
+    </div>
+  </header>
+
+  <div class="arch-grid">
+    {{CARDS}}
+  </div>
+
+  <footer class="foot">
+    <div>点任意一期可查看当天的完整 {{PER_PAGE}} 条。</div>
+    <div><a href="index.html">回到今日</a> · <a href="feed.xml">RSS 订阅</a></div>
+  </footer>
+</div>
+
+</body>
+</html>

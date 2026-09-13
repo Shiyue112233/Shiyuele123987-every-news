@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{DATE_CN}} 每日简报</title>
+<meta name="description" content="{{DATE_CN}} 每日简报：{{TOTAL}} 条精选资讯、今日寄语与工具推荐。">
+<link rel="stylesheet" href="{{ROOT}}assets/style.css">
+<link rel="alternate" type="application/rss+xml" title="每日简报" href="{{ROOT}}feed.xml">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a class="logo" href="{{ROOT}}index.html"><span></span>每日简报</a>
+    <div class="links">
+      <a href="{{ROOT}}index.html" class="{{ACTIVE_TODAY}}">今日</a>
+      <a href="{{ROOT}}archive.html" class="{{ACTIVE_ARCHIVE}}">归档</a>
+      <a href="{{ROOT}}about.html" class="{{ACTIVE_ABOUT}}">关于</a>
+    </div>
+  </div>
+</nav>
+
+<div class="wrap">
+  <header class="top">
+    <div class="date-block">
+      <div class="d1">{{DATE_CN}}</div>
+      <div class="d2">{{WEEKDAY_CN}} · 共 {{TOTAL}} 条 · 生成于 {{GENERATED_AT}}</div>
+    </div>
+    <div class="brand">
+      <b>每 日 简 报</b>
+      DAILY BRIEFING
+    </div>
+  </header>
+
+  <div class="grid">
+    <div class="card quote">
+      <h2>今日寄语</h2>
+      <div class="q">{{QUOTE_TEXT}}</div>
+      <div class="a">—— {{QUOTE_AUTHOR}}</div>
+    </div>
+    <div class="card tool">
+      <h2>今日工具</h2>
+      <div class="t-name">{{TOOL_NAME}} <span class="tag">{{TOOL_CATEGORY}}</span> <span class="tag price">{{TOOL_PRICE}}</span></div>
+      <div class="t-desc">{{TOOL_DESC}}</div>
+      <div style="margin-top:10px"><a href="{{TOOL_URL}}" target="_blank" rel="noopener">{{TOOL_URL}}</a></div>
+    </div>
+  </div>
+
+  {{NEWS_SECTIONS}}
+
+  <div class="pager">
+    {{PAGER_PREV}}
+    {{PAGER_NEXT}}
+  </div>
+
+  <footer class="foot">
+    <div>数据来源：{{SOURCE_LIST}}</div>
+    <div>抓取状态：{{FETCH_STATUS}}</div>
+    <div>刷新方式：双击 <code>打开网站.cmd</code> 看最新版，或运行 <code>python scripts\fetch_news.py</code> 重新抓取。</div>
+    <div><a href="{{ROOT}}archive.html">查看历史归档</a> · <a href="{{ROOT}}feed.xml">RSS 订阅</a></div>
+  </footer>
+</div>
+
+</body>
+</html>
