@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T22:56:32.857795+08:00",
+  "generated_at": "2026-09-13T22:59:06.077315+08:00",
   "count": 20,
   "quote": {
     "text": "别急着反驳，先确认你们说的是不是同一件事。",
@@ -19,6 +19,15 @@
     "中新网·社会 30条",
     "中新网·教育 30条",
     "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 94条",
+    "创业邦 30条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
     "BBC World 24条",
     "BBC Business 57条",
     "BBC Tech 21条",
@@ -32,23 +41,27 @@
     "The Verge 10条",
     "TechCrunch 20条",
     "MIT Tech Review 10条",
-    "Nature 75条",
     "IEEE Spectrum 30条",
     "Phys.org 30条",
     "ScienceDaily 60条"
   ],
   "sources_failed": [
-    "界面新闻(URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>)",
-    "东方财富(HTTPError: HTTP Error 500: Internal Privoxy Error)",
-    "创业邦(HTTPError: HTTP Error 500: Internal Privoxy Error)",
-    "Solidot 奇客(HTTPError: HTTP Error 500: Internal Privoxy Error)",
-    "极客公园(HTTPError: HTTP Error 500: Internal Privoxy Error)",
-    "少数派(URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>)",
-    "开源中国(HTTPError: HTTP Error 500: Internal Privoxy Error)",
-    "ZOL 科技(HTTPError: HTTP Error 500: Internal Privoxy Error)",
-    "量子位(HTTPError: HTTP Error 500: Internal Privoxy Error)"
+    "Nature(无条目)"
   ],
   "items": [
+    {
+      "title": "习近平结束出席金砖国家领导人第十八次会晤回到北京",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-13/10695843.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-09-13T22:04:13+08:00",
+      "abstract": "中新社北京9月13日电 9月13日晚，中国国家主席习近平圆满结束出席金砖国家领导人第十八次会晤回到北京。",
+      "tier": 1,
+      "also": [
+        "东方财富",
+        "界面新闻"
+      ]
+    },
     {
       "title": "“两园一河”京西漂流节联动三区",
       "link": "https://www.chinanews.com.cn/ty/2026/09-13/10695849.shtml",
@@ -66,16 +79,6 @@
       "category": "要闻",
       "published": "2026-09-13T22:52:40+08:00",
       "abstract": "中新网娄底9月13日电 (钟余 宋宇晟)“养崽莫上锡矿山，上山容易下山难。养女莫嫁石匠郎，口吐烟子无下场。”",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "服贸会多个 “首次”，助中企出海走出深水区",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-13/10695844.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-09-13T22:27:17+08:00",
-      "abstract": "中新网9月13日电(戴悦)一家中国公司在中东做了五年生意。销售跑起来了，服务也跑起来了，总部觉得这块业务稳了，于是派了个新经理去接手。",
       "tier": 1,
       "also": []
     },
@@ -150,13 +153,23 @@
       "also": []
     },
     {
-      "title": "中国超级稻三十年暨种业高质量发展大会在沈阳举办",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-13/10695822.shtml",
+      "title": "服贸会多个 “首次”，助中企出海走出深水区",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-13/10695844.shtml",
       "source": "中新网·财经",
       "category": "财经",
-      "published": "2026-09-13T20:59:47+08:00",
-      "abstract": "中新网沈阳9月13日电 (王翕瞳)中国超级稻三十年暨种业高质量发展大会12日至14日在沈阳举行，大会主题为“锚定国家粮食安全，聚智种业创新发展”。",
+      "published": "2026-09-13T22:27:17+08:00",
+      "abstract": "中新网9月13日电(戴悦)一家中国公司在中东做了五年生意。销售跑起来了，服务也跑起来了，总部觉得这块业务稳了，于是派了个新经理去接手。",
       "tier": 1,
+      "also": []
+    },
+    {
+      "title": "暴雪宣布 FPS 版《星际争霸》",
+      "link": "https://www.solidot.org/story?sid=85362",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-09-13T11:10:07+08:00",
+      "abstract": "暴雪宣布了 FPS 版《星际争霸》，游戏仍然处于早期开发阶段，目标发售时间是在 2030 年。暴雪称，新作是一款开放世界、剧情驱动的科幻射击游戏，故事背景设定在《星际争霸 II》事件发生后数十年，是《星际争霸》宇宙中的一款全新作品。RTS 版《星际争霸》于 1998 年发布，2015 年发布了《星际争霸II》三部曲中的",
+      "tier": 2,
       "also": []
     },
     {
@@ -182,12 +195,22 @@
       "also": []
     },
     {
-      "title": "Roundtables: Could AI really kill us all?",
-      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Tech Review",
-      "category": "科技",
-      "published": "2026-09-12T04:05:06+08:00",
-      "abstract": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremon",
+      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+      "link": "https://www.qbitai.com/2026/09/488672.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-09-13T15:38:20+08:00",
+      "abstract": "亮源新创的Physical Al路线清晰了",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
+      "link": "https://www.qbitai.com/2026/09/488519.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-09-13T15:20:19+08:00",
+      "abstract": "出身寒微不是耻辱，放弃自己才是。",
       "tier": 2,
       "also": []
     },
@@ -242,30 +265,6 @@
       "abstract": "中新网9月13日电 据活动主办方消息，9月13日上午，2026年“奥跑中国”大众路跑全国系列赛繁峙站在繁峙县滨河公园环河道路鸣枪开赛，来自全国各地的884名运动员齐聚滹沱河畔参与角逐。",
       "tier": 1,
       "also": []
-    },
-    {
-      "title": "Iran war reshapes Brics ties but also exposes divisions",
-      "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "国际",
-      "published": "2026-09-13T19:23:42+08:00",
-      "abstract": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-      "tier": 1,
-      "also": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "title": "Céline Dion fans prepare for comeback concert in Paris",
-      "link": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "国际",
-      "published": "2026-09-13T01:36:20+08:00",
-      "abstract": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
-      "tier": 1,
-      "also": [
-        "France24"
-      ]
     }
   ]
 }
