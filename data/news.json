@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-11T09:06:51.042648+08:00",
+  "generated_at": "2026-10-12T09:31:23.623924+08:00",
   "count": 20,
   "quote": {
-    "text": "专注不是做更多，而是决定不做什么。",
-    "author": "工作手记"
+    "text": "先说结论，再讲过程——这是对他人时间的基本尊重。",
+    "author": "沟通原则"
   },
   "tool": {
-    "name": "Everything",
+    "name": "PowerToys",
     "price": "免费",
-    "category": "本地搜索",
-    "desc": "Windows 秒级全盘文件名搜索。装一次省一辈子找文件的时间。",
-    "url": "https://www.voidtools.com/zh-cn/"
+    "category": "系统增强",
+    "desc": "微软官方效率合集：窗口布局、批量重命名、取色器、文本提取（OCR）。",
+    "url": "https://learn.microsoft.com/windows/powertoys/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 12条",
+    "中新网·教育 13条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 97条",
+    "东方财富 98条",
     "创业邦 30条",
     "Solidot 奇客 20条",
     "极客公园 30条",
@@ -28,12 +28,12 @@
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 32条",
-    "BBC Business 52条",
+    "BBC World 26条",
+    "BBC Business 39条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
-    "纽约时报·国际 57条",
-    "DW 中文 53条",
+    "纽约时报·国际 54条",
+    "DW 中文 58条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,90 +49,105 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "沙特利雅得机场遇袭造成12人死亡300多人受伤",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-11/10710877.shtml",
+      "title": "细化展陈、祭扫、寻亲等内容 烈士纪念设施保护新规11月1日起施行",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-12/10711195.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-11T08:43:29+08:00",
-      "abstract": "中新网10月11日电 据卡塔尔半岛电视台报道，沙特阿拉伯民航总局当地时间11日表示，首都利雅得的哈立德国王国际机场10日晚遭到袭击，已造成至少12人死亡、309人受伤。",
+      "published": "2026-10-12T09:09:35+08:00",
+      "abstract": "记者昨天从退役军人事务部了解到，新修订的《烈士纪念设施保护管理办法》将于今年11月1日起正式施行。新规补齐零散烈士设施管护短板，规范建设行为，同时细化展陈、祭扫、寻亲等内容，让烈士纪念设施得到更全面规范的保护。",
       "tier": 1,
       "also": [
         "界面新闻"
       ]
     },
     {
-      "title": "“小熊”加强为超强台风级 未来对我国海域无影响",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-11/10710872.shtml",
+      "title": "冷空气继续影响北方 明日起南方有较强降雨过程",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-12/10711186.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-11T08:28:54+08:00",
-      "abstract": "“小熊”加强为超强台风级 “诺洛”变性为温带气旋",
+      "published": "2026-10-12T09:07:21+08:00",
+      "abstract": "中新网10月12日电 据中央气象台网站消息，昨日，内蒙古中西部、青海大部等地已出现明显降温，降幅可达7~9℃。今明两天，内蒙古中东部、华北和东北地区将出现4～6℃降温，局地降幅可达8～12℃；上述地区还伴有4～5级风、阵风6～8级。受冷空气影响，西北地区东部、华北西部和南部、东北地区北部和东部等地有小到中雨或雨夹雪，其",
       "tier": 1,
       "also": [
         "界面新闻"
       ]
     },
     {
-      "title": "“蛟龙”号载人潜水器入海 计划下潜约4500米",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-11/10710869.shtml",
+      "title": "特朗普宣布“俄乌能源停火”：双方都同意了，但乌克兰不在桌边",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711188.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-11T08:27:16+08:00",
-      "abstract": "10月10日，搭载“蛟龙”号载人潜水器的“深海一号”船抵达西太平洋东加罗林海盆作业区进行深海科考作业。",
+      "published": "2026-10-12T09:01:02+08:00",
+      "abstract": "特朗普宣布“俄乌能源停火”：双方都同意了，但乌克兰不在桌边|国际早察",
       "tier": 1,
       "also": [
-        "界面新闻"
+        "东方财富"
       ]
     },
     {
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-10-11T08:21:52+08:00",
-      "abstract": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+      "published": "2026-10-12T06:45:58+08:00",
+      "abstract": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
       "tier": 1,
       "also": [
         "Al Jazeera",
         "France24",
-        "NPR World",
-        "The Guardian·World"
+        "The Guardian·World",
+        "纽约时报·国际"
       ]
     },
     {
-      "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-      "link": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-      "source": "纽约时报·国际",
+      "title": "Imran Khan’s party decries ‘coup’ after Pakistan suspends provincial government",
+      "link": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
+      "source": "The Guardian·World",
       "category": "国际",
-      "published": "2026-10-11T08:31:33+08:00",
-      "abstract": "The strike on Saturday was the deadliest attack in a Gulf Arab country since the U.S.-Israeli war with Iran began in February, and forced the airport to tempora",
+      "published": "2026-10-12T08:22:11+08:00",
+      "abstract": "<p>Suspension of provincial government escalates standoff with Khan’s PTI party a week after his supporters began marching to demand his release</p><p>Pakistan ",
       "tier": 1,
       "also": [
         "Al Jazeera"
       ]
     },
     {
-      "title": "美国制裁国际刑事法院 继续推进“瓦解”行动",
-      "link": "https://www.dw.com/zh/美国制裁国际刑事法院-继续推进-瓦解-行动/a-79628741?maca=chi-rss-chi-all-1127-rdf",
-      "source": "DW 中文",
+      "title": "Pope Leo Will Have Surgery to Remove Growth on Lung",
+      "link": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
+      "source": "纽约时报·国际",
       "category": "国际",
-      "published": "2026-10-10T14:06:00+08:00",
-      "abstract": "美国宣布对国际刑事法院实施新的制裁，这是特朗普政府试图“瓦解”这一政府间组织的最新举措。美国国务卿卢比奥发出强硬警告。面对美国持续施压，国际刑事法院如何回应？国际社会又有何反应？",
+      "published": "2026-10-12T04:15:09+08:00",
+      "abstract": "A recent medical examination found a small nodule, he announced, adding that doctors would remove it this week.",
       "tier": 1,
       "also": [
-        "中新网·国际"
+        "BBC World",
+        "France24",
+        "NPR World"
       ]
     },
     {
-      "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Airstrikes kill dozens of gold miners on Egypt-Sudan border, rights group says",
+      "link": "https://www.france24.com/en/africa/20261012-egypt-sudan-border-airstrikes-gold-miners-killed",
+      "source": "France24",
       "category": "国际",
-      "published": "2026-10-11T08:00:13+08:00",
-      "abstract": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
+      "published": "2026-10-12T09:28:27+08:00",
+      "abstract": "At least 72 workers were killed in airstrikes on a gold mine on the Sudan-Egypt border on Saturday, a Sudanese rights group said on Sunday. The Emergency Lawyer",
       "tier": 2,
       "also": [
-        "NPR World"
+        "Al Jazeera",
+        "BBC World"
+      ]
+    },
+    {
+      "title": "四川成都至西藏拉萨图定班列在蓉首发",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-11/10711094.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-10-11T20:12:14+08:00",
+      "abstract": "中新网成都10月11日电 (记者 刘忠俊 王鹏)10月11日下午，满载进藏物资的X8704/3次列车驶出成都北编组站，四川成都至西藏拉萨图定班列正式开行，进藏物资运输再添一条物流通道。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
       ]
     },
     {
@@ -144,135 +159,119 @@
       "abstract": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "tier": 1,
       "also": [
-        "France24",
+        "NPR World",
         "The Guardian·World"
       ]
     },
     {
-      "title": "高频数据显示 三季度居民消费意愿稳步回暖",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-11/10710879.shtml",
+      "title": "全国统一的数据产权登记制度正式实施 数据流通交易“有证可依”",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-12/10711177.shtml",
       "source": "中新网·财经",
       "category": "财经",
-      "published": "2026-10-11T08:54:25+08:00",
-      "abstract": "本报北京10月10日电 (记者刘志强)国家发展改革委国家信息中心发布的高频数据显示：三季度，存量政策、增量政策协同发力、集成显效，推动经济保持稳中有进、稳中向优态势，增长动能持续积蓄。",
+      "published": "2026-10-12T08:10:28+08:00",
+      "abstract": "全国统一的数据产权登记制度正式实施",
       "tier": 1,
       "also": []
     },
     {
-      "title": "中欧贸易投资磋商机制第二次例会联合声明",
-      "link": "http://finance.eastmoney.com/news/1345,202610093891382035.html",
-      "source": "东方财富",
-      "category": "财经",
-      "published": "2026-10-09T19:12:07+08:00",
-      "abstract": "2026年10月8-9日，中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇在北京举行中欧贸易投资磋商机制（以下简称机制）第二次例会。双方进行了务实、富有成效的讨论，并形成成果共识清单。 双方重申，作为关键贸易伙伴，在世贸组织规则框架下，妥善处理双方分歧，致力于继续稳定双边经贸关系，并使其更加平衡。双",
-      "tier": 2,
-      "also": [
-        "中新网·国际"
-      ]
-    },
-    {
-      "title": "特斯拉在欧洲将 Full Self-Driving 改名为 Tesla Assisted Driving",
-      "link": "https://www.solidot.org/story?sid=85573",
-      "source": "Solidot 奇客",
-      "category": "科技",
-      "published": "2026-10-10T16:52:27+08:00",
-      "abstract": "特斯拉在欧洲将其辅助驾驶系统从 Full Self-Driving 改名为 Tesla Assisted Driving。德国交通部长 Steffen Bilger 本月早些时候指出，将辅助驾驶系统命名为 Full Self-Driving 具有误导性，因为它并不能真正完全自动驾驶。Bilger 与特斯拉公司进行了沟通",
-      "tier": 2,
-      "also": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "title": "King warns malicious online actors are evolving tactics",
-      "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Tech",
       "category": "科技",
-      "published": "2026-10-10T23:56:32+08:00",
-      "abstract": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
+      "published": "2026-10-12T07:07:35+08:00",
+      "abstract": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "title": "英国水果蔬菜营养价值下降最高五成",
+      "link": "https://www.solidot.org/story?sid=85580",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-10-11T22:27:04+08:00",
+      "abstract": "Deep Science Ventures 研究人员的一项研究发现，英国水果和蔬菜的营养价值自 1960 年代以来减少最高五成。英国民众现在需要食用两倍数量的蔬菜，才能摄入与 60 年前同等水平的矿物质如钾、镁或铜。许多农作物中几种关键营养素的含量减少了 20%-50%。营养和维生素含量的下降主要归因于土壤质量的退化，",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "NASA dumped over 800GB of Artemis II data online",
+      "link": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
       "source": "The Verge",
       "category": "科技",
-      "published": "2026-10-10T10:41:16+08:00",
-      "abstract": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In",
+      "published": "2026-10-11T11:34:40+08:00",
+      "abstract": "If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and vid",
       "tier": 2,
       "also": [
-        "TechCrunch"
+        "Nature"
       ]
     },
     {
-      "title": "特斯拉FSD，在欧洲被打回原形",
-      "link": "https://www.qbitai.com/2026/10/502467.html",
+      "title": "王的猜想，刚刚扩展到四维",
+      "link": "https://www.qbitai.com/2026/10/502584.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-10-10T14:59:02+08:00",
-      "abstract": "马斯克反而发文道谢？",
+      "published": "2026-10-11T13:23:47+08:00",
+      "abstract": "",
       "tier": 2,
       "also": []
     },
     {
-      "title": "TRAE终于把Code和Work合并了",
-      "link": "https://www.qbitai.com/2026/10/502426.html",
+      "title": "硅谷AI现状：谁有算力谁是爹",
+      "link": "https://www.qbitai.com/2026/10/502585.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-10-09T17:19:57+08:00",
-      "abstract": "大写的方便",
+      "published": "2026-10-11T13:22:38+08:00",
+      "abstract": "马斯克连横A社，硅谷VC开始囤GPU",
       "tier": 2,
       "also": []
     },
     {
-      "title": "Isaias downgraded to post-tropical cyclone after landfall in Florida",
-      "link": "https://phys.org/news/2026-10-isaias-downgraded-tropical-cyclone-landfall.html",
+      "title": "Wildlife populations have declined 73% since 1970—but many of the world's animals still aren't being counted",
+      "link": "https://phys.org/news/2026-10-wildlife-populations-declined-world-animals.html",
       "source": "Phys.org",
       "category": "科学",
-      "published": "2026-10-10T16:10:01+08:00",
-      "abstract": "Isaias weakened from a hurricane to a post-tropical cyclone early Saturday after it made landfall in northwestern Florida, where it lashed the U.S. Gulf Coast w",
-      "tier": 2,
-      "also": [
-        "The Guardian·World"
-      ]
-    },
-    {
-      "title": "Master AI Chip Principles With New IEEE Design Program",
-      "link": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
-      "source": "IEEE Spectrum",
-      "category": "科学",
-      "published": "2026-10-10T02:00:02+08:00",
-      "abstract": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities a",
+      "published": "2026-10-12T04:30:01+08:00",
+      "abstract": "Wildlife populations around the world have declined by an average of 73% since 1970. That's according to the WWF's new 2026 Living Planet Index—a major estimate",
       "tier": 2,
       "also": []
     },
     {
-      "title": "这座西北千年古县，藏着大唐皇帝都夸过的“枣中贵族”",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-11/10710878.shtml",
+      "title": "The eye has a hidden cleanup system scientists never knew existed",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
+      "source": "ScienceDaily",
+      "category": "科学",
+      "published": "2026-10-11T10:01:54+08:00",
+      "abstract": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising findi",
+      "tier": 3,
+      "also": []
+    },
+    {
+      "title": "昆明一道路突发塌方 官方：现场搜救未发现人员伤亡",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-12/10711206.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-10-11T08:48:01+08:00",
-      "abstract": "“贺兰山下果园成，塞北江南旧有名。”千年前，诗人韦蟾策马而过，将灵州的风物酿成诗句；千年后，我们循着诗句的余韵，仍能望见那片被黄河与贺兰山温柔环抱的土地——灵武。",
+      "published": "2026-10-12T09:25:34+08:00",
+      "abstract": "中新网10月12日电 据“昆明西山发布”微信公众号消息，10月11日晚，云南省昆明市西山区交通运输局发布情况通报：2026年10月11日16时20分许，昆明市西山区碧鸡街道车家壁至营盘山道路K1+200处突发塌方，致路边停放的12辆车辆(车上无驾乘人员)和3辆行驶中的车辆受困、道路交通中断，有关部门迅速开展现场救援处置",
       "tier": 1,
       "also": []
     },
     {
-      "title": "300个名额超8000人报名 职业教育迎来哪些新变化？",
-      "link": "https://www.chinanews.com.cn/edu/2026/10-11/10710874.shtml",
+      "title": "多地雅思考试突发取消 退费重考如何安排？最新解答→",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-11/10710909.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-10-11T08:35:12+08:00",
-      "abstract": "新闻周刊丨300个名额超8000人报名 职业教育迎来哪些新变化？",
+      "published": "2026-10-11T10:20:26+08:00",
+      "abstract": "对于不少打算出国留学、海外就业的朋友来说，雅思考试作为一项衡量英语语言水平的考试，就像一张“语言通行证”。而昨天(10日)，由英国文化教育协会主办的雅思考试场次却在全国大范围取消：部分考生还在候考，就收到取消短信；也有考生考完听力，中途接到通知停考离场。考试客服中心表示，这场停考预计会持续到12日，也就是明天。这次雅思",
       "tier": 1,
       "also": []
     },
     {
-      "title": "郑钦文首进中网女单决赛 刷新中国选手赛会最佳单打战绩",
-      "link": "https://www.chinanews.com.cn/ty/2026/10-10/10710857.shtml",
+      "title": "一路闯关、创多项历史！回顾郑钦文2026中网冠军之路",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-12/10711162.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-10-10T23:51:25+08:00",
-      "abstract": "中新社北京10月10日电 (记者 国璇)10日在北京进行的2026中国网球公开赛女子单打半决赛中，中国选手郑钦文以7:5、6:2力克赛会13号种子、比利时名将梅尔滕斯，职业生涯首次晋级中网女单决赛。郑钦文不仅是中网历史上首位持外卡打入女单决赛的球员，也是首位跻身中网单打决赛的本土球员。",
+      "published": "2026-10-12T06:46:19+08:00",
+      "abstract": "北京时间10月11日，2026中网女单决赛，郑钦文2-0战胜安德列娃，收获了自己首个中网女单冠军，也是首个1000赛冠军头衔。同时，也创下了中网的历史：首个本土球员夺得女单冠军！",
       "tier": 1,
       "also": []
     }
