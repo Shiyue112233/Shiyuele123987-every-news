@@ -1,0 +1,268 @@
+{
+  "generated_at": "2026-10-15T08:42:48.463729+08:00",
+  "count": 20,
+  "quote": {
+    "text": "信息不等于洞察，洞察来自对信息的筛选与追问。",
+    "author": "工作手记"
+  },
+  "tool": {
+    "name": "Snipaste",
+    "price": "免费",
+    "category": "截图贴图",
+    "desc": "截图后把图钉在屏幕上，对着图表写记录、核对数据极方便。",
+    "url": "https://www.snipaste.com/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 23条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 98条",
+    "创业邦 30条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 28条",
+    "BBC Business 52条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 56条",
+    "DW 中文 55条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [],
+  "items": [
+    {
+      "title": "美国9月CPI同比上涨3.7%",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714762.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-15T08:13:14+08:00",
+      "abstract": "中新社华盛顿10月14日电 (记者 陈孟统)美国劳工部14日发布数据显示，美国9月消费者价格指数(CPI)同比上涨3.7%，环比上涨0.6%。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "央行将开展7000亿元买断式逆回购操作",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-15/10714753.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-15T07:28:03+08:00",
+      "abstract": "中国人民银行昨天(14日)发布公告，为保持银行体系流动性充裕，中国人民银行将于今天(15日)以固定数量、利率招标、多重价位中标方式开展7000亿元买断式逆回购操作，期限为6个月(182天)。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "第140届广交会今日开展 展期持续至11月4日",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-15/10714775.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-15T08:36:49+08:00",
+      "abstract": "今天(10月15日)，第140届广交会在广州开展。今年恰逢广交会创办70周年，本届广交会展览规模达155万平方米，分3期举办，展期将持续到11月4日。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Kenya confirms second Ebola case - a relative of the first victim",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-10-15T01:23:01+08:00",
+      "abstract": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+      "tier": 1,
+      "also": [
+        "France24"
+      ]
+    },
+    {
+      "title": "Student protests in Albania turn violent as demonstrators clash with police",
+      "link": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-10-15T07:19:43+08:00",
+      "abstract": "<p>Dozens of people detained after government building and two banks set on fire as tens of thousands march over education costs and corruption</p><p>Tens of th",
+      "tier": 1,
+      "also": [
+        "France24"
+      ]
+    },
+    {
+      "title": "Mexico Bans Violent Content on Social Media for Children",
+      "link": "https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-10-15T07:11:42+08:00",
+      "abstract": "Joining a global movement, President Claudia Sheinbaum signed a decree requiring the removal of a range of material for people under 18 and held out the prospec",
+      "tier": 1,
+      "also": [
+        "IEEE Spectrum"
+      ]
+    },
+    {
+      "title": "“北溪”天然气管道爆炸案嫌疑人在德国受审",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714764.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-10-15T08:14:40+08:00",
+      "abstract": "中新社柏林10月14日电 德国汉堡汉萨高等地方法院14日开庭审理2022年9月“北溪”天然气管道爆炸案。涉嫌主导袭击行动的乌克兰籍男子谢尔吉·K(Serhii K)当天出庭受审。这是“北溪”天然气管道爆炸事件发生以来，首次有涉案嫌疑人出庭接受刑事审判。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-10-15T07:02:57+08:00",
+      "abstract": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "能源早报｜荣盛石化前三季度净利润同比预增最高超8倍；包钢股份因安全事故被罚200万元",
+      "link": "https://www.jiemian.com/article/15190951.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-10-15T08:01:19+08:00",
+      "abstract": "我国规模最大光氢储一体化项目储能电站并网投运；我国风电装机规模连续16年稳居世界第一。",
+      "tier": 2,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "How a Chinese-made toy gets to a US retailer",
+      "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-10-15T07:01:28+08:00",
+      "abstract": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "category": "科技",
+      "published": "2026-10-14T23:54:04+08:00",
+      "abstract": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "研究估计到 2050 年每年新增痴呆症人数将会翻倍",
+      "link": "https://www.solidot.org/story?sid=85615",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-10-15T00:46:34+08:00",
+      "abstract": "一项新研究估计，2023 年有 1140 万人患上痴呆症，到 2050 年预计这一数字将增加一倍以上，新增痴呆症人数将达到 2470 万。研究发现女性的痴呆症发病率高于男性，且低中收入国家的发病率远高于高收入国家。在校正年龄因素后，女性发病为每千人年 10.6 例，男性为 8.6 例。低中收入国家的发病率为每千人年 1",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "YouTube sticks new labels on AI-generated songs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+      "source": "The Verge",
+      "category": "科技",
+      "published": "2026-10-14T14:22:56+08:00",
+      "abstract": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying",
+      "tier": 2,
+      "also": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+      "link": "https://www.qbitai.com/2026/10/503201.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-14T14:45:38+08:00",
+      "abstract": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
+      "tier": 2,
+      "also": [
+        "ZOL 科技"
+      ]
+    },
+    {
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "link": "https://www.qbitai.com/2026/10/503294.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-14T18:41:47+08:00",
+      "abstract": "“具身进实景，劳动最光荣”",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+      "link": "https://www.nature.com/articles/s41586-026-11242-8",
+      "source": "Nature",
+      "category": "科学",
+      "published": "2026-10-14T00:00:00+08:00",
+      "abstract": "",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "IEEE Continues Preparations for the Realignment of Its Regions",
+      "link": "https://spectrum.ieee.org/realignment-ieee-regions",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-10-15T02:00:03+08:00",
+      "abstract": "Progress continues in restructuring IEEE’s geographic regions, as outlined in The Institute’s February 2023 article “IEEE Is Realigning Its Geographic Regions.”",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "贵州湖南江西等地有较强降水 新一轮冷空气将自西向东影响我国大部地区",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-15/10714766.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-10-15T08:29:31+08:00",
+      "abstract": "中新网10月15日电 据中央气象台网站消息，昨日，湖南等地出现较强降雨，内蒙古中部等地有大风。预计15日，江南北部等地有较强降雨过程，部分地区累计雨量较大，需加强次生灾害防御，做好交通、旅游、城市运行等安全管理。15日至19日，新一轮冷空气将自西向东影响我国大部地区，带来大风降温和降水天气，注意防范对交通运输、农业、城",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "“核”以报国 马余刚院士解码大科学时代的核科技前沿",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-14/10714290.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-10-14T11:53:59+08:00",
+      "abstract": "中新网上海10月14日电 (记者 陈静)今年10月16日，恰逢中国第一颗原子弹爆炸成功62周年，也是华东师范大学建校75周年。13日，核物理领域知名科学家、中国科学院院士、华东师范大学校长马余刚为师生们带来一堂《“核”以报国——漫谈大科学时代的核科技》沉浸式大思政课。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "浙江省第十八届运动会将在衢州开幕 参赛规模创历史新高",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-14/10714693.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-10-14T21:46:13+08:00",
+      "abstract": "中新网杭州10月14日电(肖健 胡莘菻)10月14日，2026年浙江省第十八届运动会新闻通气会在杭州举行。记者从会上获悉，浙江省运会将于10月18日在衢州市体育中心开幕，并于10月30日闭幕。作为浙江省规格最高、规模最大、影响最广的综合性体育盛会，本届赛事秉持“简约、安全、精彩”的办赛理念，浙江全省11个设区市组团参赛",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}

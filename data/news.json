@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-14T09:18:55.937484+08:00",
+  "generated_at": "2026-10-15T08:42:48.463729+08:00",
   "count": 20,
   "quote": {
-    "text": "让工具替你记住细节，让大脑专心做判断。",
+    "text": "信息不等于洞察，洞察来自对信息的筛选与追问。",
     "author": "工作手记"
   },
   "tool": {
-    "name": "Obsidian",
+    "name": "Snipaste",
     "price": "免费",
-    "category": "知识库",
-    "desc": "本地 Markdown 笔记库，双链把项目、专利、实验记录串成网。",
-    "url": "https://obsidian.md/"
+    "category": "截图贴图",
+    "desc": "截图后把图钉在屏幕上，对着图表写记录、核对数据极方便。",
+    "url": "https://www.snipaste.com/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
@@ -20,7 +20,7 @@
     "中新网·教育 23条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 93条",
+    "东方财富 98条",
     "创业邦 30条",
     "Solidot 奇客 20条",
     "极客公园 30条",
@@ -28,12 +28,12 @@
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 23条",
-    "BBC Business 47条",
+    "BBC World 28条",
+    "BBC Business 52条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
-    "纽约时报·国际 51条",
-    "DW 中文 60条",
+    "纽约时报·国际 56条",
+    "DW 中文 55条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,222 +49,218 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "第33届世界大学生冬季运动会火种欢迎仪式在长春举行",
-      "link": "https://www.chinanews.com.cn/ty/2026/10-14/10714131.shtml",
+      "title": "美国9月CPI同比上涨3.7%",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714762.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-14T08:51:21+08:00",
-      "abstract": "新华社长春10月14日电 14日上午，第33届世界大学生冬季运动会(简称“大冬会”)火种欢迎仪式在长春举行。",
+      "published": "2026-10-15T08:13:14+08:00",
+      "abstract": "中新社华盛顿10月14日电 (记者 陈孟统)美国劳工部14日发布数据显示，美国9月消费者价格指数(CPI)同比上涨3.7%，环比上涨0.6%。",
       "tier": 1,
       "also": [
-        "界面新闻"
+        "东方财富"
       ]
     },
     {
-      "title": "南方多地有较强降雨伴强对流 明起新一股冷空气将登场",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-14/10714129.shtml",
+      "title": "央行将开展7000亿元买断式逆回购操作",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-15/10714753.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-14T08:46:11+08:00",
-      "abstract": "中国天气网讯 今天(10月14日)，受冷空气影响，东北气温继续下降，哈尔滨等地最低气温将为下半年来首次跌破冰点。明天起，新一股冷空气将登场，影响范围广泛，本周末至下周初长江以北气温将大面积创新低。受冷暖空气交汇影响，今明天南方多地有较强降雨，江淮、江南部分地区降雨的同时还伴有强对流天气，公众需关注预警预报信息，外出带好",
+      "published": "2026-10-15T07:28:03+08:00",
+      "abstract": "中国人民银行昨天(14日)发布公告，为保持银行体系流动性充裕，中国人民银行将于今天(15日)以固定数量、利率招标、多重价位中标方式开展7000亿元买断式逆回购操作，期限为6个月(182天)。",
       "tier": 1,
       "also": [
-        "界面新闻"
+        "东方财富"
       ]
     },
     {
-      "title": "红星照耀中国｜长征出发地，一根纱线串起千亿产业",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-14/10714133.shtml",
+      "title": "第140届广交会今日开展 展期持续至11月4日",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-15/10714775.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-14T09:14:12+08:00",
-      "abstract": "江西于都，中央红军长征出发纪念馆里，一台手摇缝纫机的机身黑漆早已斑驳。",
+      "published": "2026-10-15T08:36:49+08:00",
+      "abstract": "今天(10月15日)，第140届广交会在广州开展。今年恰逢广交会创办70周年，本届广交会展览规模达155万平方米，分3期举办，展期将持续到11月4日。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
-      "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+      "title": "Kenya confirms second Ebola case - a relative of the first victim",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-10-14T08:59:16+08:00",
-      "abstract": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "published": "2026-10-15T01:23:01+08:00",
+      "abstract": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
       "tier": 1,
       "also": [
-        "The Guardian·World"
+        "France24"
       ]
     },
     {
-      "title": "Russia detains Japanese journalist, accusing him of alleged spying",
-      "link": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
+      "title": "Student protests in Albania turn violent as demonstrators clash with police",
+      "link": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
       "source": "The Guardian·World",
       "category": "国际",
-      "published": "2026-10-14T09:05:25+08:00",
-      "abstract": "<p>FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defences</p><p>Russia has arreste",
+      "published": "2026-10-15T07:19:43+08:00",
+      "abstract": "<p>Dozens of people detained after government building and two banks set on fire as tens of thousands march over education costs and corruption</p><p>Tens of th",
       "tier": 1,
       "also": [
-        "纽约时报·国际"
+        "France24"
       ]
     },
     {
-      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+      "title": "Mexico Bans Violent Content on Social Media for Children",
+      "link": "https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html",
       "source": "纽约时报·国际",
       "category": "国际",
-      "published": "2026-10-14T08:12:23+08:00",
-      "abstract": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help ",
+      "published": "2026-10-15T07:11:42+08:00",
+      "abstract": "Joining a global movement, President Claudia Sheinbaum signed a decree requiring the removal of a range of material for people under 18 and held out the prospec",
       "tier": 1,
       "also": [
-        "NPR World"
+        "IEEE Spectrum"
       ]
     },
     {
-      "title": "诺贝尔经济学奖揭晓 美国两学者共享殊荣",
-      "link": "https://www.dw.com/zh/诺贝尔经济学奖揭晓-美国两学者共享殊荣/a-79641735?maca=chi-rss-chi-all-1127-rdf",
-      "source": "DW 中文",
+      "title": "“北溪”天然气管道爆炸案嫌疑人在德国受审",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714764.shtml",
+      "source": "中新网·国际",
       "category": "国际",
-      "published": "2026-10-12T12:43:00+08:00",
-      "abstract": "诺贝尔经济学奖揭晓，美国经济学家霍尔和伍德福德共获殊荣。瑞典皇家科学院指出，两人突破传统凯恩斯主义框架，从家庭和企业等微观主体行为出发建立经济模型，证明无数家庭和企业的日常决策最终会塑造整个经济运行方向。",
+      "published": "2026-10-15T08:14:40+08:00",
+      "abstract": "中新社柏林10月14日电 德国汉堡汉萨高等地方法院14日开庭审理2022年9月“北溪”天然气管道爆炸案。涉嫌主导袭击行动的乌克兰籍男子谢尔吉·K(Serhii K)当天出庭受审。这是“北溪”天然气管道爆炸事件发生以来，首次有涉案嫌疑人出庭接受刑事审判。",
       "tier": 1,
-      "also": [
-        "Solidot 奇客"
-      ]
+      "also": []
     },
     {
-      "title": "韩国KOSPI指数收跌超5% 两大半导体股延续跌势",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-13/10714095.shtml",
-      "source": "中新网·财经",
-      "category": "财经",
-      "published": "2026-10-13T23:46:09+08:00",
-      "abstract": "中新社首尔10月14日电 (记者 金旭)韩国综合股价指数(KOSPI)13日收盘跌幅逾5%，创下自2026年8月19日以来单日最大跌幅。",
-      "tier": 1,
-      "also": [
-        "界面新闻"
-      ]
-    },
-    {
-      "title": "How long will humans be needed for translation?",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "财经",
-      "published": "2026-10-14T07:05:29+08:00",
-      "abstract": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+      "published": "2026-10-15T07:02:57+08:00",
+      "abstract": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
       "tier": 1,
       "also": []
     },
     {
-      "title": "重庆市委原副书记、市政府原市长黄奇帆被查",
-      "link": "http://finance.eastmoney.com/news/1345,202610133894242896.html",
-      "source": "东方财富",
+      "title": "能源早报｜荣盛石化前三季度净利润同比预增最高超8倍；包钢股份因安全事故被罚200万元",
+      "link": "https://www.jiemian.com/article/15190951.html",
+      "source": "界面新闻",
       "category": "财经",
-      "published": "2026-10-13T18:00:05+08:00",
-      "abstract": "重庆市委原副书记、市政府原市长黄奇帆涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。（文章来源：央视新闻客户端）",
+      "published": "2026-10-15T08:01:19+08:00",
+      "abstract": "我国规模最大光氢储一体化项目储能电站并网投运；我国风电装机规模连续16年稳居世界第一。",
       "tier": 2,
       "also": [
-        "中新网·国际"
+        "东方财富"
       ]
     },
     {
-      "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-      "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
-      "source": "Ars Technica",
+      "title": "How a Chinese-made toy gets to a US retailer",
+      "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-10-15T07:01:28+08:00",
+      "abstract": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
       "category": "科技",
-      "published": "2026-10-14T01:00:39+08:00",
-      "abstract": "Google plans to help turn those personal AI-generated apps into wide releases.",
-      "tier": 2,
-      "also": [
-        "TechCrunch"
-      ]
+      "published": "2026-10-14T23:54:04+08:00",
+      "abstract": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "tier": 1,
+      "also": []
     },
     {
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "title": "研究估计到 2050 年每年新增痴呆症人数将会翻倍",
+      "link": "https://www.solidot.org/story?sid=85615",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-10-15T00:46:34+08:00",
+      "abstract": "一项新研究估计，2023 年有 1140 万人患上痴呆症，到 2050 年预计这一数字将增加一倍以上，新增痴呆症人数将达到 2470 万。研究发现女性的痴呆症发病率高于男性，且低中收入国家的发病率远高于高收入国家。在校正年龄因素后，女性发病为每千人年 10.6 例，男性为 8.6 例。低中收入国家的发病率为每千人年 1",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "YouTube sticks new labels on AI-generated songs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
       "source": "The Verge",
       "category": "科技",
-      "published": "2026-10-13T16:45:25+08:00",
-      "abstract": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identifie",
+      "published": "2026-10-14T14:22:56+08:00",
+      "abstract": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying",
       "tier": 2,
       "also": [
         "TechCrunch"
       ]
     },
     {
-      "title": "超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线",
-      "link": "http://www.geekpark.net/news/372304",
-      "source": "极客公园",
-      "category": "科技",
-      "published": "2026-10-14T08:28:51+08:00",
-      "abstract": "谷歌最强 AI 模型：Gemini 4 Argon 上线，输出词元上限 100 万个、专攻最棘手难题 10 月 14 日消息，Gemini 4 Argon现已面向全球开发者和企业开放，可通过 AI Studio、 Gemini 平台 API 使用，同时支持 Google Antigravity 的 Google AI ",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-      "link": "https://www.qbitai.com/2026/10/503107.html",
+      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+      "link": "https://www.qbitai.com/2026/10/503201.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-10-13T19:05:39+08:00",
-      "abstract": "让VLA从“演示可用”逼近“产线可用”",
+      "published": "2026-10-14T14:45:38+08:00",
+      "abstract": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
       "tier": 2,
-      "also": []
+      "also": [
+        "ZOL 科技"
+      ]
     },
     {
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-      "link": "https://www.qbitai.com/2026/10/503093.html",
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "link": "https://www.qbitai.com/2026/10/503294.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-10-13T17:33:37+08:00",
-      "abstract": "Winverse AI",
+      "published": "2026-10-14T18:41:47+08:00",
+      "abstract": "“具身进实景，劳动最光荣”",
       "tier": 2,
       "also": []
     },
     {
-      "title": "Preserve research data for tomorrow’s AI-enabled integrity checks",
-      "link": "https://www.nature.com/articles/d41586-026-03244-3",
+      "title": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+      "link": "https://www.nature.com/articles/s41586-026-11242-8",
       "source": "Nature",
       "category": "科学",
-      "published": "2026-10-13T00:00:00+08:00",
+      "published": "2026-10-14T00:00:00+08:00",
       "abstract": "",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
-      "link": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
+      "title": "IEEE Continues Preparations for the Realignment of Its Regions",
+      "link": "https://spectrum.ieee.org/realignment-ieee-regions",
       "source": "IEEE Spectrum",
       "category": "科学",
-      "published": "2026-10-13T02:00:02+08:00",
-      "abstract": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone.Gurmeet Sa",
+      "published": "2026-10-15T02:00:03+08:00",
+      "abstract": "Progress continues in restructuring IEEE’s geographic regions, as outlined in The Institute’s February 2023 article “IEEE Is Realigning Its Geographic Regions.”",
       "tier": 2,
       "also": []
     },
     {
-      "title": "贵州湖北湖南江西等地降雨较强 新一轮冷空气即将影响我国",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-14/10714136.shtml",
+      "title": "贵州湖南江西等地有较强降水 新一轮冷空气将自西向东影响我国大部地区",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-15/10714766.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-10-14T09:13:36+08:00",
-      "abstract": "中新网10月14日电 据中央气象台网站消息，昨日，全国大部地区天气较好，降水较弱，仅在云南东部等地出现大雨或暴雨，局地大暴雨。今明两天，西南地区东部、江汉南部、江南北部等地将迎来一次较强降水过程，上述部分地区伴有雷电和短时强降雨。",
+      "published": "2026-10-15T08:29:31+08:00",
+      "abstract": "中新网10月15日电 据中央气象台网站消息，昨日，湖南等地出现较强降雨，内蒙古中部等地有大风。预计15日，江南北部等地有较强降雨过程，部分地区累计雨量较大，需加强次生灾害防御，做好交通、旅游、城市运行等安全管理。15日至19日，新一轮冷空气将自西向东影响我国大部地区，带来大风降温和降水天气，注意防范对交通运输、农业、城",
       "tier": 1,
       "also": []
     },
     {
-      "title": "（乡村行·看振兴）青年蹲点“浙中蜜蜂村”：大山里的“青春必修课”",
-      "link": "https://www.chinanews.com.cn/edu/2026/10-13/10713644.shtml",
+      "title": "“核”以报国 马余刚院士解码大科学时代的核科技前沿",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-14/10714290.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-10-13T13:52:21+08:00",
-      "abstract": "中新网金华10月13日电 题：青年蹲点“浙中蜜蜂村”：大山里的“青春必修课”",
+      "published": "2026-10-14T11:53:59+08:00",
+      "abstract": "中新网上海10月14日电 (记者 陈静)今年10月16日，恰逢中国第一颗原子弹爆炸成功62周年，也是华东师范大学建校75周年。13日，核物理领域知名科学家、中国科学院院士、华东师范大学校长马余刚为师生们带来一堂《“核”以报国——漫谈大科学时代的核科技》沉浸式大思政课。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "2026年全国中南区射击锦标赛（步手枪项目）在广州收官",
-      "link": "https://www.chinanews.com.cn/ty/2026/10-13/10714067.shtml",
+      "title": "浙江省第十八届运动会将在衢州开幕 参赛规模创历史新高",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-14/10714693.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-10-13T22:31:25+08:00",
-      "abstract": "中新网广州10月13日电 (记者 张璐)记者13日从广东省黄村体育训练中心获悉，2026年全国中南区射击锦标赛(步手枪项目)(简称“赛事”)13日在广东省黄村体育训练中心收官。",
+      "published": "2026-10-14T21:46:13+08:00",
+      "abstract": "中新网杭州10月14日电(肖健 胡莘菻)10月14日，2026年浙江省第十八届运动会新闻通气会在杭州举行。记者从会上获悉，浙江省运会将于10月18日在衢州市体育中心开幕，并于10月30日闭幕。作为浙江省规格最高、规模最大、影响最广的综合性体育盛会，本届赛事秉持“简约、安全、精彩”的办赛理念，浙江全省11个设区市组团参赛",
       "tier": 1,
       "also": []
     }
