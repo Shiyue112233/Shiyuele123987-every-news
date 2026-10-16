@@ -1,0 +1,277 @@
+{
+  "generated_at": "2026-10-16T08:33:07.528563+08:00",
+  "count": 20,
+  "quote": {
+    "text": "时间管理的本质，是精力管理。",
+    "author": "工作手记"
+  },
+  "tool": {
+    "name": "Everything + QuickLook",
+    "price": "免费",
+    "category": "文件预览",
+    "desc": "空格键直接预览 PDF/表格/图片，不必打开大软件。",
+    "url": "https://github.com/QL-Win/QuickLook"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 22条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 95条",
+    "创业邦 30条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 32条",
+    "BBC Business 47条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 56条",
+    "DW 中文 52条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [],
+  "items": [
+    {
+      "title": "全国粮食标准仓房完好仓容达7.3亿吨",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-16/10715387.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-16T08:07:08+08:00",
+      "abstract": "今天是2026年世界粮食日，今年的主题是“创新当下，粮安未来”。“十五五”时期，我国统筹粮食仓储设施存量和增量，优化布局、提升功能，稳步增加高标准粮仓规模。目前，我国粮食标准仓房完好仓容达7.3亿吨，低温准低温储粮仓容超过2.5亿吨，气调储粮仓容达到6700万吨，一大批现代化智能仓房投入使用。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "冷空气发威北方大部气温将创新低 大范围雨雪明起进入最强时段",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-16/10715396.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-16T08:31:47+08:00",
+      "abstract": "中国天气网讯 今天(10月16日)至19日，冷空气将自西向东影响长江中下游及其以北大部地区，西北地区东部、华北、黄淮等多地最高气温将刷新今年下半年来新低。降温的同时，大范围降水也将登场，北方多地将出现同期少见的强降雨。明天将是本轮降水过程的最强时段，大到暴雨范围明显扩大。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "从百年巴黎车展看国产品牌出海——中国车企，加速布局欧洲市场",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-16/10715395.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-16T08:26:51+08:00",
+      "abstract": "从百年巴黎车展看国产品牌出海——",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-10-16T07:38:46+08:00",
+      "abstract": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "tier": 1,
+      "also": [
+        "Al Jazeera",
+        "France24"
+      ]
+    },
+    {
+      "title": "Houthi Missiles Strike Government Headquarters in Yemen",
+      "link": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-10-16T08:14:38+08:00",
+      "abstract": "Five people were killed when the Houthi militia struck the Maashiq Palace in Aden, a Yemeni minister said.",
+      "tier": 1,
+      "also": [
+        "France24",
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "Three children and one adult reportedly killed in Oregon elementary school shooting",
+      "link": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-10-16T07:33:26+08:00",
+      "abstract": "<p>Police say gunman dead after shooting at Silver Rail elementary in Bend as local officials and FBI investigate</p><p>A gunman opened fire at an elementary sc",
+      "tier": 1,
+      "also": [
+        "Al Jazeera",
+        "France24",
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "四部门公布婴幼儿纸尿裤甲酰胺问题调查结果",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-15/10715100.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-10-15T16:03:21+08:00",
+      "abstract": "中新网10月15日电 据国家市场监督管理总局网站消息，2026年6月22日，市场监管总局、工业和信息化部、国家卫生健康委、国家疾控局针对舆情反映的婴幼儿纸尿裤甲酰胺问题成立联合调查组，坚持实事求是，认真核实线索，赴多地开展现场调查核实和研究论证，全面深入开展调查工作。目前，调查工作已结束，现将调查情况通报如下：",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "Living with a stink? Technology might help",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-10-16T07:18:21+08:00",
+      "abstract": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "能源早报 | 本轮国内成品油价格不作调整；赣锋锂业前三季度归母净利润同比增长195倍",
+      "link": "https://www.jiemian.com/article/15195700.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-10-16T08:00:50+08:00",
+      "abstract": "工信部副部长熊继军：坚决防范新型储能产业“内卷式”竞争；宁德时代曾毓群称，储能在电力系统的作用发生根本性变化。",
+      "tier": 2,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "一线城市商品住房销售制度改革细则全面落地 多地楼市稳步回暖",
+      "link": "http://money.eastmoney.com/news/11261,202610163897373839.html",
+      "source": "东方财富",
+      "category": "财经",
+      "published": "2026-10-16T07:17:00+08:00",
+      "abstract": "10月15日，深圳市住房和建设局、深圳市规划和自然资源局、国家金融监督管理总局深圳监管局三部门联合印发关于贯彻落实《关于完善商品住房销售制度的通知》的实施意见（下称“实施意见”），并自发布之日起施行。 此前的8月28日，住房城乡建设部、自然资源部、金融监管总局联合发布《关于完善商品住房销售制度的通知》，部署各地要有力有",
+      "tier": 2,
+      "also": [
+        "中新网·国际"
+      ]
+    },
+    {
+      "title": "美国八个州起诉 OpenAI 称 ChatGPT 伤害年轻用户",
+      "link": "https://www.solidot.org/story?sid=85616",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-10-15T14:12:47+08:00",
+      "abstract": "堪萨斯州、亚利桑那州和蒙大拿州等美国八个州对 OpenAI 提起诉讼，指控 ChatGPT 诱导儿童自我伤害。八个州要求 OpenAI 改变其产品与年轻用户互动的方式，没收由此产生的利润。诉讼指出 ChatGPT 的设计初衷是通过表现得随和、善于互动去赢得用户信任。但诉讼称聊天机器人会强化妄想、鼓励危险行为，协助用户策",
+      "tier": 2,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "Porn showing choking or incest to be banned from early November, government says",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "category": "科技",
+      "published": "2026-10-16T07:27:57+08:00",
+      "abstract": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Trump cancels Pentagon plans to livestream firing squad execution",
+      "link": "https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-10-16T02:16:36+08:00",
+      "abstract": "8 in 10 Americans opposed the Pentagon's plans, a Thursday poll showed.",
+      "tier": 2,
+      "also": [
+        "BBC World",
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "link": "https://www.qbitai.com/2026/10/503303.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-15T09:56:20+08:00",
+      "abstract": "给企业Agent打了个样",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "link": "https://www.qbitai.com/2026/10/503294.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-14T18:41:47+08:00",
+      "abstract": "“具身进实景，劳动最光荣”",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Nearly half of reef-building corals face elevated relative risk of extinction",
+      "link": "https://www.nature.com/articles/s41586-026-11263-3",
+      "source": "Nature",
+      "category": "科学",
+      "published": "2026-10-15T00:00:00+08:00",
+      "abstract": "",
+      "tier": 1,
+      "also": [
+        "Phys.org"
+      ]
+    },
+    {
+      "title": "Chasing China’s Monazite Monopoly",
+      "link": "https://spectrum.ieee.org/china-rare-earth-minerals",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-10-15T22:54:03+08:00",
+      "abstract": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among th",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "我国大部地区有降水过程 较强冷空气将自西向东影响我国大部地区",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-16/10715388.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-10-16T08:25:37+08:00",
+      "abstract": "中新网10月16日电 据中央气象台网站消息，昨日，湖南、江西等地出现较强降雨，新疆等地出现强降雪和大风降温。预计16日至19日，冷空气将继续影响我国大部地区，带来大风、降温和雨雪天气，注意防范对交通运输、农业、城市运行等的影响，并做好森林草原和城乡防火工作。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "118所大学336个学科点入选软科“中国顶尖学科”",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-15/10714963.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-10-15T13:49:38+08:00",
+      "abstract": "中新网广州10月15日电 (记者 许青青)高等教育评价专业机构软科15日发布“2026软科中国最好学科排名”，内地共有118所大学的336个学科点入选中国顶尖学科。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "业界人士西安共议新能源汽车赛事产业发展 探索体育文旅融合新路径",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-15/10715338.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-10-15T21:52:46+08:00",
+      "abstract": "中新网西安10月15日电 (记者 党田野 张一辰)2026中国新能源汽车赛事产业高质量发展高峰研讨会15日在西安举行，来自主管部门、行业协会、赛车界、技术界、车企及沿黄九省区汽摩协会的业内嘉宾齐聚，围绕新能源汽车赛事升级、产业价值释放、文旅融合发展等核心议题，开展深度务实研讨。",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}
