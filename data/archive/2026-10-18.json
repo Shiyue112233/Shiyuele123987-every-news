@@ -1,0 +1,276 @@
+{
+  "generated_at": "2026-10-18T08:08:28.379115+08:00",
+  "count": 20,
+  "quote": {
+    "text": "把问题写下来，答案往往就浮现了一半。",
+    "author": "工作手记"
+  },
+  "tool": {
+    "name": "Typora",
+    "price": "付费",
+    "category": "写作",
+    "desc": "所见即所得的 Markdown 编辑器，写技术报告排版干净。",
+    "url": "https://typora.io/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 23条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 93条",
+    "创业邦 30条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 27条",
+    "BBC Business 49条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 51条",
+    "DW 中文 57条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [
+    "Nature(无条目)"
+  ],
+  "items": [
+    {
+      "title": "孟加拉国度假村火灾已致10人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716479.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-17T23:45:20+08:00",
+      "abstract": "据孟加拉国消防和民防部门最新通报，当地时间17日早晨，该国东南部科克斯巴扎尔地区一度假村餐厅当天发生火灾，已造成10人死亡，多人受伤。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "世界超级摩托车锦标赛西班牙站：“张雪机车”首回合获第10名",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-17/10716478.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-17T23:20:56+08:00",
+      "abstract": "中新社西班牙赫雷兹10月17日电 当地时间17日，2026世界超级摩托车锦标赛(WSBK)西班牙赫雷兹站WorldSSP组别首回合正赛中，中国摩托车制造商“张雪机车”的法国车手瓦伦丁·德比斯获第10名，他的队友、意大利车手费德里科·卡里卡苏洛位列第14名。雅马哈车手阿雷纳斯夺得冠军。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "10月18日新闻早报",
+      "link": "https://www.chinanews.com.cn/iframe/2026/10-18/10716483.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-18T07:00:00+08:00",
+      "abstract": "",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-10-18T07:52:38+08:00",
+      "abstract": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "tier": 1,
+      "also": [
+        "France24",
+        "NPR World",
+        "The Guardian·World",
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "No action to be taken against wife of PM’s aide over Palestine Action post",
+      "link": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-10-18T03:47:45+08:00",
+      "abstract": "<p>Tweet by Sarah Helm, wife of national security adviser Jonathan Powell, ‘does not meet criminal threshold’</p><p>No further action will be taken against Sara",
+      "tier": 1,
+      "also": [
+        "BBC Tech"
+      ]
+    },
+    {
+      "title": "美媒：上任不到一周，扎卡里亚不再担任白宫新闻秘书",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716066.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-10-17T08:59:24+08:00",
+      "abstract": "中新网10月17日电 据《华尔街日报》16日报道，知情人士透露，上任不到一周的凯蒂·扎卡里亚不再担任白宫新闻秘书一职。",
+      "tier": 1,
+      "also": [
+        "DW 中文"
+      ]
+    },
+    {
+      "title": "特朗普签署豁免令 暂缓对俄多项制裁、限制及关税",
+      "link": "https://www.dw.com/zh/特朗普签署豁免令-暂缓对俄多项制裁、限制及关税/a-79686658?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "category": "国际",
+      "published": "2026-10-17T09:56:00+08:00",
+      "abstract": "美国总统特朗普以国家利益为由签署豁免令，暂缓实施国会此前通过的新一轮对俄制裁措施。措施原本旨在通过关税和制裁加大对莫斯科压力。豁免令正值美俄达成柴油交易之际，莫斯科表示欢迎，批评者称特朗普此举是向普京让步，背弃乌克兰及欧洲盟友。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "How day of protests unfolded as disorder breaks out across France",
+      "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-10-18T05:33:17+08:00",
+      "abstract": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+      "tier": 1,
+      "also": [
+        "France24"
+      ]
+    },
+    {
+      "title": "（友城故事）福建拓国际友城务实合作 达成系列合作成果",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716471.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-10-17T22:12:45+08:00",
+      "abstract": "中新社福州10月17日电 (记者 闫旭)“马普托是南部非洲重要滨海港口城市，与福建在海洋产业、临港经济合作潜力巨大。”莫桑比克马普托市市长拉萨克·马尼克17日在福州表示，希望深化与福建友好城市交往，拓展海洋经济务实合作。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Low-cost clinic helps pet owners with vet bills",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-10-17T22:12:02+08:00",
+      "abstract": "RSPCA Medway West launches its clinic for the pets of people with low incomes.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易",
+      "link": "https://www.solidot.org/story?sid=85638",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-10-17T23:55:34+08:00",
+      "abstract": "协作游戏逆向工程网站 decomp.dev 宣布将关闭，管理员称 AI 让游戏反编译变得快且易于操作，基于人工的社区协作模式实际上已经瓦解，无法再区分哪些项目是以人工为主导的，哪些是由 AI 完成的。decomp.dev 管理员 Encounter 在官网声明中表示，从历史上看，匹配反编译一直是极其困难且耗时的任务，即",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "TikTok bans Musk documentary account",
+      "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "source": "The Verge",
+      "category": "科技",
+      "published": "2026-10-17T15:32:23+08:00",
+      "abstract": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediate",
+      "tier": 2,
+      "also": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相",
+      "link": "http://www.geekpark.net/news/372509",
+      "source": "极客公园",
+      "category": "科技",
+      "published": "2026-10-17T10:46:16+08:00",
+      "abstract": "人们已经很多年没见过，苹果的新品被这样抢了。 10 月 16 日晚 8 点，苹果首款折叠屏 iPhone Duo 开启预购。社交媒体上流传的说法是，开售 1 分钟，全型号库存就空了，京东、天猫页面相继显示售罄。 大约 40 分钟后，苹果官网的预计送达时间已经跳到了 2027 年 1 月底。 几个小时后，大洋彼岸的美国东",
+      "tier": 2,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+      "link": "https://www.qbitai.com/2026/10/503880.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-16T20:54:54+08:00",
+      "abstract": "从搭载物理建模能力的世界模型切入",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+      "link": "https://www.qbitai.com/2026/10/503865.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-16T16:12:01+08:00",
+      "abstract": "VLA解决“能干”，世界模型解决“想清楚再干”",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
+      "link": "https://spectrum.ieee.org/variable-frequency-drives",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-10-17T21:00:02+08:00",
+      "abstract": "This article was originally published by Canary Media.America’s energy supply crunch is driving a surge of federal and private investment in new electricity gen",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Scientists discover cell division does more than make new cells: It helps reshape tissues",
+      "link": "https://phys.org/news/2026-10-scientists-cell-division-cells-reshape.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-10-17T02:20:01+08:00",
+      "abstract": "Every time a tissue grows or renews itself, cells must divide inside an already crowded environment. That creates a fundamental problem that scientists have not",
+      "tier": 2,
+      "also": [
+        "ScienceDaily"
+      ]
+    },
+    {
+      "title": "澳门卫生局局长：发挥澳门独特优势 助力中医药创新出海",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-17/10716469.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-10-17T22:21:39+08:00",
+      "abstract": "中新社北京10月17日电 (记者 李纯 周昕 马帅莎)2026世界传统医药大会17日在北京启幕。澳门特区政府卫生局局长罗奕龙当日在接受媒体采访时表示，依托制度优势，澳门持续深化中医药守正创新，搭建传统医药国际交流桥梁，服务健康中国与粤港澳大湾区建设。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "京城学子上演人工智能科创实践秀",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-17/10716448.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-10-17T21:01:23+08:00",
+      "abstract": "中新网北京10月17日电 第二十七届北京市师生数字素养提升实践活动(人工智能实践活动)17日在北京市西城区青少年科学技术馆举办。来自北京全市各区中小学的200多支队伍、400多位选手，在8个平行赛道开展创意分享和实践探究，践行“做中学、用中学、创中学”的科创教育理念。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "宁波网球公开赛：网球名将探访甬城 感知城市魅力",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-17/10716405.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-10-17T21:26:30+08:00",
+      "abstract": "中新网宁波10月17日电(张煜欢)2026宁波银行·宁波网球公开赛正赛开赛在即，近日参赛球员走出赛场，探访城市展馆与山野艺文空间，沉浸式感受宁波历史底蕴与非遗手作魅力，在赛前开启别样的城市文化之旅。",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}
