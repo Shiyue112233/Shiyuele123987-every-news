@@ -1,0 +1,275 @@
+{
+  "generated_at": "2026-10-19T08:20:49.391485+08:00",
+  "count": 20,
+  "quote": {
+    "text": "别急着反驳，先确认你们说的是不是同一件事。",
+    "author": "沟通原则"
+  },
+  "tool": {
+    "name": "Pandoc",
+    "price": "免费",
+    "category": "文档转换",
+    "desc": "Markdown 一键转 Word/PPT/PDF，报告与专利交底书复用同一份源文件。",
+    "url": "https://pandoc.org/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 23条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 88条",
+    "创业邦 30条",
+    "Solidot 奇客 17条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 30条",
+    "BBC Business 41条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 52条",
+    "DW 中文 60条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [
+    "Nature(无条目)"
+  ],
+  "items": [
+    {
+      "title": "以色列大选将至 特朗普发文支持内塔尼亚胡竞选连任以总理",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716920.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-19T07:03:19+08:00",
+      "abstract": "中新网10月19日电 综合外媒报道，当地时间18日，美国总统特朗普在“真实社交”平台发文，公开表示对以色列总理内塔尼亚胡的支持，力挺他在以色列即将举行的大选中竞选连任。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "新一股冷空气将影响我国中东部大部地区",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-19/10716932.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-19T08:15:49+08:00",
+      "abstract": "中新网10月19日电 据中央气象台网站消息，19日至21日新一轮冷空气影响中东部地区，关注大风降温、雨雪天气对人体健康、交通出行等的影响，做好森林草原和城乡防火工作。20日开始，新疆北部将出现明显雨雪天气，防范对交通运输、城市运行等的影响。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "中央档案馆向社会集中开放5000余件长征专题档案",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-19/10716931.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-19T07:54:00+08:00",
+      "abstract": "为纪念中国工农红军长征胜利90周年，弘扬伟大长征精神，19日，中央档案馆向社会集中开放一批长征专题档案，共计5千余件。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-10-19T07:20:15+08:00",
+      "abstract": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "tier": 1,
+      "also": [
+        "France24"
+      ]
+    },
+    {
+      "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+      "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-10-19T07:53:13+08:00",
+      "abstract": "<p>Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’</p><p>Four people have been killed an",
+      "tier": 1,
+      "also": [
+        "France24"
+      ]
+    },
+    {
+      "title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+      "link": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-10-19T07:46:21+08:00",
+      "abstract": "Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on ",
+      "tier": 1,
+      "also": [
+        "NPR World"
+      ]
+    },
+    {
+      "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+      "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "国际",
+      "published": "2026-10-19T03:11:27+08:00",
+      "abstract": "Ukraine's president says communication between Washington and Kyiv 'virtually nonstop', despite a spat with Trump.",
+      "tier": 2,
+      "also": [
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "一杯奶茶钱的惠民保如何更有吸引力？",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-19/10716928.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-10-19T07:40:01+08:00",
+      "abstract": "因保费低、带病可保而走红，却也因免赔额高被吐槽小病“够不着”——",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-10-19T07:28:45+08:00",
+      "abstract": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "科技早报 | iPhone Duo黄牛溢价已有回落；英伟达辟谣RTX 5090停产",
+      "link": "https://www.jiemian.com/article/15204111.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-10-19T08:05:00+08:00",
+      "abstract": "古尔曼：苹果在供应有限的情况下过早推出iPhone Duo；马斯克：正开发专用议价机器人；多家半导体龙头出手回购。",
+      "tier": 2,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "天文学家发现第一颗绿色恒星",
+      "link": "https://www.solidot.org/story?sid=85637",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-10-17T23:29:26+08:00",
+      "abstract": "天文学家可能发现了第一颗绿色恒星——名为 WD J1330+6435 的白矮星，位于地球 326 光年外。部分死亡恒星——即白矮星——在吞噬围绕其运行的行星后，可能会呈现出绿色。WD J1330+6435 一直在吸积其行星伴星上的岩石物质。这一过程使其大气中富含钙、锂和钠元素。模型表明这些元素的存在使得 WD J133",
+      "tier": 2,
+      "also": [
+        "极客公园"
+      ]
+    },
+    {
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "category": "科技",
+      "published": "2026-10-19T07:24:59+08:00",
+      "abstract": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Video game ownership bill introduced in Congress",
+      "link": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+      "source": "The Verge",
+      "category": "科技",
+      "published": "2026-10-18T12:27:51+08:00",
+      "abstract": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct t",
+      "tier": 2,
+      "also": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "link": "https://www.qbitai.com/2026/10/504067.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-17T20:21:09+08:00",
+      "abstract": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+      "tier": 2,
+      "also": [
+        "极客公园"
+      ]
+    },
+    {
+      "title": "智谱新模型，懂法方面全球第一了",
+      "link": "https://www.qbitai.com/2026/10/503965.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-17T20:13:45+08:00",
+      "abstract": "AI的风还是刮到了法律圈",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Dozens of orangutans saved from Indonesia blazes as region grapples with haze",
+      "link": "https://phys.org/news/2026-10-dozens-orangutans-indonesia-blazes-region.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-10-18T23:19:40+08:00",
+      "abstract": "Dozens of critically endangered orangutans have been rescued in recent weeks from rampant wildfires burning across Indonesia that have cloaked the region in tox",
+      "tier": 2,
+      "also": [
+        "France24"
+      ]
+    },
+    {
+      "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
+      "link": "https://spectrum.ieee.org/variable-frequency-drives",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-10-17T21:00:02+08:00",
+      "abstract": "This article was originally published by Canary Media.America’s energy supply crunch is driving a surge of federal and private investment in new electricity gen",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "老年人口逐年增加 城乡多元模式破解照护难题",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-19/10716930.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-10-19T07:46:13+08:00",
+      "abstract": "近几年，我国老年人口的数量在逐年增加，数据显示，截至2023年底、2024年底、2025年底，全国60周岁及以上老年人口分别是2.97亿、3.10亿和3.23亿人。而另一方面，同样是这三年的统计数据，全国各类养老机构和设施中养老床位的数量却在逐年减少。这两个数据一增一减，背后的原因是什么？能否满足社会养老需求？各地有何",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "京城学子上演人工智能科创实践秀",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-17/10716448.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-10-17T21:01:23+08:00",
+      "abstract": "中新网北京10月17日电 第二十七届北京市师生数字素养提升实践活动(人工智能实践活动)17日在北京市西城区青少年科学技术馆举办。来自北京全市各区中小学的200多支队伍、400多位选手，在8个平行赛道开展创意分享和实践探究，践行“做中学、用中学、创中学”的科创教育理念。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "张雪机车德比斯年度亚军",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-18/10716825.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-10-18T20:30:04+08:00",
+      "abstract": "2026世界超级摩托车锦标赛(WSBK)18日在西班牙站迎来赛季收官日，中国摩托车制造商“张雪机车”车手瓦伦丁·德比斯以该组别年度车手亚军的成绩结束本赛季征程。“张雪机车”获制造商年度第三名。",
+      "tier": 1,
+      "also": [
+        "ZOL 科技"
+      ]
+    }
+  ]
+}
