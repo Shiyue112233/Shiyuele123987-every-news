@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-10-22T08:47:02.405128+08:00",
+  "generated_at": "2026-10-23T08:47:43.793282+08:00",
   "count": 20,
   "quote": {
-    "text": "学会向昨天借经验，向明天借勇气。",
+    "text": "看得远的人，容得下当下的慢。",
     "author": "工作手记"
   },
   "tool": {
-    "name": "Zotero + Better BibTeX",
+    "name": "LocalSend",
     "price": "免费",
-    "category": "文献管理",
-    "desc": "论文刚出来先收藏，写标书时自动抽题录，省去手工整理。",
-    "url": "https://retorque.re/zotero-better-bibtex/"
+    "category": "传文件",
+    "desc": "手机电脑之间局域网直接传文件，不经过云端，传实验照片很方便。",
+    "url": "https://localsend.org/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 27条",
+    "中新网·教育 22条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 98条",
+    "东方财富 86条",
     "创业邦 30条",
     "极客公园 30条",
     "少数派 10条",
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 38条",
-    "BBC Business 55条",
+    "BBC World 39条",
+    "BBC Business 57条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
-    "纽约时报·国际 49条",
+    "纽约时报·国际 48条",
     "DW 中文 52条",
     "Al Jazeera 25条",
     "France24 24条",
@@ -50,201 +50,206 @@
   ],
   "items": [
     {
-      "title": "美副总统万斯：乌克兰不是北约成员，也不应加入北约",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718847.shtml",
+      "title": "西藏巴青县发生7.0级地震 国家地震灾害应急响应提升至三级",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-23/10719494.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-22T08:42:38+08:00",
-      "abstract": "中新网10月22日电 综合外媒20日报道，美国副总统万斯表示，美国与乌克兰没有正式结盟，乌克兰不是北约成员，也不应加入北约，但他同时表示，美国会在某些方面继续与乌克兰合作。",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "中国体操队时隔20年再夺世锦赛女团金牌",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/10-22/1208489.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-10-22T08:41:37+08:00",
-      "abstract": "",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "90年了，这群拼命赶路的人，不能忘！",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-22/10718843.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-10-22T08:32:34+08:00",
-      "abstract": "1934年",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "国际",
-      "published": "2026-10-22T07:04:03+08:00",
-      "abstract": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-      "tier": 1,
-      "also": [
-        "Ars Technica",
-        "The Guardian·World"
-      ]
-    },
-    {
-      "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – live",
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-      "source": "The Guardian·World",
-      "category": "国际",
-      "published": "2026-10-22T08:34:52+08:00",
-      "abstract": "<p>‘That was great, man. Wow. Man, I loved that,’ the president says from podium as multiple protesters interrupt his remarks</p><ul><li><p><a href=\"https://www",
-      "tier": 1,
-      "also": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "title": "Pope Needs No Further Treatment for Lung Cancer, Doctors Say",
-      "link": "https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html",
-      "source": "纽约时报·国际",
-      "category": "国际",
-      "published": "2026-10-22T06:18:16+08:00",
-      "abstract": "Test results after the operation showed that the cancer was localized.",
-      "tier": 1,
-      "also": [
-        "Al Jazeera",
-        "BBC World",
-        "France24"
-      ]
-    },
-    {
-      "title": "日本新农相连曝多起丑闻 民众对高市政府不信任感加剧",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718434.shtml",
-      "source": "中新网·国际",
-      "category": "国际",
-      "published": "2026-10-21T21:57:21+08:00",
-      "abstract": "中新网10月21日电 据日本共同社21日报道，日本农林水产大臣武部新上任仅数日，便连续被曝出多起丑闻。武部新上任数日就出现“政治与金钱”相关问题，使高市早苗政府的危机管理能力备受质疑，高市的任命责任或将面临严厉审视。",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "2026金融街论坛年会金融科技大会在京举办",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-21/10718797.shtml",
-      "source": "中新网·财经",
-      "category": "财经",
-      "published": "2026-10-21T23:24:45+08:00",
-      "abstract": "中新网北京10月21日电 2026金融街论坛年会正在北京举行。20日，以“智能驱动 融合共生——智能经济新形态下的金融科技”为主题的2026金融街论坛年会金融科技大会在京开幕。",
+      "published": "2026-10-23T08:46:55+08:00",
+      "abstract": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震，已造成16人遇难，54人受伤。",
       "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "中国体操女团世锦赛夺冠，锁定洛杉矶奥运会团体参赛席位",
-      "link": "https://www.jiemian.com/article/15220755.html",
-      "source": "界面新闻",
-      "category": "财经",
-      "published": "2026-10-22T08:10:12+08:00",
-      "abstract": "北京时间10月22日，2026年体操世锦赛在荷兰鹿特丹结束了女子团体决赛的争夺。由张清颖、柯沁沁、杜思雨、邱祺缘和张怡涵组成的中国队以165.764分的成绩夺得冠军，锁定2028年洛杉矶奥运会团体参赛席位。（央视新闻）",
-      "tier": 2,
+      "title": "西藏那曲发生7.0级地震，自然资源部启动地质灾害防御Ⅲ‌级响应",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-23/10719482.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-23T08:32:42+08:00",
+      "abstract": "中新网10月23日电 据自然资源部微信公众号消息，据中国地震台网测定，10月22日22时33分，西藏那曲市巴青县(北纬32.4度，东经93.79度)发生7.0级地震，震源深度10公里。为做好地震可能引发次生地质灾害防范工作，自然资源部于10月23日6时对西藏启动地质灾害防御Ⅲ#8204;级响应，在前期驻守基础上，加派司",
+      "tier": 1,
       "also": [
-        "中新网·体育"
+        "界面新闻"
       ]
     },
     {
-      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "title": "西藏那曲市巴青县发生7.0级地震 西部战区官兵连夜救援",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-23/10719468.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-23T07:27:11+08:00",
+      "abstract": "中新网10月23日电 据“西部战区”微信公众号消息，10月22日22时33分，西藏那曲市巴青县(北纬32.40度，东经93.79度)发生7.0级地震，震源深度10千米。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-10-23T08:25:30+08:00",
+      "abstract": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "Massive student-led rally marches in Belgrade ahead of Serbian election",
+      "link": "https://www.theguardian.com/world/2026/oct/23/serbia-election-student-list-rally-belgrade-aleksandar-vucic",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-10-23T08:22:56+08:00",
+      "abstract": "<p>Student List movement hopes to oust the party of veteran leader Aleksandar Vucic in a pivotal vote on Sunday</p><ul><li><p><a href=\"https://www.theguardian.c",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-10-23T02:07:36+08:00",
+      "abstract": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom",
+      "tier": 1,
+      "also": [
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "中国监管或成最大障碍 特斯拉与SpaceX合并如何出招",
+      "link": "https://www.dw.com/zh/中国监管或成最大障碍-特斯拉与spacex合并如何出招/a-79731764?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "category": "国际",
+      "published": "2026-10-22T11:27:00+08:00",
+      "abstract": "马斯克周二宣布，特斯拉和SpaceX已成立特别委员会研究合并事宜，这笔估值3.5万亿美元的交易将是史上最大并购。但特斯拉高度依赖中国生产，SpaceX又深度参与美国国防业务，交易恐面临中美两国的监管障碍，而中国方面难题尤其不易破解。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "全国蛋价跌回“4元时代” 未来还会降吗？走势预测→",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-23/10719473.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-10-23T07:45:48+08:00",
+      "abstract": "鸡蛋是老百姓菜篮子里的刚需品，国庆节前还挺贵的鸡蛋，现在价格明显回落，不少市民买鸡蛋都感受到了实惠。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "财经",
-      "published": "2026-10-21T16:42:49+08:00",
-      "abstract": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "published": "2026-10-23T07:20:38+08:00",
+      "abstract": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
       "tier": 1,
+      "also": []
+    },
+    {
+      "title": "网红钛制品真能抑菌保鲜吗？先认准钛的“身份证”",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-23/10719472.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-10-23T07:42:08+08:00",
+      "abstract": "真相来了丨网红钛制品真能抑菌保鲜吗？先认准钛的“身份证”",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "category": "科技",
+      "published": "2026-10-23T02:26:56+08:00",
+      "abstract": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source": "The Verge",
+      "category": "科技",
+      "published": "2026-10-22T17:51:25+08:00",
+      "abstract": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model",
+      "tier": 2,
       "also": [
-        "Ars Technica"
+        "TechCrunch"
       ]
     },
     {
-      "title": "我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」",
-      "link": "http://www.geekpark.net/news/372710",
+      "title": "被迫下场，Anthropic 推出个人 AI 助理 Claude Duet",
+      "link": "http://www.geekpark.net/news/372740",
       "source": "极客公园",
       "category": "科技",
-      "published": "2026-10-22T08:14:02+08:00",
-      "abstract": "头图图片来源：极客公园我在 iPhone Duo 上，把淘宝、高德、小红书、腾讯视频、飞书、WPS、XMind，还有篮球游戏 NBA 巅峰对决，这 8 个为它做过适配的 App 挨个用了一遍。淘宝从首页到客服消息，整条购物链路都动过；高德把路线和地图拆成了左右两半；小红书的笔记，变成了左边看图、右边看正文和评论。这台手",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
-      "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-22T03:42:32+08:00",
-      "abstract": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
+      "published": "2026-10-22T15:23:08+08:00",
+      "abstract": "作者｜桦林舞王 编辑｜靖宇 用过各种 AI 助手的人大概都有过同一种疲劳：你不开口，它就装死；你一旦开口，它又把所有选择抛回给你。 过去两个多月，硅谷巨头们几乎排着队想打破这种被动状态。8 月 xAI 推出能多智能体分工的 Grok Bot，9 月 Meta 带着能在 WhatsApp 里帮人砍账单的 Muse 席卷千",
       "tier": 2,
       "also": [
-        "France24"
+        "开源中国"
       ]
     },
     {
-      "title": "The Download: introducing the Impossible issue",
-      "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
-      "source": "MIT Tech Review",
-      "category": "科技",
-      "published": "2026-10-21T20:10:00+08:00",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impos",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-      "link": "https://www.qbitai.com/2026/10/504608.html",
+      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "link": "https://www.qbitai.com/2026/10/504841.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-10-21T10:37:39+08:00",
-      "abstract": "先看真实问题解决力",
+      "published": "2026-10-22T15:14:48+08:00",
+      "abstract": "FSD一年增长70万付费用户",
       "tier": 2,
       "also": []
     },
     {
-      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
-      "link": "https://www.qbitai.com/2026/10/504551.html",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "link": "https://www.qbitai.com/2026/10/504832.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-10-21T09:04:35+08:00",
-      "abstract": "电池、电驱、超充一把梭，冬天多跑30公里",
+      "published": "2026-10-22T15:11:14+08:00",
+      "abstract": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
       "tier": 2,
       "also": []
     },
     {
-      "title": "De novo design of enantioselective artificial metalloenzyme photocatalysts",
-      "link": "https://www.nature.com/articles/s41586-026-11317-6",
+      "title": "Can a 'lullaby' save coral reefs from extinction?",
+      "link": "https://www.nature.com/articles/d41586-026-03414-3",
       "source": "Nature",
       "category": "科学",
-      "published": "2026-10-21T00:00:00+08:00",
+      "published": "2026-10-22T00:00:00+08:00",
       "abstract": "",
       "tier": 1,
-      "also": []
+      "also": [
+        "Al Jazeera"
+      ]
     },
     {
-      "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
-      "link": "https://spectrum.ieee.org/schindler-2027-ieee-president-elect",
+      "title": "Why AI Can’t Replace Engineering Teams",
+      "link": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
       "source": "IEEE Spectrum",
       "category": "科学",
-      "published": "2026-10-22T02:00:03+08:00",
-      "abstract": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect. He will begin serving as president on 1 January 2028.Schindler, ",
+      "published": "2026-10-23T02:02:20+08:00",
+      "abstract": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partne",
       "tier": 2,
       "also": []
     },
     {
-      "title": "旅客预订机票后因病申请退票被拒产生纠纷 专家解析",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-22/10718830.shtml",
+      "title": "西藏那曲市巴青县附近发生6.7级左右地震",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-22/10719430.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-10-22T07:42:11+08:00",
-      "abstract": "旅客预订机票后因病申请退票被拒产生纠纷 专家指出",
+      "published": "2026-10-22T22:44:08+08:00",
+      "abstract": "中新网10月22日电 据中国地震台网官方微博消息，中国地震台网自动测定：10月22日22时33分在西藏那曲市巴青县附近(北纬32.43度，东经93.82度)发生6.7级左右地震，最终结果以正式速报为准。",
       "tier": 1,
-      "also": []
+      "also": [
+        "东方财富"
+      ]
     },
     {
       "title": "“境外媒体对话大学书记/校长”活动启动 首场亮相南京大学",
@@ -257,12 +262,12 @@
       "also": []
     },
     {
-      "title": "2026中国业余高尔夫球队际公开赛西部大区赛圆满收官",
-      "link": "https://www.chinanews.com.cn/ty/2026/10-21/10718724.shtml",
+      "title": "3-0击败韩国！国乒获乒乓球亚锦赛男团冠军",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-23/10719456.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-10-21T20:51:51+08:00",
-      "abstract": "中新网武汉10月21日电 2026一龄·中国业余高尔夫球队际公开赛(以下简称“中国队际赛”)西部大区赛21日在武汉收官。经过两轮激烈角逐，团队得分冠军由重庆南山队义字堂球队获得，团队净杆冠军由现代天外天高尔夫精英队获得。依照赛事竞赛规则，共计11支球队成功突围，拿到总决赛参赛资格。",
+      "published": "2026-10-23T06:10:37+08:00",
+      "abstract": "北京时间10月22日，2026亚洲乒乓球锦标赛在乌兹别克斯坦塔什干举行。男团决赛，中国队3-0战胜韩国队，获得冠军。",
       "tier": 1,
       "also": []
     }
