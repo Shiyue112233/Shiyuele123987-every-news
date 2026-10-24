@@ -1,38 +1,39 @@
 {
-  "generated_at": "2026-10-23T08:47:43.793282+08:00",
+  "generated_at": "2026-10-24T08:54:55.186900+08:00",
   "count": 20,
   "quote": {
-    "text": "看得远的人，容得下当下的慢。",
+    "text": "把注意力当作货币，只花在真正重要的人和事上。",
     "author": "工作手记"
   },
   "tool": {
-    "name": "LocalSend",
-    "price": "免费",
-    "category": "传文件",
-    "desc": "手机电脑之间局域网直接传文件，不经过云端，传实验照片很方便。",
-    "url": "https://localsend.org/"
+    "name": "LangChain / LlamaIndex",
+    "price": "开源",
+    "category": "AI 应用",
+    "desc": "把公司内部专利、文献、实验记录接进大模型做问答的常用框架。",
+    "url": "https://www.langchain.com/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 22条",
+    "中新网·教育 19条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 86条",
+    "东方财富 98条",
     "创业邦 30条",
+    "Solidot 奇客 20条",
     "极客公园 30条",
     "少数派 10条",
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 39条",
-    "BBC Business 57条",
+    "BBC World 21条",
+    "BBC Business 55条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
-    "纽约时报·国际 48条",
-    "DW 中文 52条",
+    "纽约时报·国际 46条",
+    "DW 中文 59条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -45,229 +46,231 @@
     "Phys.org 30条",
     "ScienceDaily 60条"
   ],
-  "sources_failed": [
-    "Solidot 奇客(URLError: <urlopen error [Errno 111] Connection refused>)"
-  ],
+  "sources_failed": [],
   "items": [
     {
-      "title": "西藏巴青县发生7.0级地震 国家地震灾害应急响应提升至三级",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-23/10719494.shtml",
+      "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720168.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-23T08:46:55+08:00",
-      "abstract": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震，已造成16人遇难，54人受伤。",
+      "published": "2026-10-24T06:35:24+08:00",
+      "abstract": "当地时间10月23日，美国总统特朗普表示，美国或许会再来一次小规模的“史诗怒火”行动，又或者伊朗会选择妥协。特朗普称，如果伊朗足够聪明，就会直接说：“咱们来谈正事吧。”",
       "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "西藏那曲发生7.0级地震，自然资源部启动地质灾害防御Ⅲ‌级响应",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-23/10719482.shtml",
+      "title": "俄军宣布27日在赫尔松方向实施停火",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720166.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-23T08:32:42+08:00",
-      "abstract": "中新网10月23日电 据自然资源部微信公众号消息，据中国地震台网测定，10月22日22时33分，西藏那曲市巴青县(北纬32.4度，东经93.79度)发生7.0级地震，震源深度10公里。为做好地震可能引发次生地质灾害防范工作，自然资源部于10月23日6时对西藏启动地质灾害防御Ⅲ#8204;级响应，在前期驻守基础上，加派司",
+      "published": "2026-10-24T06:33:14+08:00",
+      "abstract": "中新社莫斯科10月23日电 俄罗斯武装力量总参谋长格拉西莫夫23日表示，鉴于在赫尔松州奥列什基(又称阿廖什基)居民点开展人道主义行动，俄军决定在赫尔松方向实施停火，自莫斯科时间10月27日4时起进入“静默状态”。",
       "tier": 1,
       "also": [
         "界面新闻"
       ]
     },
     {
-      "title": "西藏那曲市巴青县发生7.0级地震 西部战区官兵连夜救援",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-23/10719468.shtml",
+      "title": "泽连斯基确认乌美俄三方会谈将于11月上半月举行",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720158.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-23T07:27:11+08:00",
-      "abstract": "中新网10月23日电 据“西部战区”微信公众号消息，10月22日22时33分，西藏那曲市巴青县(北纬32.40度，东经93.79度)发生7.0级地震，震源深度10千米。",
+      "published": "2026-10-24T00:19:02+08:00",
+      "abstract": "乌克兰总统泽连斯基23日表示，他已与美国总统特使威特科夫和女婿库什纳通话，与俄罗斯和美国方面举行会晤的计划安排在11月上半月。泽连斯基同时表示，乌方愿意在任何一天举行会晤。",
       "tier": 1,
       "also": [
-        "东方财富"
+        "东方财富",
+        "界面新闻"
       ]
     },
     {
-      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-10-23T08:25:30+08:00",
-      "abstract": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+      "published": "2026-10-24T03:46:30+08:00",
+      "abstract": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
       "tier": 1,
       "also": [
-        "Al Jazeera"
+        "Al Jazeera",
+        "纽约时报·国际"
       ]
     },
     {
-      "title": "Massive student-led rally marches in Belgrade ahead of Serbian election",
-      "link": "https://www.theguardian.com/world/2026/oct/23/serbia-election-student-list-rally-belgrade-aleksandar-vucic",
+      "title": "Macron condemns racism after one killed in ‘terrorist’ shooting near Paris",
+      "link": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris",
       "source": "The Guardian·World",
       "category": "国际",
-      "published": "2026-10-23T08:22:56+08:00",
-      "abstract": "<p>Student List movement hopes to oust the party of veteran leader Aleksandar Vucic in a pivotal vote on Sunday</p><ul><li><p><a href=\"https://www.theguardian.c",
+      "published": "2026-10-24T05:44:50+08:00",
+      "abstract": "<p>Gunman opens fire from car in Trappes and Verrière, killing one and injuring five others, including a 12-year-old girl</p><p>Emmanuel Macron has condemned ra",
       "tier": 1,
       "also": [
-        "Al Jazeera"
+        "BBC World"
       ]
     },
     {
-      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
-      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-      "source": "纽约时报·国际",
+      "title": "2026全球治理论坛（雄安）开幕",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-23/10719904.shtml",
+      "source": "中新网·国际",
       "category": "国际",
-      "published": "2026-10-23T02:07:36+08:00",
-      "abstract": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom",
+      "published": "2026-10-23T18:18:54+08:00",
+      "abstract": "2026全球治理论坛(雄安)23日晚在河北雄安新区开幕。本次论坛以“重建信心与合作：百年变局与改革完善全球治理”为主题，邀请90多个国家的政界、战略界、学界、工商界及青年领袖等近400人参会，共商改革完善全球治理大计。",
       "tier": 1,
       "also": [
-        "The Guardian·World"
+        "ZOL 科技"
       ]
     },
     {
-      "title": "中国监管或成最大障碍 特斯拉与SpaceX合并如何出招",
-      "link": "https://www.dw.com/zh/中国监管或成最大障碍-特斯拉与spacex合并如何出招/a-79731764?maca=chi-rss-chi-all-1127-rdf",
-      "source": "DW 中文",
+      "title": "🔴 Live: France’s Macron arrives in Trappes after ‘racist terrorist attack’",
+      "link": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack",
+      "source": "France24",
       "category": "国际",
-      "published": "2026-10-22T11:27:00+08:00",
-      "abstract": "马斯克周二宣布，特斯拉和SpaceX已成立特别委员会研究合并事宜，这笔估值3.5万亿美元的交易将是史上最大并购。但特斯拉高度依赖中国生产，SpaceX又深度参与美国国防业务，交易恐面临中美两国的监管障碍，而中国方面难题尤其不易破解。",
+      "published": "2026-10-24T01:08:51+08:00",
+      "abstract": "",
+      "tier": 2,
+      "also": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "青海前三季度GDP同比增长5.1%",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-23/10720043.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-10-23T21:02:59+08:00",
+      "abstract": "中新网西宁10月23日电 (记者 孙睿)“今年前三季度，全省实现地区生产总值3150.37亿元(人民币，下同)，同比增长5.1%。”23日，青海省统计局党组成员、副局长陈宇祺表示，该省今年一季度GDP增速实现2024年来首次高于全国增速，前三季度延续，且高于全国的幅度由上半年的0.3个百分点扩大到0.5个百分点。",
       "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "全国蛋价跌回“4元时代” 未来还会降吗？走势预测→",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-23/10719473.shtml",
-      "source": "中新网·财经",
-      "category": "财经",
-      "published": "2026-10-23T07:45:48+08:00",
-      "abstract": "鸡蛋是老百姓菜篮子里的刚需品，国庆节前还挺贵的鸡蛋，现在价格明显回落，不少市民买鸡蛋都感受到了实惠。",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-      "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "财经",
-      "published": "2026-10-23T07:20:38+08:00",
-      "abstract": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+      "published": "2026-10-24T08:36:47+08:00",
+      "abstract": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
       "tier": 1,
       "also": []
     },
     {
-      "title": "网红钛制品真能抑菌保鲜吗？先认准钛的“身份证”",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-23/10719472.shtml",
-      "source": "中新网·财经",
+      "title": "资金借道宽基ETF逆势布局，近20个交易日净流入超2300亿元",
+      "link": "https://www.jiemian.com/article/15234435.html",
+      "source": "界面新闻",
       "category": "财经",
-      "published": "2026-10-23T07:42:08+08:00",
-      "abstract": "真相来了丨网红钛制品真能抑菌保鲜吗？先认准钛的“身份证”",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Tech",
-      "category": "科技",
-      "published": "2026-10-23T02:26:56+08:00",
-      "abstract": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "source": "The Verge",
-      "category": "科技",
-      "published": "2026-10-22T17:51:25+08:00",
-      "abstract": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model",
+      "published": "2026-10-24T08:36:21+08:00",
+      "abstract": "",
       "tier": 2,
       "also": [
-        "TechCrunch"
+        "东方财富"
       ]
     },
     {
-      "title": "被迫下场，Anthropic 推出个人 AI 助理 Claude Duet",
-      "link": "http://www.geekpark.net/news/372740",
-      "source": "极客公园",
+      "title": "浏览器 Arc 将于 12 月关闭",
+      "link": "https://www.solidot.org/story?sid=85692",
+      "source": "Solidot 奇客",
       "category": "科技",
-      "published": "2026-10-22T15:23:08+08:00",
-      "abstract": "作者｜桦林舞王 编辑｜靖宇 用过各种 AI 助手的人大概都有过同一种疲劳：你不开口，它就装死；你一旦开口，它又把所有选择抛回给你。 过去两个多月，硅谷巨头们几乎排着队想打破这种被动状态。8 月 xAI 推出能多智能体分工的 Grok Bot，9 月 Meta 带着能在 WhatsApp 里帮人砍账单的 Muse 席卷千",
+      "published": "2026-10-23T15:25:16+08:00",
+      "abstract": "The Browser Company 宣布其浏览器 Arc 将于 12 月 22 日关闭，用户将无法再能启动应用。Arc 基于 Chromium，于 2023 年释出了 1.0 版本，但 2024 年就停止了开发，2025 年 5 月宣布它正在开发 AI 驱动的浏览器 Dia。Arc 从 10 月 22 日起无法创建",
       "tier": 2,
       "also": [
         "开源中国"
       ]
     },
     {
-      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-      "link": "https://www.qbitai.com/2026/10/504841.html",
-      "source": "量子位",
-      "category": "AI",
-      "published": "2026-10-22T15:14:48+08:00",
-      "abstract": "FSD一年增长70万付费用户",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-      "link": "https://www.qbitai.com/2026/10/504832.html",
-      "source": "量子位",
-      "category": "AI",
-      "published": "2026-10-22T15:11:14+08:00",
-      "abstract": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "Can a 'lullaby' save coral reefs from extinction?",
-      "link": "https://www.nature.com/articles/d41586-026-03414-3",
-      "source": "Nature",
-      "category": "科学",
-      "published": "2026-10-22T00:00:00+08:00",
-      "abstract": "",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "category": "科技",
+      "published": "2026-10-24T08:05:45+08:00",
+      "abstract": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
       "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-10-23T06:12:19+08:00",
+      "abstract": "Markers released top-line results today after previously reporting the trial succeeded.",
+      "tier": 2,
       "also": [
-        "Al Jazeera"
+        "Nature"
       ]
     },
     {
-      "title": "Why AI Can’t Replace Engineering Teams",
-      "link": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "link": "https://www.qbitai.com/2026/10/504901.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-23T15:35:51+08:00",
+      "abstract": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "link": "https://www.qbitai.com/2026/10/504879.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-22T17:07:05+08:00",
+      "abstract": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "From Chip Lab to Center Stage",
+      "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
       "source": "IEEE Spectrum",
       "category": "科学",
-      "published": "2026-10-23T02:02:20+08:00",
-      "abstract": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partne",
+      "published": "2026-10-24T02:00:03+08:00",
+      "abstract": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned t",
       "tier": 2,
       "also": []
     },
     {
-      "title": "西藏那曲市巴青县附近发生6.7级左右地震",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-22/10719430.shtml",
-      "source": "中新网·社会",
-      "category": "社会",
-      "published": "2026-10-22T22:44:08+08:00",
-      "abstract": "中新网10月22日电 据中国地震台网官方微博消息，中国地震台网自动测定：10月22日22时33分在西藏那曲市巴青县附近(北纬32.43度，东经93.82度)发生6.7级左右地震，最终结果以正式速报为准。",
-      "tier": 1,
+      "title": "Rare fossils reveal what ancient Denisovans may have looked like",
+      "link": "https://phys.org/news/2026-10-rare-fossils-reveal-ancient-denisovans.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-10-23T22:30:01+08:00",
+      "abstract": "Whenever anything is written about the Denisovans, the word \"mysterious\" is almost guaranteed to appear. That is because we just don't know a lot about this ext",
+      "tier": 2,
       "also": [
-        "东方财富"
+        "Nature"
       ]
     },
     {
-      "title": "“境外媒体对话大学书记/校长”活动启动 首场亮相南京大学",
-      "link": "https://www.chinanews.com.cn/edu/2026/10-21/10718607.shtml",
-      "source": "中新网·教育",
-      "category": "教育",
-      "published": "2026-10-21T17:36:18+08:00",
-      "abstract": "中新网南京10月21日电 (记者 朱晓颖)20日，中华全国新闻工作者协会(下称“中国记协”)与南京大学共同举办首场“境外媒体对话大学书记/校长”活动，南京大学党委书记、中国科学院院士谭铁牛与来自26个国家的60多名媒体记者、学生代表进行分享交流，中国记协发起的该系列活动由此启动。",
+      "title": "仍在黄金救援期、部分帐篷已通电 西藏7.0级地震昨夜今晨救援最新进展",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720182.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-10-24T08:50:20+08:00",
+      "abstract": "10月22日22时33分许，西藏那曲市巴青县发生7.0级地震。截至10月23日13时，已造成16人遇难、76人受伤，房屋倒塌及受损339户。目前，地震抢险救援工作正在抓紧进行。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "3-0击败韩国！国乒获乒乓球亚锦赛男团冠军",
-      "link": "https://www.chinanews.com.cn/ty/2026/10-23/10719456.shtml",
+      "title": "2027考研报名今天截止！@考生们：这些事项需关注",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-24/10720175.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-10-24T08:41:31+08:00",
+      "abstract": "研考生注意，2027年全国硕士研究生招生考试网上报名将于10月24日22:00结束，请尚未完成“填写考生信息、采集报名照片、填写报考信息并交费、上传报考点要求的材料”的考生合理安排时间，尽量避开晚间访问高峰，切勿临近截止时点卡点提交，避免因网络拥堵、系统访问量激增等问题影响报考。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "全国短池游泳锦标赛开赛 张展硕、于子迪摘金",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-24/10720164.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-10-23T06:10:37+08:00",
-      "abstract": "北京时间10月22日，2026亚洲乒乓球锦标赛在乌兹别克斯坦塔什干举行。男团决赛，中国队3-0战胜韩国队，获得冠军。",
+      "published": "2026-10-24T06:32:14+08:00",
+      "abstract": "中新社北京10月24日电 (记者 国璇)2026年全国游泳锦标赛(25米)23日在北京国家游泳中心“水立方”开赛。首日决出六金，其中张展硕夺得男子1500米自由泳冠军，“小孩姐”于子迪收获女子200米混合泳金牌。",
       "tier": 1,
       "also": []
     }
