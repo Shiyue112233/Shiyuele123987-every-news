@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-25T08:26:34.678730+08:00",
+  "generated_at": "2026-10-26T08:32:17.961473+08:00",
   "count": 20,
   "quote": {
-    "text": "所有的熟练，都是刻意练习的产物。",
+    "text": "与其抱怨流程，不如把它改成不需要抱怨的样子。",
     "author": "工作手记"
   },
   "tool": {
-    "name": "ffmpeg",
-    "price": "开源",
-    "category": "音视频",
-    "desc": "命令行万能音视频处理：切片、压缩、抽帧、转格式。",
-    "url": "https://ffmpeg.org/"
+    "name": "Excalidraw",
+    "price": "免费",
+    "category": "白板",
+    "desc": "手绘风白板，画技术路线和汇报草图，比 PPT 画图快很多。",
+    "url": "https://excalidraw.com/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 30条",
+    "中新网·教育 28条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 96条",
+    "东方财富 91条",
     "创业邦 30条",
     "Solidot 奇客 20条",
     "极客公园 30条",
@@ -28,12 +28,12 @@
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 31条",
+    "BBC World 32条",
     "BBC Business 55条",
     "BBC Tech 20条",
     "The Guardian·World 45条",
-    "纽约时报·国际 51条",
-    "DW 中文 61条",
+    "纽约时报·国际 53条",
+    "DW 中文 57条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,150 +49,156 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "俄乌将为阿列什基人道主义行动同步停火",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720543.shtml",
+      "title": "国家数据集团成立 如何加快释放数据要素价值",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-26/10720900.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-25T06:49:14+08:00",
-      "abstract": "当地时间24日，俄罗斯人权事务专员兰特拉托娃表示，她与乌克兰最高拉达(议会)人权事务专员卢比涅茨就阿列什基的人道主义任务举行了在线会议。",
-      "tier": 1,
-      "also": [
-        "界面新闻"
-      ]
-    },
-    {
-      "title": "也门胡塞武装称沙特一天内发动百次空袭",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720542.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-10-25T06:41:35+08:00",
-      "abstract": "当地时间24日晚，也门胡塞武装发表声明称，过去24小时，沙特方面发动100次空袭，袭击了也门首都萨那及其他地区的民用目标，造成数十人死伤。声明称，自局势升级以来，沙特方面发动的空袭和导弹袭击总数已达3123次。",
-      "tier": 1,
-      "also": [
-        "界面新闻"
-      ]
-    },
-    {
-      "title": "泽连斯基：不会为结束冲突放弃更多领土",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720541.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-10-25T06:40:07+08:00",
-      "abstract": "据乌克兰方面24日消息，乌总统泽连斯基23日接受采访时称，乌克兰准备尽快结束同俄罗斯的军事冲突，但不会为了结束冲突而放弃更多领土。",
-      "tier": 1,
-      "also": [
-        "界面新闻"
-      ]
-    },
-    {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "国际",
-      "published": "2026-10-25T07:02:06+08:00",
-      "abstract": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-      "tier": 1,
-      "also": [
-        "The Guardian·World"
-      ]
-    },
-    {
-      "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-      "source": "纽约时报·国际",
-      "category": "国际",
-      "published": "2026-10-25T08:10:07+08:00",
-      "abstract": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service,",
-      "tier": 1,
-      "also": [
-        "Ars Technica"
-      ]
-    },
-    {
-      "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-      "link": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
-      "source": "The Guardian·World",
-      "category": "国际",
-      "published": "2026-10-25T05:25:58+08:00",
-      "abstract": "<p>But Elon Musk, whose company SpaceX owns Starlink, accuses Ukrainian military of violating ⁠the company’s terms</p><p>Ukraine’s military has a “stable connec",
-      "tier": 1,
-      "also": [
-        "BBC World"
-      ]
-    },
-    {
-      "title": "新华社权威快报｜二十届中央第八轮巡视对象公布",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-24/10720443.shtml",
-      "source": "中新网·国际",
-      "category": "国际",
-      "published": "2026-10-24T19:03:27+08:00",
-      "abstract": "经党中央批准，二十届中央第八轮巡视将对教育部、北京大学、清华大学、中国人民大学、北京师范大学、复旦大学、上海交通大学、西安交通大学、中国科学技术大学、中国农业大学、北京理工大学、北京航空航天大学、西北工业大学、哈尔滨工业大学、浙江大学、南京大学、四川大学、南开大学、天津大学、武汉大学、中山大学、西北农林科技大学、吉林大",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "官方划红线治理汽车行业乱象",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720465.shtml",
-      "source": "中新网·财经",
-      "category": "财经",
-      "published": "2026-10-24T20:20:13+08:00",
-      "abstract": "风向变了。",
+      "published": "2026-10-26T08:18:49+08:00",
+      "abstract": "国家数据集团成立，聚焦数据资源开发利用",
       "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "title": "特朗普：美俄乌三方会谈“很快”就会举行",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10720874.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-26T06:40:50+08:00",
+      "abstract": "当地时间10月25日，美国总统特朗普表示，有关乌克兰问题的美俄乌三方会谈“很快”就会举行，但未透露具体时间安排。特朗普称，他认为俄乌双方都有意达成协议。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "外媒：巴西总统卢拉赢得连任",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10720902.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-26T08:21:42+08:00",
+      "abstract": "中新网10月26日电 据法新社最新报道，根据巴西高等选举法院公布的计票结果，劳工党总统候选人、现任总统卢拉在2026年巴西总统选举第二轮投票中获胜，赢得连任。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-10-26T07:33:14+08:00",
+      "abstract": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "tier": 1,
+      "also": [
+        "Al Jazeera",
+        "France24",
+        "NPR World",
+        "The Guardian·World",
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "Live Updates: Brazil Re-Elects Lula, Rejecting Predecessor’s Son",
+      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-10-26T08:30:52+08:00",
+      "abstract": "President Luiz Inácio Lula da Silva fended off a right-wing movement led by Flávio Bolsonaro, whose father was convicted of a coup attempt after the 2022 electi",
+      "tier": 1,
+      "also": [
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "Brazil's President Lula da Silva beats Flavio Bolsonaro to win re-election",
+      "link": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election",
+      "source": "France24",
+      "category": "国际",
+      "published": "2026-10-26T08:23:59+08:00",
+      "abstract": "Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Flavio Bolsonaro on Sunday. The leftist lea",
+      "tier": 2,
+      "also": [
+        "Al Jazeera",
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "Lula holds off far right with victory in Brazil presidential election",
+      "link": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "国际",
+      "published": "2026-10-26T08:16:29+08:00",
+      "abstract": "Leftist president mounts stunning comeback after unexpected first round loss galvanised supporters of Flavio Bolsonaro.",
+      "tier": 2,
+      "also": [
+        "BBC World",
+        "France24",
+        "The Guardian·World",
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "重要调整！修订后的上证系列综合指数26日起实施",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-25/10720603.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-10-25T11:10:52+08:00",
+      "abstract": "26日，上交所将实施修订后的上证系列综合指数编制方案，修订指数包括上证指数、上证A股指数、上证流通指数、科创综指及衍生指数等。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "Budget to include £1bn for social and affordable housing",
+      "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "财经",
-      "published": "2026-10-25T07:15:18+08:00",
-      "abstract": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "published": "2026-10-25T18:03:17+08:00",
+      "abstract": "The move will take funding for the 10-year programme to more than £40bn.",
       "tier": 1,
       "also": []
     },
     {
-      "title": "青海玉树州杂多县发生3.0级地震，震源深度10千米",
-      "link": "https://www.jiemian.com/article/15236018.html",
+      "title": "能源早报｜我国首个区域电力市场正式运行；天齐锂业第三季度归母净利润同比增超13倍",
+      "link": "https://www.jiemian.com/article/15236986.html",
       "source": "界面新闻",
       "category": "财经",
-      "published": "2026-10-25T08:20:57+08:00",
-      "abstract": "中国地震台网正式测定：10月25日08时11分在青海玉树州杂多县（北纬32.48度，东经93.92度）发生3.0级地震，震源深度10千米。",
+      "published": "2026-10-26T08:07:23+08:00",
+      "abstract": "华盛锂电第三季度归母净利润同比增长800.58%；华能水电拟87亿元收购HNYL公司100%股权。",
       "tier": 2,
       "also": [
-        "中新网·社会"
+        "东方财富"
       ]
     },
     {
-      "title": "浏览器 Arc 将于 12 月关闭",
-      "link": "https://www.solidot.org/story?sid=85692",
-      "source": "Solidot 奇客",
-      "category": "科技",
-      "published": "2026-10-23T15:25:16+08:00",
-      "abstract": "The Browser Company 宣布其浏览器 Arc 将于 12 月 22 日关闭，用户将无法再能启动应用。Arc 基于 Chromium，于 2023 年释出了 1.0 版本，但 2024 年就停止了开发，2025 年 5 月宣布它正在开发 AI 驱动的浏览器 Dia。Arc 从 10 月 22 日起无法创建",
-      "tier": 2,
-      "also": [
-        "开源中国"
-      ]
-    },
-    {
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Tech",
       "category": "科技",
-      "published": "2026-10-24T08:05:45+08:00",
-      "abstract": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "published": "2026-10-26T07:44:34+08:00",
+      "abstract": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "title": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
+      "link": "https://www.solidot.org/story?sid=85706",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-10-26T00:16:11+08:00",
+      "abstract": "为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工程暂时停工，Google 芬兰高管已为此道歉。Google 砍伐森林的一个后果是由于猎物减少，狼群进入了附近的村庄寻找食物。 当地居民表示，由于森林里的野生动物",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+      "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
       "source": "The Verge",
       "category": "科技",
-      "published": "2026-10-24T17:29:12+08:00",
-      "abstract": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by",
+      "published": "2026-10-25T17:40:27+08:00",
+      "abstract": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding th",
       "tier": 2,
       "also": []
     },
@@ -217,6 +223,16 @@
       "also": []
     },
     {
+      "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+      "link": "https://www.nature.com/articles/s41586-026-11328-3",
+      "source": "Nature",
+      "category": "科学",
+      "published": "2026-10-25T00:00:00+08:00",
+      "abstract": "",
+      "tier": 1,
+      "also": []
+    },
+    {
       "title": "Ancient stalagmites reveal exceptions to Asia–South America monsoon seesaw over the past 450,000 years",
       "link": "https://phys.org/news/2026-10-ancient-stalagmites-reveal-exceptions-asiasouth.html",
       "source": "Phys.org",
@@ -229,42 +245,32 @@
       ]
     },
     {
-      "title": "From Chip Lab to Center Stage",
-      "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
-      "source": "IEEE Spectrum",
-      "category": "科学",
-      "published": "2026-10-24T02:00:03+08:00",
-      "abstract": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned t",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "海内外各界聚首南平考亭书院纪念朱子诞辰896周年",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-24/10720497.shtml",
+      "title": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-26/10720890.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-10-24T21:10:56+08:00",
-      "abstract": "中新网南平10月24日电(江洁 张少杰)10月24日，纪念朱子诞辰896周年活动在福建南平建阳区考亭书院举办。海内外朱子学专家学者、朱子后裔、志愿服务者、师生及社会各界代表250余人齐聚现场，以庄重古礼追思先贤，传承弘扬中华优秀传统文化。",
+      "published": "2026-10-26T08:08:13+08:00",
+      "abstract": "中新网10月26日电 据中央气象台网站消息，昨日，内蒙古、河北等地部分地区出现雨雪天气。预计今明两天，北方地区将有大风降温天气，黑龙江、内蒙古等地有雨雪天气，关注对交通、城市运行及农牧业等的影响。渤海、黄海、东海、台湾海峡等海域关注海上大风对船舶航运、海上作业平台等的影响。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "工科赋能区域国别学：学界业界共探企业出海“导航图”",
-      "link": "https://www.chinanews.com.cn/edu/2026/10-24/10720504.shtml",
+      "title": "首批学生运动能力国标实施试点进入“经验收获期”",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-25/10720797.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-10-24T21:25:09+08:00",
-      "abstract": "中新网上海10月24日电(许婧 狄权)区域国别学正不断探索新的生长方向。如何跳出传统叙事框架，把学科研究和产业出海、真实市场需求紧密衔接，成为学界与产业界共同聚焦的命题。23日至25日，高校区域国别学人才培养与学科建设联盟第八届年会在上海第二工业大学举办，与会专家学者围绕“区域国别学学科体系、学术体系、话语体系和教材体",
+      "published": "2026-10-25T19:51:00+08:00",
+      "abstract": "中新网北京10月25日电 记者从中国教育科学研究院获悉，贯彻落实“健康第一”教育理念、深入推进学生运动能力国家标准实施试点经验交流会近日在湖南长沙举行。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "第五届亚洲残疾人运动会在日本名古屋闭幕",
-      "link": "https://www.chinanews.com.cn/ty/2026/10-25/10720538.shtml",
+      "title": "CBA一周综述：北京、辽宁四连胜 卫冕冠军遇挑战",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-26/10720867.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-10-25T00:02:56+08:00",
-      "abstract": "中新社日本名古屋10月25日电 (记者 朱晨曦)第五届亚洲残疾人运动会24日在日本名古屋瑞穗公园田径场闭幕。中国体育代表团获得207枚金牌、117枚银牌和111枚铜牌，共435枚奖牌，连续第五届位居金牌榜、奖牌榜首位，创造境外参加亚残运会最好成绩。",
+      "published": "2026-10-26T06:06:56+08:00",
+      "abstract": "中新社北京10月25日电 (记者 国璇)2026-2027赛季中国男子篮球职业联赛(CBA)在本周展开第二轮至第四轮的较量。加上首轮战绩，北京队和辽宁队以四战全胜强势领跑积分榜。卫冕冠军上海队则在客场不敌山西队，遭遇常规赛赛季首败。",
       "tier": 1,
       "also": []
     }
