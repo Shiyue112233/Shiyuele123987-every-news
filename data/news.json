@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-10-26T08:32:17.961473+08:00",
+  "generated_at": "2026-10-27T09:34:04.378577+08:00",
   "count": 20,
   "quote": {
-    "text": "与其抱怨流程，不如把它改成不需要抱怨的样子。",
+    "text": "把复杂的事做简单，是本事；把简单的事重复做对，是功夫。",
     "author": "工作手记"
   },
   "tool": {
-    "name": "Excalidraw",
-    "price": "免费",
-    "category": "白板",
-    "desc": "手绘风白板，画技术路线和汇报草图，比 PPT 画图快很多。",
-    "url": "https://excalidraw.com/"
+    "name": "Notion",
+    "price": "免费档",
+    "category": "协作",
+    "desc": "表格+文档+看板一体，适合做项目跟踪和团队知识沉淀。",
+    "url": "https://www.notion.so/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 28条",
+    "中新网·教育 24条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 91条",
+    "东方财富 94条",
     "创业邦 30条",
-    "Solidot 奇客 20条",
+    "Solidot 奇客 13条",
     "极客公园 30条",
     "少数派 10条",
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 32条",
-    "BBC Business 55条",
+    "BBC World 28条",
+    "BBC Business 56条",
     "BBC Tech 20条",
     "The Guardian·World 45条",
-    "纽约时报·国际 53条",
-    "DW 中文 57条",
+    "纽约时报·国际 54条",
+    "DW 中文 60条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,228 +49,222 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "国家数据集团成立 如何加快释放数据要素价值",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-26/10720900.shtml",
+      "title": "“修补牙洞、抗幽门螺杆菌”宣传别轻信！买牙膏认准这8类",
+      "link": "https://www.chinanews.com.cn/life/2026/10-27/10721472.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-26T08:18:49+08:00",
-      "abstract": "国家数据集团成立，聚焦数据资源开发利用",
-      "tier": 1,
-      "also": [
-        "东方财富"
-      ]
-    },
-    {
-      "title": "特朗普：美俄乌三方会谈“很快”就会举行",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10720874.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-10-26T06:40:50+08:00",
-      "abstract": "当地时间10月25日，美国总统特朗普表示，有关乌克兰问题的美俄乌三方会谈“很快”就会举行，但未透露具体时间安排。特朗普称，他认为俄乌双方都有意达成协议。",
-      "tier": 1,
-      "also": [
-        "东方财富"
-      ]
-    },
-    {
-      "title": "外媒：巴西总统卢拉赢得连任",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10720902.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-10-26T08:21:42+08:00",
-      "abstract": "中新网10月26日电 据法新社最新报道，根据巴西高等选举法院公布的计票结果，劳工党总统候选人、现任总统卢拉在2026年巴西总统选举第二轮投票中获胜，赢得连任。",
+      "published": "2026-10-27T09:31:58+08:00",
+      "abstract": "补牙洞、抗幽门螺杆菌、治牙龈出血",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "title": "机构：运营力正成为衡量住房租赁资产长期价值新尺度",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-27/10721454.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-27T09:31:06+08:00",
+      "abstract": "中新网北京10月27日电(记者 谢艺观)“当规模红利逐渐退去，运营力正在成为衡量住房租赁资产长期价值的新尺度。”ICCRA住房租赁产业研究院院长赵然在第八届领航·住房租赁产业国际论坛上如是表示。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "2026大理情歌会在“有风的地方”上演“山海和鸣”",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721468.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-27T09:29:18+08:00",
+      "abstract": "中新网大理10月27日电 (罗婕)“山海和鸣，歌叙大理。”26日晚，苍山脚下、洱海之畔，2026大理情歌会在云南省大理白族自治州大理市双廊国际艺术中心举行。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-10-26T07:33:14+08:00",
-      "abstract": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "published": "2026-10-27T05:02:47+08:00",
+      "abstract": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
       "tier": 1,
       "also": [
         "Al Jazeera",
         "France24",
         "NPR World",
-        "The Guardian·World",
-        "纽约时报·国际"
-      ]
-    },
-    {
-      "title": "Live Updates: Brazil Re-Elects Lula, Rejecting Predecessor’s Son",
-      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
-      "source": "纽约时报·国际",
-      "category": "国际",
-      "published": "2026-10-26T08:30:52+08:00",
-      "abstract": "President Luiz Inácio Lula da Silva fended off a right-wing movement led by Flávio Bolsonaro, whose father was convicted of a coup attempt after the 2022 electi",
-      "tier": 1,
-      "also": [
-        "The Guardian·World"
-      ]
-    },
-    {
-      "title": "Brazil's President Lula da Silva beats Flavio Bolsonaro to win re-election",
-      "link": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election",
-      "source": "France24",
-      "category": "国际",
-      "published": "2026-10-26T08:23:59+08:00",
-      "abstract": "Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Flavio Bolsonaro on Sunday. The leftist lea",
-      "tier": 2,
-      "also": [
-        "Al Jazeera",
-        "纽约时报·国际"
-      ]
-    },
-    {
-      "title": "Lula holds off far right with victory in Brazil presidential election",
-      "link": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "国际",
-      "published": "2026-10-26T08:16:29+08:00",
-      "abstract": "Leftist president mounts stunning comeback after unexpected first round loss galvanised supporters of Flavio Bolsonaro.",
-      "tier": 2,
-      "also": [
-        "BBC World",
-        "France24",
-        "The Guardian·World",
-        "纽约时报·国际"
-      ]
-    },
-    {
-      "title": "重要调整！修订后的上证系列综合指数26日起实施",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-25/10720603.shtml",
-      "source": "中新网·财经",
-      "category": "财经",
-      "published": "2026-10-25T11:10:52+08:00",
-      "abstract": "26日，上交所将实施修订后的上证系列综合指数编制方案，修订指数包括上证指数、上证A股指数、上证流通指数、科创综指及衍生指数等。",
-      "tier": 1,
-      "also": [
-        "东方财富"
-      ]
-    },
-    {
-      "title": "Budget to include £1bn for social and affordable housing",
-      "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "财经",
-      "published": "2026-10-25T18:03:17+08:00",
-      "abstract": "The move will take funding for the 10-year programme to more than £40bn.",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "能源早报｜我国首个区域电力市场正式运行；天齐锂业第三季度归母净利润同比增超13倍",
-      "link": "https://www.jiemian.com/article/15236986.html",
-      "source": "界面新闻",
-      "category": "财经",
-      "published": "2026-10-26T08:07:23+08:00",
-      "abstract": "华盛锂电第三季度归母净利润同比增长800.58%；华能水电拟87亿元收购HNYL公司100%股权。",
-      "tier": 2,
-      "also": [
-        "东方财富"
-      ]
-    },
-    {
-      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
-      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Tech",
-      "category": "科技",
-      "published": "2026-10-26T07:44:34+08:00",
-      "abstract": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
-      "link": "https://www.solidot.org/story?sid=85706",
-      "source": "Solidot 奇客",
-      "category": "科技",
-      "published": "2026-10-26T00:16:11+08:00",
-      "abstract": "为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工程暂时停工，Google 芬兰高管已为此道歉。Google 砍伐森林的一个后果是由于猎物减少，狼群进入了附近的村庄寻找食物。 当地居民表示，由于森林里的野生动物",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
-      "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-      "source": "The Verge",
-      "category": "科技",
-      "published": "2026-10-25T17:40:27+08:00",
-      "abstract": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding th",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-      "link": "https://www.qbitai.com/2026/10/504901.html",
-      "source": "量子位",
-      "category": "AI",
-      "published": "2026-10-23T15:35:51+08:00",
-      "abstract": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-      "link": "https://www.qbitai.com/2026/10/504879.html",
-      "source": "量子位",
-      "category": "AI",
-      "published": "2026-10-22T17:07:05+08:00",
-      "abstract": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
-      "link": "https://www.nature.com/articles/s41586-026-11328-3",
-      "source": "Nature",
-      "category": "科学",
-      "published": "2026-10-25T00:00:00+08:00",
-      "abstract": "",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "Ancient stalagmites reveal exceptions to Asia–South America monsoon seesaw over the past 450,000 years",
-      "link": "https://phys.org/news/2026-10-ancient-stalagmites-reveal-exceptions-asiasouth.html",
-      "source": "Phys.org",
-      "category": "科学",
-      "published": "2026-10-24T17:00:01+08:00",
-      "abstract": "In places like South Asia, Africa and parts of the Americas, monsoon rains supply water for drinking, crops and hydropower for billions of people. Understanding",
-      "tier": 2,
-      "also": [
         "Nature"
       ]
     },
     {
-      "title": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-26/10720890.shtml",
+      "title": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-10-27T09:22:53+08:00",
+      "abstract": "Nine people were killed and dozens were wounded in the attack last week on a Greek Orthodox Church in southern Jordan.",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+      "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-10-27T08:00:03+08:00",
+      "abstract": "<p>Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphe",
+      "tier": 1,
+      "also": [
+        "Al Jazeera",
+        "France24",
+        "NPR World",
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "国家能源局：我国风光累计装机容量突破20亿千瓦",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-26/10721128.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-10-26T15:06:54+08:00",
+      "abstract": "中新网10月26日电 据国家能源局微信公众号消息，我国新能源发展迈出坚实步伐，今年1—9月，风电和太阳能发电新增装机容量约1.7亿千瓦，截至2026年9月底，风电和太阳能发电累计装机容量达到20.1亿千瓦，其中，太阳能发电装机容量13.1亿千瓦，同比增长16.5%；风电装机容量7.0亿千瓦，同比增长20.4%。",
+      "tier": 1,
+      "also": [
+        "ZOL 科技"
+      ]
+    },
+    {
+      "title": "中国央行设立债市非银大额赎回互换便利",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-26/10721334.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-10-26T20:42:24+08:00",
+      "abstract": "中新社北京10月26日电 (陶思阅)中国央行26日公告，设立债市非银大额赎回互换便利(Bond Market NBFI Swap Facility，简称BNSF)。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-10-27T09:16:22+08:00",
+      "abstract": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "选股专家的主动ETF有何不同？",
+      "link": "https://www.jiemian.com/article/15245141.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-10-27T09:23:31+08:00",
+      "abstract": "2022年，资本集团推出旗下首批主动ETF。此时距离全球首只主动ETF诞生，已过去14年。",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+      "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-10-27T03:04:40+08:00",
+      "abstract": "Apple claims this is the most significant update ever for the iPad mini line.",
+      "tier": 2,
+      "also": [
+        "少数派"
+      ]
+    },
+    {
+      "title": "科学家重现古罗马的分色玻璃",
+      "link": "https://www.solidot.org/story?sid=85713",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-10-26T19:12:57+08:00",
+      "abstract": "制作于公元四世纪的罗马玻璃笼子杯 Lycurgus Cup 会根据光源位置的不同而呈现不同的颜色，从前方照射呈绿色后方则呈红色。这一令人惊叹的光学工程成就数世纪以来令历史学家和玻璃工匠感到困惑。现在英国谢菲尔德大学的科学家成功复现了这一光学特性。研究人员将金和银纳米颗粒嵌入到玻璃，他们制备出高粘度熔融玻璃，当其自 10",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
+      "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+      "source": "The Verge",
+      "category": "科技",
+      "published": "2026-10-26T13:28:07+08:00",
+      "abstract": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a ",
+      "tier": 2,
+      "also": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+      "link": "https://www.qbitai.com/2026/10/505083.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-23T17:21:41+08:00",
+      "abstract": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "企业AI需要两个世界模型",
+      "link": "https://www.qbitai.com/2026/10/505032.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-23T17:07:25+08:00",
+      "abstract": "特赞想让企业Agent真正懂业务",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "IEEE Xplore Digital Library Adds AI Assistant",
+      "link": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-10-27T02:00:03+08:00",
+      "abstract": "IEEE recently released the IEEE Xplore AI Research Suite, built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library. T",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Global happiness researchers reveal keys to a good life",
+      "link": "https://phys.org/news/2026-10-global-happiness-reveal-keys-good.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-10-27T05:30:01+08:00",
+      "abstract": "Many of the world's leading happiness researchers say they consciously spend more time with loved ones after seeing the evidence, according to a new paper. \"Hap",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "安徽法援“老黄牛”9年帮困难民众挽回损失10.32亿元",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721465.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-10-26T08:08:13+08:00",
-      "abstract": "中新网10月26日电 据中央气象台网站消息，昨日，内蒙古、河北等地部分地区出现雨雪天气。预计今明两天，北方地区将有大风降温天气，黑龙江、内蒙古等地有雨雪天气，关注对交通、城市运行及农牧业等的影响。渤海、黄海、东海、台湾海峡等海域关注海上大风对船舶航运、海上作业平台等的影响。",
+      "published": "2026-10-27T09:27:50+08:00",
+      "abstract": "中新网合肥10月27日电 (赵强 张雪)“老范，这钱拿到了，家里的药费有着落了！”“多亏你们法律援助中心伸出援手。”在安徽省安庆市法律援助中心，这样的对话总在上演。求助民众紧握中心主任范江宏的手，久久不愿松开。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "首批学生运动能力国标实施试点进入“经验收获期”",
-      "link": "https://www.chinanews.com.cn/edu/2026/10-25/10720797.shtml",
+      "title": "全新岗位快速涌现 职业教育如何“跟得上”？",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-26/10721086.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-10-25T19:51:00+08:00",
-      "abstract": "中新网北京10月25日电 记者从中国教育科学研究院获悉，贯彻落实“健康第一”教育理念、深入推进学生运动能力国家标准实施试点经验交流会近日在湖南长沙举行。",
+      "published": "2026-10-26T13:53:20+08:00",
+      "abstract": "当前，新技术迭代速度持续加快，一批全新岗位快速涌现；与此同时，不少传统岗位随着产业升级不断萎缩。职业教育如何对接产业需求？记者从教育部获悉，一套“有增有减、快速响应”的专业动态调整机制正在加快完善。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "CBA一周综述：北京、辽宁四连胜 卫冕冠军遇挑战",
-      "link": "https://www.chinanews.com.cn/ty/2026/10-26/10720867.shtml",
+      "title": "全国短池游泳锦标赛：李冰洁刷新亚洲纪录 张雨霏一日两金",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-26/10721430.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-10-26T06:06:56+08:00",
-      "abstract": "中新社北京10月25日电 (记者 国璇)2026-2027赛季中国男子篮球职业联赛(CBA)在本周展开第二轮至第四轮的较量。加上首轮战绩，北京队和辽宁队以四战全胜强势领跑积分榜。卫冕冠军上海队则在客场不敌山西队，遭遇常规赛赛季首败。",
+      "published": "2026-10-26T23:57:17+08:00",
+      "abstract": "中新社北京10月26日电 (记者 国璇)2026年全国游泳锦标赛(25米)26日在北京国家游泳中心“水立方”继续举行。李冰洁刷新短池女子1500米自由泳亚洲纪录，张雨霏夺得女子100米个人混合泳金牌。",
       "tier": 1,
       "also": []
     }
