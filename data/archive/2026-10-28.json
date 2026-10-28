@@ -1,0 +1,268 @@
+{
+  "generated_at": "2026-10-28T09:31:41.923007+08:00",
+  "count": 20,
+  "quote": {
+    "text": "凡值得做的事，起初都值得做得笨拙一点。",
+    "author": "G. K. 切斯特顿"
+  },
+  "tool": {
+    "name": "Syncthing",
+    "price": "开源",
+    "category": "同步备份",
+    "desc": "点对点同步文件夹，不依赖网盘，适合备份实验数据。",
+    "url": "https://syncthing.net/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 27条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 99条",
+    "创业邦 30条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 27条",
+    "BBC Business 51条",
+    "BBC Tech 20条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 57条",
+    "DW 中文 60条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [],
+  "items": [
+    {
+      "title": "来中国“取经”后，他们交出这样的兴乡答卷",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-28/10722000.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-28T09:21:40+08:00",
+      "abstract": "“全球南方青年兴乡培育计划”2025级5国48名学员顺利结业",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "【这个城市有点潮】河南安阳：三千年文明，如何“潮”出圈？",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/10-28/1209046.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-28T09:20:40+08:00",
+      "abstract": "",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "东北华北内蒙古中东部等地气温起伏 29日起西藏南部有强雨雪",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-28/10721992.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-28T09:19:44+08:00",
+      "abstract": "中新网10月28日电 据中央气象台网站消息，随着冷空气不断东移南下，10月27日，内蒙古中东部、黑龙江南部和东部、吉林、辽宁、河北北部等地部分地区出现7～9级阵风，局地10～12级。今晨，东北地区、华北等地气温下降4～10℃。今天，冷空气影响暂歇，上述地区的气温将有所回升。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-10-28T04:44:40+08:00",
+      "abstract": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "Live Updates: Exit Polls Suggest No Clear Winner in Pivotal Israeli Election",
+      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-10-28T09:23:08+08:00",
+      "abstract": "A bloc of parties led by the former military chief Gadi Eisenkot is trying to unseat Prime Minister Benjamin Netanyahu and his right-wing allies. Vote counting ",
+      "tier": 1,
+      "also": [
+        "Al Jazeera",
+        "France24"
+      ]
+    },
+    {
+      "title": "Israel election live: Netanyahu and Eisenkot opposition blocs tied in latest exit polls",
+      "link": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-10-28T09:13:44+08:00",
+      "abstract": "<p>Updated exit polling shows Benjamin Netanyahu’s bloc tied with Eisenkot’s opposition grouping, with both on 51 seats, as Palestinian parties surge</p><ul><li",
+      "tier": 1,
+      "also": [
+        "Al Jazeera",
+        "France24"
+      ]
+    },
+    {
+      "title": "第140届广交会到会境外采购商已达27.8万名",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-28/10721988.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-10-28T09:04:40+08:00",
+      "abstract": "中新网广州10月28日电 (记者 程景伟)第140届广交会第二期27日在广州闭幕。据广交会新闻中心通报，本届广交会10月15日开幕以来，截至10月27日17时，共有来自218个国家和地区的27.8万名境外采购商到会，比上届同期增长13.4%；152家境外工商机构、384家头部采购企业组团参会。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-10-28T08:03:10+08:00",
+      "abstract": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "港股开盘：恒生指数涨0.19%，恒生科技指数涨0.78%",
+      "link": "https://www.jiemian.com/article/15250604.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-10-28T09:21:18+08:00",
+      "abstract": "10月28日，港股开盘，恒生指数涨0.19%，恒生科技指数涨0.78%。个股方面，君正股份涨超12%，德适-B涨超7%，伟仕佳杰涨超6%，广合科技涨超5%；泡泡玛特跌超6%，东山精密跌超5%，新东方-S跌超3%。",
+      "tier": 2,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "马斯克最新预测：机器人内存需求超乎想象",
+      "link": "http://stock.eastmoney.com/news/11228,202610273910594392.html",
+      "source": "东方财富",
+      "category": "财经",
+      "published": "2026-10-28T00:07:59+08:00",
+      "abstract": "10月27日，在回应网友有关机器人内存总需求的评论中，特斯拉创始人马斯克表示，机器人对内存的需求将比地球上其他事物都要庞大。他强调，当人工智能从处理信息走向物理现实时，载体机器人对内存的消耗将碾压地球上现有的所有计算设备。他还表示，机器人使用的是低功耗DRAM芯片，而不是高带宽内存HBM，随着人工智能扩展到数据中心以外",
+      "tier": 2,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "'An annoying buzz': The search for stealthier drones",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "category": "科技",
+      "published": "2026-10-28T08:01:10+08:00",
+      "abstract": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+      "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-10-28T06:37:30+08:00",
+      "abstract": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+      "tier": 2,
+      "also": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "维基百科如何清理 AI 生成文本",
+      "link": "https://www.solidot.org/story?sid=85727",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-10-27T23:16:06+08:00",
+      "abstract": "2023 年维基百科志愿者发起了 WikiProject AI Cleanup 项目，旨在清理 AI 生成文本。当时的 AI 文本还很容易识别。项目创始成员 Ellia Lebleu 指出，当时的 AI 文本频繁使用奇怪短语如 stands as a testament、rich cultural heritage..",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "link": "https://www.qbitai.com/2026/10/505580.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-27T11:23:55+08:00",
+      "abstract": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+      "link": "https://www.qbitai.com/2026/10/505551.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-27T00:06:31+08:00",
+      "abstract": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "The Nobel prize in economic science has a serious gender problem",
+      "link": "https://www.nature.com/articles/d41586-026-03404-5",
+      "source": "Nature",
+      "category": "科学",
+      "published": "2026-10-27T00:00:00+08:00",
+      "abstract": "",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Scientists uncover new way to control magnetism and topology using light in atomically thin materials",
+      "link": "https://phys.org/news/2026-10-scientists-uncover-magnetism-topology-atomically.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-10-28T01:40:06+08:00",
+      "abstract": "Envision a material whose magnetic properties and electronic topology can be toggled by exposure to light, paving the way for future electronic devices that do ",
+      "tier": 2,
+      "also": [
+        "IEEE Spectrum"
+      ]
+    },
+    {
+      "title": "“阿尔纳卜”已经在印度沿海登陆 后天西藏降水进入最强时段",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-28/10721994.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-10-28T09:14:12+08:00",
+      "abstract": "这两天，冷空气影响北方多地，东北部分地区气温将创今年下半年来新低。月底前后还会有冷空气接连影响我国，北方多地气温还会创新低。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "中俄基础教育界代表在渝交流 发布《AI赋能基础教育合作倡议》",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-27/10721908.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-10-27T21:40:28+08:00",
+      "abstract": "中新网重庆10月27日电 (记者 钟旖)中国(重庆)—俄罗斯基础教育校长交流大会27日在重庆高新区举行。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "中国小将孙心然广网首战告捷",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-28/10721987.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-10-28T09:07:28+08:00",
+      "abstract": "中新网广州10月28日电 (记者 王坚)2026年广州国际女子网球公开赛27日继续首轮较量，16岁的中国选手、现青少年女单世界第一孙心然迎来在广网的首胜。28日，施晗、大威廉姆斯/曾丽美、西尼亚科娃、巴多萨等人气选手将轮番登场，在广州南沙展开世界级女子网球精彩对决。",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}
