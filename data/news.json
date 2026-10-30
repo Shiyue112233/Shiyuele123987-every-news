@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-29T09:53:55.611031+08:00",
+  "generated_at": "2026-10-30T10:04:37.331982+08:00",
   "count": 20,
   "quote": {
-    "text": "你不必看见整段台阶，只需迈出第一步。",
-    "author": "马丁·路德·金"
+    "text": "真正的效率，来自提前想清楚，而不是事后跑得快。",
+    "author": "工作手记"
   },
   "tool": {
-    "name": "Cheat Engine 之外：HxD",
+    "name": "Python + pandas",
     "price": "免费",
-    "category": "数据工具",
-    "desc": "十六进制编辑器，看仪器导出的二进制数据文件时用得上。",
-    "url": "https://mh-nexus.de/en/hxd/"
+    "category": "数据分析",
+    "desc": "实验数据清洗、汇总、出图的第一选择；配合 openpyxl 直读 Excel。",
+    "url": "https://pandas.pydata.org/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 13条",
+    "中新网·教育 15条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 96条",
+    "东方财富 95条",
     "创业邦 30条",
     "Solidot 奇客 20条",
     "极客公园 30条",
@@ -28,12 +28,12 @@
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 27条",
-    "BBC Business 52条",
+    "BBC World 28条",
+    "BBC Business 42条",
     "BBC Tech 20条",
     "The Guardian·World 45条",
-    "纽约时报·国际 55条",
-    "DW 中文 60条",
+    "纽约时报·国际 54条",
+    "DW 中文 59条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,221 +49,218 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "外资企业坚定投资深圳、深耕中国（见证·中国机遇）",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-29/10722557.shtml",
+      "title": "国家统计局：前三季度文化企业营业收入稳步增长",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-30/10723127.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-29T09:48:07+08:00",
-      "abstract": "深圳前海，德国西门子医疗器械保税维修中心支持磁共振设备全球售后；芬兰通力电梯的数字化新设备快速发往大湾区市场；来自英国、新加坡等地的外资银行、金融机构纷纷入驻深港国际金融城……开放程度高、经济活力强，深圳作为全球投资热土的吸引力与竞争力不断提升。",
+      "published": "2026-10-30T09:59:44+08:00",
+      "abstract": "中新网10月30日电 据国家统计局网站消息，10月30日，国家统计局社科文司统计师潘旭华解读2026年前三季度全国规模以上文化及相关产业企业数据。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "西藏南部将有强雨雪天气 北方将有大风降温过程",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-29/10722533.shtml",
+      "title": "一条爆款视频带来的订单，师傅们足足做了3年",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-30/10723144.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-29T09:47:05+08:00",
-      "abstract": "中新网10月29日电 据中央气象台网站消息，昨日，云南和海南的部分地区出现明显降雨，北方地区出现大风。预计未来三天，青藏高原中东部将有明显雨雪天气，其中西藏南部有强雨雪，注意防范次生灾害；受冷空气影响，东北、华北、内蒙古等地又将有大风降温，内蒙古、黑龙江等局地有较强降雪，注意防范对交通、能源供应、农牧业等的影响。",
+      "published": "2026-10-30T09:56:22+08:00",
+      "abstract": "在四川省成都市青城山麓，芒城村马家林盘里，烘烤斑竹的火盆烧得正旺，热浪扑面。青城马椅子市级代表性传承人马娇凑近火口，鼓起腮帮子使劲吹气，脸庞被火光映得通红。这叫“烤包口”，需要用正脸贴着炭火，火力全凭嘴吹，大脑缺氧是常事。一把马椅子不用一颗铁钉、一滴胶，全靠榫卯连接，常规使用寿命可达三十年以上。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "“主理人经济”激活闲置农房 安徽繁昌乡村文旅“日夜联动”引客留",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-29/10722545.shtml",
+      "title": "A股开盘：超4900只个股飘绿，三大指数集体低开",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-30/10723142.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-10-29T09:46:49+08:00",
-      "abstract": "中新网安徽芜湖10月29日电 (江婉琪)“白天有内容、晚上有看点，就更愿意留下来住一晚。”游客刘明说。10月28日，安徽省芜湖市繁昌区美好生活主理人共创沙龙活动举办。",
+      "published": "2026-10-30T09:54:36+08:00",
+      "abstract": "A股开盘：超4900只个股飘绿，三大指数集体低开；通信设备重挫，半导体大跌；白酒、银行飘红",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "title": "Young athlete and former minister among victims of Spain train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-10-29T09:14:01+08:00",
-      "abstract": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "published": "2026-10-30T05:33:35+08:00",
+      "abstract": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
       "tier": 1,
       "also": [
-        "France24",
-        "NPR World",
-        "The Guardian·World",
+        "Al Jazeera",
         "纽约时报·国际"
       ]
     },
     {
-      "title": "“克隆”游戏角色声音牟利被判罚 AI变声服务如何越了界？",
-      "link": "https://www.chinanews.com.cn/fz/2026/10-29/10722531.shtml",
-      "source": "中新网·国际",
+      "title": "Court Rejects Erin Patterson’s Appeal in Mushroom Murders Case",
+      "link": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
+      "source": "纽约时报·国际",
       "category": "国际",
-      "published": "2026-10-29T09:17:39+08:00",
-      "abstract": "AI技术的飞速发展，使声音复刻变得轻而易举。有经营者由此看到“商机”——经典游戏角色的声音广受玩家喜爱，借助AI复刻角色声音，即可制作成声音资源包销售牟利，供买家在聊天中变声使用。",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "国际",
-      "published": "2026-10-29T08:36:33+08:00",
-      "abstract": "A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police",
-      "tier": 2,
-      "also": [
-        "BBC World",
-        "纽约时报·国际"
-      ]
-    },
-    {
-      "title": "Spain rail crash came after train ordered to go in error: minister",
-      "link": "https://www.france24.com/en/spain-rail-crash-came-after-train-ordered-to-go-in-error-minister",
-      "source": "France24",
-      "category": "国际",
-      "published": "2026-10-29T06:30:17+08:00",
-      "abstract": "A rail collision in Spain that claimed at least 68 lives on Wednesday came after a train was ordered to go in \"error\" despite a technical failure that halted al",
-      "tier": 2,
-      "also": [
-        "BBC World",
-        "纽约时报·国际"
-      ]
-    },
-    {
-      "title": "美联储宣布维持利率不变",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-29/10722489.shtml",
-      "source": "中新网·财经",
-      "category": "财经",
-      "published": "2026-10-29T06:15:41+08:00",
-      "abstract": "美国联邦储备委员会28日结束为期两天的货币政策会议，宣布将联邦基金利率目标区间维持在3.75%至4%不变。这一决定符合市场此前广泛预期。",
-      "tier": 1,
-      "also": [
-        "东方财富"
-      ]
-    },
-    {
-      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "财经",
-      "published": "2026-10-29T02:45:09+08:00",
-      "abstract": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+      "published": "2026-10-30T08:48:47+08:00",
+      "abstract": "Judges took away the possibility of parole for an Australian woman, Erin Patterson, and rejected a bid to overturn her conviction over deadly beef Wellington lu",
       "tier": 1,
       "also": [
         "The Guardian·World"
       ]
     },
     {
-      "title": "出海日报｜万和电气拟追加3.61亿元投资泰国基地，飞龙股份拟在波兰设立子公司",
-      "link": "https://www.jiemian.com/article/15259458.html",
-      "source": "界面新闻",
-      "category": "财经",
-      "published": "2026-10-29T09:30:00+08:00",
-      "abstract": "2026年10月28日，中国企业“出海”事件汇总，内容来自上市公司公告、企业披露及公开媒体报道。",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "维基百科如何清理 AI 生成文本",
-      "link": "https://www.solidot.org/story?sid=85727",
-      "source": "Solidot 奇客",
-      "category": "科技",
-      "published": "2026-10-27T23:16:06+08:00",
-      "abstract": "2023 年维基百科志愿者发起了 WikiProject AI Cleanup 项目，旨在清理 AI 生成文本。当时的 AI 文本还很容易识别。项目创始成员 Ellia Lebleu 指出，当时的 AI 文本频繁使用奇怪短语如 stands as a testament、rich cultural heritage..",
-      "tier": 2,
-      "also": [
-        "开源中国"
-      ]
-    },
-    {
-      "title": "Details of thousands of US immigration agents leaked in major hack",
-      "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Tech",
-      "category": "科技",
-      "published": "2026-10-29T09:30:43+08:00",
-      "abstract": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+      "title": "金正恩出席朝鲜“无人航空技术发展－2026”展览会",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-30/10723117.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-10-30T09:15:19+08:00",
+      "abstract": "中新网10月30日电 据朝中社30日报道，朝鲜“无人航空技术发展-2026”展览会29日举行，朝鲜劳动党总书记、国务委员长金正恩出席展览会。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
-      "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+      "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
+      "link": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "国际",
+      "published": "2026-10-30T06:36:06+08:00",
+      "abstract": "Stewart died in Los Angeles after living with Alzheimer's disease and Lewy body dementia.",
+      "tier": 2,
+      "also": [
+        "France24",
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "Crypto worth billions frozen after suspected Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-10-30T09:53:32+08:00",
+      "abstract": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
+      "tier": 1,
+      "also": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "机构风向标 | 朗新科技(300682)2026年三季度机构持仓风向标",
+      "link": "https://www.jiemian.com/article/15269694.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-10-30T10:01:03+08:00",
+      "abstract": "2026年10月30日，朗新科技(300682.SZ)发布2026年第三季报。截至2026年10月29日，共有10个机构投资者披露持有朗新科技A股股份，合计持股量达4.61亿股，占朗新科技总股本的42.74%。",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "10月30日集合竞价：上海沪工3连板 阳光照明2连板",
+      "link": "http://stock.eastmoney.com/news/11752,202610303915583091.html",
+      "source": "东方财富",
+      "category": "财经",
+      "published": "2026-10-30T09:27:50+08:00",
+      "abstract": "10月30日，三大指数集体低开，上证指数低开1.25%，深证成指低开2.4%，创业板指低开3.29%。板块方面，其他养殖领涨，*ST福成涨5.53%，综合电商、零食等开盘涨幅居前。 个股方面，3股竞价涨停，其中上海沪工3连板、阳光照明2连板、盛洋科技2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+      "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
       "source": "Ars Technica",
       "category": "科技",
-      "published": "2026-10-29T03:10:29+08:00",
-      "abstract": "It's not as different from the previous model as you might have expected.",
+      "published": "2026-10-30T05:47:57+08:00",
+      "abstract": "Reddit's search traffic \"was down meaningfully\" last quarter.",
       "tier": 2,
       "also": [
         "TechCrunch"
       ]
     },
     {
-      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-      "link": "https://www.qbitai.com/2026/10/505928.html",
-      "source": "量子位",
-      "category": "AI",
-      "published": "2026-10-28T12:04:48+08:00",
-      "abstract": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+      "title": "Google AI 搜索产生的收入低于传统搜索",
+      "link": "https://www.solidot.org/story?sid=85748",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-10-29T23:19:44+08:00",
+      "abstract": "Google/Alphabet 在公布第三季度财报之后股价下跌了近 10%，原因是搜索巨人披露 AI 搜索产生的收入低于传统搜索，尽管其整体搜索业务收入同比增长 12% 达到 632.5 亿美元。搜索业务增速略低于去年第三季度的 14.5% ，Alphabet 首席商务官 Philipp Schindler 称，搜索业",
       "tier": 2,
       "also": []
     },
     {
-      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-      "link": "https://www.qbitai.com/2026/10/505865.html",
+      "title": "Rivian’s R2 is officially its best-selling vehicle",
+      "link": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
+      "source": "The Verge",
+      "category": "科技",
+      "published": "2026-10-29T16:02:00+08:00",
+      "abstract": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important ",
+      "tier": 2,
+      "also": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+      "link": "https://www.qbitai.com/2026/10/506281.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-10-27T20:57:51+08:00",
-      "abstract": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+      "published": "2026-10-29T11:27:50+08:00",
+      "abstract": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+      "tier": 2,
+      "also": [
+        "ZOL 科技"
+      ]
+    },
+    {
+      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+      "link": "https://www.qbitai.com/2026/10/506273.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-29T10:51:45+08:00",
+      "abstract": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
       "tier": 2,
       "also": []
     },
     {
-      "title": "Switchable Chlorine Atom Transfer Radical Reactions",
-      "link": "https://www.nature.com/articles/s41586-026-11348-z",
+      "title": "Even stupendous black holes can’t explain dark matter",
+      "link": "https://www.nature.com/articles/d41586-026-03386-4",
       "source": "Nature",
       "category": "科学",
-      "published": "2026-10-28T00:00:00+08:00",
+      "published": "2026-10-29T00:00:00+08:00",
       "abstract": "",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Systems Thinking Is Vital in the Age of AI",
-      "link": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
+      "title": "Consumer Appetite for Personal AI Goes Mainstream",
+      "link": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
       "source": "IEEE Spectrum",
       "category": "科学",
-      "published": "2026-10-29T02:00:02+08:00",
-      "abstract": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence t",
+      "published": "2026-10-30T03:18:20+08:00",
+      "abstract": "This article is brought to you by Qualcomm Technologies.For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic",
       "tier": 2,
       "also": []
     },
     {
-      "title": "四川泸州织密立体气象监测网 短临预警精准叫应护民生",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-29/10722550.shtml",
+      "title": "柴达木戈壁上的“追风人”：中国石油单体最大风电项目施工见闻",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-30/10723128.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-10-29T09:45:06+08:00",
-      "abstract": "中新网泸州10月29日电 (记者 何浠)站在四川泸州叙永县的山头上，一座X波段天气雷达站静静转动着天线。不远处，六要素自动气象站立在一边，雨量、风速、气温数据实时上传。记者28日从泸州市气象局获悉，当地已建成自动气象监测站1015套，站网平均间距由2024年的7.4公里加密至3.5公里，126个乡镇(街道)实现六要素监",
+      "published": "2026-10-30T09:35:59+08:00",
+      "abstract": "中新网青海茫崖10月30日电 题：柴达木戈壁上的“追风人”：中国石油单体最大风电项目施工见闻",
       "tier": 1,
       "also": []
     },
     {
-      "title": "第九届“中国—东盟青年风汇”在京举行",
-      "link": "https://www.chinanews.com.cn/edu/2026/10-28/10722381.shtml",
+      "title": "推动岐黄“出海” 专家学者热议中医药高等教育国际合作",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-29/10723077.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-10-28T19:57:49+08:00",
-      "abstract": "中新网北京10月28日电 (记者 曾玥)第九届“中国—东盟青年风汇”27日在北京大学举行。活动以“在希望的田野上：东南亚研究中的田野实践、方法反思与知识生产”为主题，设置“青年田野对话”与“田野海报展”两大板块，汇聚来自多所高校与研究机构的专家学者和青年研究者，围绕东南亚田野调查的经验、方法与研究成果展开交流。",
+      "published": "2026-10-29T23:48:34+08:00",
+      "abstract": "中新网上海10月29日电 (记者 陈静)“在欧洲，人们对中医药有着浓厚兴趣，对中国文化也是如此。”意大利威尼斯大学校长李集雅28日接受记者采访时直言，“但人们对中国文化和医学的了解比较浅，我们需要有更多的课程。”",
       "tier": 1,
       "also": []
     },
     {
-      "title": "U17女足世界杯 中国队今晚迎战法国队",
-      "link": "https://www.chinanews.com.cn/ty/2026/10-29/10722534.shtml",
+      "title": "女篮训练赛发生肢体冲突 中国篮协通报",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-30/10723116.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-10-29T09:21:15+08:00",
-      "abstract": "北京时间10月29日，2026年摩洛哥U17女足世界杯1/8决赛继续进行，截至目前已有4场比赛战罢，委内瑞拉、加纳、朝鲜、巴西四支球队率先晋级八强。",
+      "published": "2026-10-30T09:45:21+08:00",
+      "abstract": "中新网10月30日电 据中国篮球协会网站消息，中国篮球协会29日晚发布情况通报称，2026年10月13日，武汉盛帆职业篮球俱乐部有限责任公司女子篮球队(以下简称“武汉盛帆队”)与华中科技大学女子篮球队(以下简称“华中科大队”)在武汉盛帆篮球训练基地举行内部训练赛(未向湖北省体育局、湖北省篮球协会报备)。",
       "tier": 1,
       "also": []
     }
