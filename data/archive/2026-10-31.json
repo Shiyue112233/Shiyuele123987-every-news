@@ -1,0 +1,277 @@
+{
+  "generated_at": "2026-10-31T09:43:08.049164+08:00",
+  "count": 20,
+  "quote": {
+    "text": "研究的秘诀，是把同一个问题翻来覆去地问到它松口。",
+    "author": "工作手记"
+  },
+  "tool": {
+    "name": "Origin / OriginPro",
+    "price": "付费",
+    "category": "科研作图",
+    "desc": "期刊级图表与峰值拟合，材料表征数据出图的行业惯例。",
+    "url": "https://www.originlab.com/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 10条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 93条",
+    "创业邦 30条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 39条",
+    "BBC Business 50条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 54条",
+    "DW 中文 60条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [],
+  "items": [
+    {
+      "title": "辽宁省抚顺市人民检察院原党组书记徐志飞接受审查调查",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-31/10723779.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-31T09:38:37+08:00",
+      "abstract": "中新网10月31日电 据辽宁省纪委监委消息：辽宁省抚顺市人民检察院原党组书记、检察长徐志飞涉嫌严重违纪违法，目前正接受辽宁省纪委监委纪律审查和监察调查。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "涉及重要网络系统和数据安全 3起典型案例公布",
+      "link": "https://www.chinanews.com.cn/fz/2026/10-31/10723765.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-31T08:57:55+08:00",
+      "abstract": "中新网10月31日电 据“公安部网安局”微信公众号消息，公安网安部门深入开展“护网—2026”专项工作，全力维护重要网络系统和数据安全。今日，公布3起不履行数据安全保护义务或网络安全保护义务案。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "台风“烟花”向偏北方向移动 预计未来对我国近海无影响",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-31/10723763.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-10-31T08:52:05+08:00",
+      "abstract": "中新网10月31日电 据中央气象台网站消息，今年第31号台风“烟花”(超强台风级)的中心31日早晨5点钟位于日本东京南偏东方向约1680公里的西北太平洋洋面上，就是北纬20.9度、东经143.2度，中心附近最大风力有16级(55米/秒)，中心最低气压为930百帕，七级风圈半径250-360公里，十级风圈半径120公里，",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-10-31T09:11:43+08:00",
+      "abstract": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "No Clear Winner in Israel Election, Final Results Show",
+      "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-10-30T23:02:51+08:00",
+      "abstract": "Prime Minister Benjamin Netanyahu’s party and its allies won 53 seats in Parliament, falling short of the outright majority needed to form a government. The mai",
+      "tier": 1,
+      "also": [
+        "France24"
+      ]
+    },
+    {
+      "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
+      "link": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-10-30T22:42:46+08:00",
+      "abstract": "<p>Activists call for people to make their anger known over poor public services including education and housing</p><ul><li><p><a href=\"https://www.theguardian.",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "东西问丨玛琳·泰莫曼：对华科技交流合作三十载 我的前进之道",
+      "link": "https://www.chinanews.com.cn/dxw/2026/10-30/10723425.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-10-30T16:47:56+08:00",
+      "abstract": "中新社布鲁塞尔10月30日电 题：对华科技交流合作三十载 我的前进之道",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-10-31T05:13:14+08:00",
+      "abstract": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "tier": 1,
+      "also": [
+        "NPR World"
+      ]
+    },
+    {
+      "title": "商务部就美国联邦通信委员会投票通过检测实验室限制措施事答记者问",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-30/10723659.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-10-30T22:03:39+08:00",
+      "abstract": "中新网10月30日电 据商务部网站消息，10月30日，商务部新闻发言人就美国联邦通信委员会投票通过检测实验室限制措施事答记者问。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "黑石集团预计Anthropic上市后或无法获得投资级评级，融资成本面临上升压力",
+      "link": "https://www.jiemian.com/article/15277037.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-10-31T09:02:08+08:00",
+      "abstract": "",
+      "tier": 2,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "英特尔股价暴跌 29%",
+      "link": "https://www.solidot.org/story?sid=85757",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-10-30T22:34:52+08:00",
+      "abstract": "英特尔股价周五暴跌 29%，创芯片巨人最大单日跌幅，整个科技股市场受其影响呈现整体跌势。英特尔市值蒸发逾 1370 亿美元，PC 市场的持续低迷，抵消了该公司在 AI 领域及制造能力扩张方面的大规模投入。AMD、Arm Holdings、高通、英伟达、博通和美光等半导体公司股价跌幅在 2%-10% 之间。戴尔、HPE ",
+      "tier": 2,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道",
+      "link": "http://www.geekpark.net/news/373220",
+      "source": "极客公园",
+      "category": "科技",
+      "published": "2026-10-31T08:03:20+08:00",
+      "abstract": "国行 Apple 智能确定上线时间：11 月开放测试，千问接入 Siri 10 月 31 日，苹果宣布，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式面向用户推出。首批功能包括实时翻译、写作工具、照片消除、智绘表情和通知摘要等，支持 iP",
+      "tier": 2,
+      "also": [
+        "东方财富",
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+      "link": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-10-31T06:21:05+08:00",
+      "abstract": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+      "tier": 2,
+      "also": [
+        "Nature"
+      ]
+    },
+    {
+      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+      "link": "https://www.qbitai.com/2026/10/506743.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-30T15:31:11+08:00",
+      "abstract": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+      "link": "https://www.qbitai.com/2026/10/506686.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-30T13:52:47+08:00",
+      "abstract": "解析一切",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Consumer Appetite for Personal AI Goes Mainstream",
+      "link": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-10-30T03:18:20+08:00",
+      "abstract": "This article is brought to you by Qualcomm Technologies.For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Scientists develop new system to boost prime editing in dicot plants",
+      "link": "https://phys.org/news/2026-10-scientists-boost-prime-dicot.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-10-31T05:40:01+08:00",
+      "abstract": "A new gene-editing system could make it easier for researchers to introduce precise genetic changes into crops such as tomatoes, soybeans and rapeseed. Develope",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "新冷空气今日登场中东部降水发展 东北多地迎立秋后最冷一天",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-31/10723781.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-10-31T09:14:26+08:00",
+      "abstract": "中国天气网讯 周末两天(10月31日至11月1日)，受新一股冷空气影响，黄淮至长江中下游地区降水发展，局地有暴雨，公众需关注预警预报信息，外出尽量避开雨大时段。受冷空气影响，今天东北多地将迎立秋后最冷一天，下周初，随着冷空气南下，江南多地也将迎明显降温，阴冷感增强，需及时添衣防着凉。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "北京发布人工智能赋能基础教育应用蓝皮书",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-30/10723575.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-10-30T20:24:46+08:00",
+      "abstract": "中新网北京10月30日电 (记者 陈杭)2026年北京市人工智能赋能基础教育实践创新研讨会29日在北京第五实验学校举办。本次研讨会以“数智赋能育人场景、课题驱动创新探索”为主题，汇聚市区教育管理者、一线教师、教育科研专家，通过成果发布、专题报告、圆桌研讨、课例分享等多种形式，展示交流北京市人工智能赋能基础教育的实践成果",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "近800名粤港澳青少年齐聚深圳“以武会友”",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-31/10723737.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-10-31T07:46:33+08:00",
+      "abstract": "中新网深圳10月31日电 (记者 张璐)2026年粤港澳大湾区青少年武术套路比赛(简称“赛事”)30日在深圳举行，吸引粤港澳三地54支代表队、近800名青少年武者同台竞技，以武会友。",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}
