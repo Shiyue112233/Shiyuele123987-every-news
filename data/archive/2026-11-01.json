@@ -1,0 +1,276 @@
+{
+  "generated_at": "2026-11-01T09:20:02.044055+08:00",
+  "count": 20,
+  "quote": {
+    "text": "重复的事交给系统，判断的事留给自己。",
+    "author": "工作手记"
+  },
+  "tool": {
+    "name": "ImageJ (Fiji)",
+    "price": "免费",
+    "category": "图像分析",
+    "desc": "SEM/TEM 照片粒径统计、孔隙率、涂层厚度测量的标准工具。",
+    "url": "https://fiji.sc/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 15条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 96条",
+    "创业邦 30条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 27条",
+    "BBC Business 50条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 56条",
+    "DW 中文 62条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [],
+  "items": [
+    {
+      "title": "提醒！2027国考今起报名确认",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-01/10724157.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-01T09:09:35+08:00",
+      "abstract": "2027国考通过用人单位资格审查345万人。国家公务员局郑重提醒，国考资格过审后记得确认才能参加考试。11月1日至11月6日期间，登录“中央机关及其直属机构2027年度考试录用公务员专题网站”进行报名确认和缴费，后续再按规定时间打印准考证并参加考试。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "载人月球探测工程采用“两次发射、环月对接”方案",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-01/10724130.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-01T08:11:32+08:00",
+      "abstract": "记者从10月31日开幕的第七届载人航天学术大会了解到，我国载人月球探测工程采用“两次发射、环月对接”方案，工程登月阶段任务各项研制建设工作正在扎实稳步推进。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "二十国集团外长会未就地缘和经济安全问题达成共识",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-01T06:29:54+08:00",
+      "abstract": "为期两天的二十国集团(G20)外长会10月31日在美国南部佐治亚州首府亚特兰大结束。会议笼罩在乌克兰危机和美伊冲突的阴影下，未能就重要全球地缘和经济安全问题达成共识。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-10-31T13:44:21+08:00",
+      "abstract": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+      "tier": 1,
+      "also": [
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
+      "link": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-01T05:50:29+08:00",
+      "abstract": "More than 300,000 people took to the streets, some wearing Halloween costumes, before the demonstrations ended in violence.",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+      "link": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-01T03:17:22+08:00",
+      "abstract": "<p>Residents of nearby villages line highway waving flags to greet the evacuees’ convoy from the Russian-occupied city</p><p>Evacuees from Russian-occupied Oles",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "Palestine Action supporters arrested outside US embassy in London",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "国际",
+      "published": "2026-11-01T06:10:53+08:00",
+      "abstract": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action.",
+      "tier": 2,
+      "also": [
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-10-31T05:13:14+08:00",
+      "abstract": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "tier": 1,
+      "also": [
+        "NPR World"
+      ]
+    },
+    {
+      "title": "中瑞自贸协定升级 瑞士商会人士看好合作新机遇",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-01/10724153.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-11-01T09:14:21+08:00",
+      "abstract": "中新网海口11月1日电 (记者 王子谦)“对于瑞士而言，最有价值的不仅是降低关税，更重要的在于拓展服务贸易和准入、生产性服务的相互认可及合格评定、人工智能和可持续发展等，这是向前迈进的重要一步。”中国瑞士商会名誉主席、瑞士华南商会会长马丁·穆勒10月31日在海口说。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "金饰克价年内跌了近550元！大金镯子又香了",
+      "link": "http://finance.eastmoney.com/news/1350,202610313917634777.html",
+      "source": "东方财富",
+      "category": "财经",
+      "published": "2026-11-01T00:46:53+08:00",
+      "abstract": "受国际原油价格上涨、美国通胀压力加剧以及市场对美联储进一步加息的预期升温等因素影响，国际金价10月30日跌至一年来新低。截至最新收盘，COMEX黄金期货下跌3.63%，报3884.90美元/盎司；伦敦金现跌3.61%，报3875.19美元/盎司，双双跌破3900美元关口。 受国际金价走低影响，国内品牌金饰价格同步下调，",
+      "tier": 2,
+      "also": [
+        "中新网·国际"
+      ]
+    },
+    {
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "category": "科技",
+      "published": "2026-10-31T10:12:19+08:00",
+      "abstract": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "tier": 1,
+      "also": [
+        "NPR World"
+      ]
+    },
+    {
+      "title": "Google 创上市至今最大跌幅，市值蒸发逾 5000 亿美元",
+      "link": "https://www.solidot.org/story?sid=85752",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-10-30T16:10:29+08:00",
+      "abstract": "Google 在公布三季度财报之后遭遇了它自 2004 年上市以来最大的单日跌幅，市值蒸发逾 5000 亿美元。在股价最低点，Google 市值蒸发 5240 亿美元，这是美股上市公司有史以来第二大单日市值缩水。仅次于英伟达在 2025 年 1 月 27 日因 DeepSeek 模型引发的市场震荡其市值单日缩水约 59",
+      "tier": 2,
+      "also": [
+        "极客公园"
+      ]
+    },
+    {
+      "title": "苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道",
+      "link": "http://www.geekpark.net/news/373220",
+      "source": "极客公园",
+      "category": "科技",
+      "published": "2026-10-31T08:03:20+08:00",
+      "abstract": "国行 Apple 智能确定上线时间：11 月开放测试，千问接入 Siri 10 月 31 日，苹果宣布，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式面向用户推出。首批功能包括实时翻译、写作工具、照片消除、智绘表情和通知摘要等，支持 iP",
+      "tier": 2,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+      "link": "https://www.qbitai.com/2026/10/506884.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-31T13:17:50+08:00",
+      "abstract": "苹果“牛奶倒河里”式操作翻红",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "link": "https://www.qbitai.com/2026/10/506866.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-10-31T13:11:19+08:00",
+      "abstract": "AI算力利用“九九成”",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "When Electric Cars Were for Women",
+      "link": "https://spectrum.ieee.org/early-electric-vehicles",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-10-31T21:00:02+08:00",
+      "abstract": "At the turn of the last century, the automobile industry was still new and evolving rapidly. In 1898, there were about 50 carmakers in the United States. A deca",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "This oddball reflective lava world is challenging to understand",
+      "link": "https://phys.org/news/2026-10-oddball-lava-world.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-11-01T04:30:01+08:00",
+      "abstract": "Among Kepler and TESS's many surprising exoplanet discoveries are the ultra-short-period (USP) planets. These planets move very quickly and complete an orbit in",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "最大风力15级 台风“烟花”今日原地回旋",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-01/10724132.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-11-01T08:28:03+08:00",
+      "abstract": "中新网11月1日电 据中央气象台网站消息，今年第31号台风“烟花”已于今天(11月1日)早晨由超强台风级减弱为强台风级，早晨5点钟其中心位于日本东京南偏东方向约1480公里的西北太平洋洋面上，就是北纬22.9度、东经144.1度，中心附近最大风力有15级(48米/秒)，中心最低气压为945百帕，七级风圈半径250-38",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "教室采光照明新国标11月1日起实施 如何让学生们“看得舒适”？",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-01/10724126.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-11-01T06:39:35+08:00",
+      "abstract": "11月1日，强制性国家标准《中小学校教室采光和照明卫生标准》正式实施。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "亚运冠军高晓彬与青少年分享武术经历",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-01/10724150.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-11-01T09:15:41+08:00",
+      "abstract": "中新网深圳11月1日电 (记者 张璐)记者10月31日从广东省社会体育和训练竞赛中心获悉，2026年粤港澳大湾区青少年武术套路比赛期间，“立德树人——青少年体育第一课”在深圳举行，100余名青少年运动员、教练员、裁判员及家长参加活动。现场，亚运冠军高晓彬与青少年分享对武术精神与文化的理解。",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}
