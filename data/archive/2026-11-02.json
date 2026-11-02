@@ -1,0 +1,266 @@
+{
+  "generated_at": "2026-11-02T09:41:33.091462+08:00",
+  "count": 20,
+  "quote": {
+    "text": "慢就是快——先把地基打好，后面每一层都省事。",
+    "author": "工程手记"
+  },
+  "tool": {
+    "name": "CoolProp",
+    "price": "开源",
+    "category": "化工计算",
+    "desc": "物性数据库与计算库，算溶剂、载气、液滴干燥相关物性。",
+    "url": "http://www.coolprop.org/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 23条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 93条",
+    "创业邦 30条",
+    "Solidot 奇客 17条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 30条",
+    "BBC Business 46条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 55条",
+    "DW 中文 57条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [],
+  "items": [
+    {
+      "title": "“金九银十”收官 二手房市场成交韧性延续",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-02/10724549.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-02T08:42:40+08:00",
+      "abstract": "本报记者 张芗逸",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "“高度警惕日本借助文化产品篡改和歪曲历史”",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-02/10724559.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-02T09:28:54+08:00",
+      "abstract": "日方通过影视剧、动画、漫画、游戏、小说等传播错误史观、误导年轻一代，多方人士呼吁——",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "【诗画中国】秋味入诗 食与时和",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209449.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-02T09:26:59+08:00",
+      "abstract": "",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-11-02T09:18:27+08:00",
+      "abstract": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "tier": 1,
+      "also": [
+        "France24"
+      ]
+    },
+    {
+      "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+      "link": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-02T08:12:17+08:00",
+      "abstract": "<p>Endorsement was met with backlash from the party, condemning Stevens for her ‘betrayal’</p><p>Congresswoman Haley Stevens, who lost the Michigan Democratic S",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
+      "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-01T04:04:18+08:00",
+      "abstract": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "贷款利率迎来新变化 “双锚改革”带来哪些影响？",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-02/10724544.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-11-02T08:16:02+08:00",
+      "abstract": "最近，央行宣布贷款利率要从单一参考LPR定价向更多元的定价基准转型。什么是贷款的定价基准？什么是LPR？一起来了解。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "11月2日央行开展5410亿元隔夜逆回购操作",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-02/10724557.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-11-02T09:35:09+08:00",
+      "abstract": "中新网11月2日电 据中国人民银行网站消息，2026年11月2日中国人民银行以固定利率、数量招标方式开展了5410亿元隔夜期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-10-31T10:12:19+08:00",
+      "abstract": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "tier": 1,
+      "also": [
+        "NPR World"
+      ]
+    },
+    {
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-02T09:15:25+08:00",
+      "abstract": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Google AI Mode 未给网站带来流量",
+      "link": "https://www.solidot.org/story?sid=85767",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-02T00:46:31+08:00",
+      "abstract": "Reddit 的最新财报证实了众多网站的抱怨：Google AI Mode 未给网站带来流量。AI Mode 通过生成总结的方式响应用户的查询，而不是传统搜索的提供网站链接以及简要摘要。硅谷对 AI 的全面拥抱牺牲了构成互联网的无数网站。Reddit 联合创始人兼 CEO Steve Huffman 表示：“用户依然需",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "North Korea linked to massive Binance crypto heist",
+      "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "source": "The Verge",
+      "category": "科技",
+      "published": "2026-11-01T09:33:11+08:00",
+      "abstract": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and sai",
+      "tier": 2,
+      "also": [
+        "BBC Business"
+      ]
+    },
+    {
+      "title": "传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场",
+      "link": "http://www.geekpark.net/news/373252",
+      "source": "极客公园",
+      "category": "科技",
+      "published": "2026-11-02T08:27:02+08:00",
+      "abstract": "苹果 CEO：不会为了做 AI 而做产品 苹果 CEO 约翰·特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。过去几年，外界常认为苹果在 AI 赛道落后，尤其是苹果推迟推出更强版本的 Siri，该功能直到今年夏天才正式上线。 特努斯是苹果资深高管，9 月初正式出任 CEO。他承认「每个人都有自己的看法」，",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "link": "https://www.qbitai.com/2026/11/507076.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-01T21:28:10+08:00",
+      "abstract": "西湖世界模型研究中心成立",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "link": "https://www.qbitai.com/2026/11/507038.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-01T21:09:55+08:00",
+      "abstract": "",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Guarding the Gates of Knowledge",
+      "link": "https://spectrum.ieee.org/ai-slop-trust-science",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-11-01T22:00:01+08:00",
+      "abstract": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-g",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Global sexual health: Why communal knowledge about pleasure and well-being matters",
+      "link": "https://phys.org/news/2026-10-global-sexual-health-communal-knowledge.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-11-02T04:30:07+08:00",
+      "abstract": "For decades, discussions and decisions about access to contraception, abortion, maternal health care, HIV prevention and treatment, comprehensive sexuality educ",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "江汉江淮江南等地将有明显降雨 4日起北方地区将有大风降温",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-02/10724552.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-11-02T09:06:45+08:00",
+      "abstract": "中新网11月2日电 据中央气象台网站2日消息，昨日，湖北西南部、安徽南部、浙江西部、湖南西部、云南东南部、广西西北部和南部等地出现大雨，云南文山、广西防城港和钦州等局地暴雨或大暴雨；黑龙江东南部、吉林东部等地出现小到中雪或雨夹雪，局地大雪。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "复旦大学哲学学院（系）迎来七十周岁“生日”",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-01/10724459.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-11-01T20:06:28+08:00",
+      "abstract": "中新网上海11月1日电 (记者 陈静)今年是复旦大学哲学学院(系)成立七十周年。国际哲学学会联合会(FISP)前任主席卢卡·斯卡兰蒂诺1日在此间指出，复旦大学哲学学院始终走在拓展哲学文化视野的前沿，是推动不同哲学传统交流互鉴的中坚力量，也是世界领先的哲学重镇之一。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "游泳名将徐嘉余：勇敢试，给运动生涯创造新可能",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-02/10724561.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-11-02T09:34:59+08:00",
+      "abstract": "连续刷新短池亚洲纪录、世界纪录，31岁游泳名将徐嘉余——",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}
