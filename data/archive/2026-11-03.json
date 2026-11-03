@@ -1,0 +1,271 @@
+{
+  "generated_at": "2026-11-03T11:34:09.668470+08:00",
+  "count": 20,
+  "quote": {
+    "text": "所谓运气，多半是准备遇到机会的那一刻。",
+    "author": "塞涅卡"
+  },
+  "tool": {
+    "name": "DWSIM",
+    "price": "开源",
+    "category": "流程模拟",
+    "desc": "免费化工流程模拟器，做喷雾干燥前段物料与热量估算够用。",
+    "url": "https://dwsim.org/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 22条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 98条",
+    "创业邦 30条",
+    "Solidot 奇客 18条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 35条",
+    "BBC Business 53条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 57条",
+    "DW 中文 56条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [],
+  "items": [
+    {
+      "title": "美媒：中期选举前夕美军打击伊朗格什姆岛，特朗普淡化战争风险",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725210.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-03T10:49:37+08:00",
+      "abstract": "中新网11月3日电 据美国《华尔街日报》报道，美国官员表示，美军当地时间2日袭击了伊朗格什姆岛，称此次行动旨在防止伊朗袭击霍尔木兹海峡的商船。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "中国气象局发布今冬明春气候预测 最强厄尔尼诺事件影响明显",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-03/10725225.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-03T11:32:04+08:00",
+      "abstract": "中新网11月3日电 11月3日，中国气象局召开新闻发布会，国家气候中心副主任高荣指出，2026年9月，赤道中东太平洋形成一次超强厄尔尼诺事件，10月已发展为有监测记录以来最强的厄尔尼诺事件，预计秋末冬初达到峰值，将对我国今冬明春气候产生明显的影响。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "FBI声称朝鲜支援黑客盗窃加密货币 金与正：这是美国对朝严重政治挑衅",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725227.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-03T11:27:05+08:00",
+      "abstract": "中新网11月3日电 据朝中社3日报道，朝鲜劳动党中央委员会部长金与正2日发表谈话。谈话称，美国联邦调查局声称所谓朝鲜“支援”的黑客组织参与加密货币交易平台“币安”数十亿美元加密货币盗窃事件，企图诋毁朝鲜为“网络犯罪国家”。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+      "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-11-03T11:30:16+08:00",
+      "abstract": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+      "tier": 1,
+      "also": [
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "Trump loses supreme court bid to set aside 20,000 California ballots as justices refuse to take up emergency request – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-03T11:24:51+08:00",
+      "abstract": "<p>This live blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots\">Supreme court ru",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program",
+      "link": "https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-03T05:01:03+08:00",
+      "abstract": "The decision is the latest measure taken against the country, which the administration has accused of discriminating against white people.",
+      "tier": 1,
+      "also": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "US strikes Iran's Qeshm Island as Trump signals progress in talks",
+      "link": "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks",
+      "source": "France24",
+      "category": "国际",
+      "published": "2026-11-03T10:28:07+08:00",
+      "abstract": "The United States reportedly struck Iran's Qeshm Island on Monday, even as President Donald Trump signalled progress in negotiations with Tehran to end the eigh",
+      "tier": 2,
+      "also": [
+        "Al Jazeera",
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "2026年世界互联网大会乌镇峰会今天开幕",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-03/10725151.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-11-03T09:38:42+08:00",
+      "abstract": "2026年世界互联网大会乌镇峰会今天(11月3日)在浙江乌镇开幕。本次峰会以“开源开放 共建共享——携手构建网络空间命运共同体”为主题，全球多国政府、国际组织、企业、专家学者代表汇聚乌镇，聚焦人工智能开源开放，围绕创新发展、安全治理、文明交流、国际合作等开展多维度对话。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-03T09:23:03+08:00",
+      "abstract": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "tier": 1,
+      "also": [
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "中国人民银行决定上调金融机构外汇存款准备金率",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-03/10725110.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-11-03T08:45:49+08:00",
+      "abstract": "中新网11月3日电 据中国人民银行网站消息，为加强金融机构外汇流动性管理，中国人民银行决定，自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "鳄鱼为何免受毁灭恐龙的小行星的影响？",
+      "link": "https://www.solidot.org/story?sid=85777",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-02T23:41:22+08:00",
+      "abstract": "小行星灭绝了恐龙，鳄鱼为何幸存？科学家或许解开了这个困扰6600万年的谜团。一项大规模化石与古气候分析表明，鳄鱼偏爱温暖环境的习性，让它们在小行星撞击后仍能栖身于条件尚可的热带“避难所”。研究团队发现，鳄鱼及其远古近亲在长达 2.5 亿年的演化史中，始终“追着温暖气候走”，而非适应剧烈变化的温度。地球变暖时，它们扩散到",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份",
+      "link": "http://www.geekpark.net/news/373358",
+      "source": "极客公园",
+      "category": "科技",
+      "published": "2026-11-03T08:40:51+08:00",
+      "abstract": "Anthropic 更新 IPO 招股书：第三季度营收近 170 亿美元，算力承诺达 8954 亿美元 11 月 2 日，Anthropic 向美国证券交易委员会提交更新后的 S-1 招股文件，首次补充截至今年 9 月底的第三季度财务数据。 Anthropic 第三季度营收达到 169.6 亿美元，较第二季度增长 47",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+      "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-11-03T07:30:16+08:00",
+      "abstract": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
+      "link": "https://www.qbitai.com/2026/11/507339.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-03T10:02:05+08:00",
+      "abstract": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "link": "https://www.qbitai.com/2026/11/507322.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-03T09:57:30+08:00",
+      "abstract": "指令执行能力也同步提升",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "‘A perfect scientist, a perfect mum’: researchers mourn two biologists’ deaths in Spanish train crash",
+      "link": "https://www.nature.com/articles/d41586-026-03564-4",
+      "source": "Nature",
+      "category": "科学",
+      "published": "2026-11-02T00:00:00+08:00",
+      "abstract": "",
+      "tier": 1,
+      "also": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "Guarding the Gates of Knowledge",
+      "link": "https://spectrum.ieee.org/ai-slop-trust-science",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-11-01T22:00:01+08:00",
+      "abstract": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-g",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "雨连连！今明天南方降雨将增多增强 6日至8日新一轮降雨发展",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-03/10725222.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-11-03T11:15:43+08:00",
+      "abstract": "中国天气网讯 今明天(11月3日至4日)，南方降雨将增多、增强，局地有暴雨。6日至8日，新一轮降雨过程将至，长江中下游一带或现成片的暴雨，需防范连续降雨可能引发的次生灾害。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "高校学术讲坛，如何“叫好又叫座”",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-03/10725082.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-11-03T06:41:12+08:00",
+      "abstract": "论坛汇智，文化润心。在高校校园里，学术讲座与论坛不仅是知识交流的平台，更是精神滋养的空间。记者注意到，近年来各地高校优化内容供给、创新传播形式，推动校园讲座论坛的开展从“有”向“优”、从“覆盖”向“提质”转变，曾经的“小众讲堂”，正越来越成为校园里“叫好又叫座”、师生普遍关注和期待的文化现象。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "陕西：击剑冠军走进校园 小剑手近距离感受击剑魅力",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-03/10725186.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-11-03T10:26:28+08:00",
+      "abstract": "中新网西安11月3日电 (记者 张一辰)陕西2026长安剑客国际击剑精英赛配套活动“剑耀少年时”击剑冠军校园行2日在西安开展，国家击剑队运动员走进中小学校园，与学生面对面交流，传授击剑技艺。",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}
