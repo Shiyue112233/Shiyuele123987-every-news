@@ -1,0 +1,273 @@
+{
+  "generated_at": "2026-11-04T10:31:38.634779+08:00",
+  "count": 20,
+  "quote": {
+    "text": "不要用战术上的勤奋，掩盖战略上的懒惰。",
+    "author": "管理箴言"
+  },
+  "tool": {
+    "name": "OpenFOAM",
+    "price": "开源",
+    "category": "CFD 仿真",
+    "desc": "开源 CFD，可做喷嘴雾化、干燥塔内流场模拟，替代部分商业软件。",
+    "url": "https://www.openfoam.com/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 25条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 96条",
+    "创业邦 30条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 32条",
+    "BBC Business 44条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 54条",
+    "DW 中文 58条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [],
+  "items": [
+    {
+      "title": "国家统计局：10月下旬流通领域重要生产资料28种产品价格下降",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-04/10725788.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-04T10:11:36+08:00",
+      "abstract": "中新网11月4日电 据国家统计局网站消息，据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年10月下旬与10月中旬相比，17种产品价格上涨，28种下降，5种持平。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "2026年世界互联网大会蓝皮书发布",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-04/10725795.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-04T10:09:14+08:00",
+      "abstract": "2026年世界互联网大会乌镇峰会今天(4日)进入第三天，由中国网络空间研究院编写的《中国互联网发展报告2026》和《世界互联网发展报告2026》蓝皮书正式对外发布。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "何立峰在香港国际金融领袖投资峰会上发表视频致辞",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-04/10725785.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-04T10:02:59+08:00",
+      "abstract": "新华社香港11月4日电 香港国际金融领袖投资峰会2日至4日在香港举行，中共中央政治局委员、国务院副总理何立峰发表视频致辞。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-11-04T06:45:59+08:00",
+      "abstract": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "tier": 1,
+      "also": [
+        "The Guardian·World",
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "US midterm elections 2026 live updates: Democrats show strength in key Senate and House races in battle for control of Congress",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-04T10:21:44+08:00",
+      "abstract": "<p>Democrats Roy Cooper, Jon Ossoff, and Chris Pappas notch key Senate wins; Florida Republican Ashley Moody and Byron Donalds prevail in Senate and governor ra",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "第七届世界媒体峰会将在北京举行",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-04/10725789.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-11-04T10:04:43+08:00",
+      "abstract": "新华社权威快报｜第七届世界媒体峰会将在北京举行",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "🔴 Midterms live: Democrat Roy Cooper flips first Senate seat, follow the results",
+      "link": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+      "source": "France24",
+      "category": "国际",
+      "published": "2026-11-04T09:38:44+08:00",
+      "abstract": "",
+      "tier": 2,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-04T00:19:29+08:00",
+      "abstract": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+      "tier": 1,
+      "also": [
+        "The Verge"
+      ]
+    },
+    {
+      "title": "中国人民银行加力实施股票回购增持再贷款政策",
+      "link": "http://finance.eastmoney.com/news/1345,202611043921032355.html",
+      "source": "东方财富",
+      "category": "财经",
+      "published": "2026-11-04T09:05:35+08:00",
+      "abstract": "为维护资本市场平稳运行，中国人民银行加力实施股票回购增持再贷款政策。 一、自2026年11月4日起，下调股票回购增持再贷款利率0.25个百分点至1%。股票回购增持再贷款的支持对象为21家全国性银行和5家系统重要性城商行，支持比例为100%，期限1年，可根据银行需要展期。银行可在再贷款利率基础上适当加点，合理确定股票回购",
+      "tier": 2,
+      "also": [
+        "中新网·财经"
+      ]
+    },
+    {
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-03T16:33:20+08:00",
+      "abstract": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "tier": 1,
+      "also": [
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-11-04T01:54:43+08:00",
+      "abstract": "Google will offer schools AI tools that purportedly don't give away the answers.",
+      "tier": 2,
+      "also": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司",
+      "link": "https://www.solidot.org/story?sid=85788",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-04T00:58:29+08:00",
+      "abstract": "《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xAI 和 Cohere",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "国行版苹果 AI 开始测试；ChatGPT 搜索量已达到谷歌 20%；Seedance 被曝五成收入来自海外｜极客早知道",
+      "link": "http://www.geekpark.net/news/373427",
+      "source": "极客公园",
+      "category": "科技",
+      "published": "2026-11-04T08:28:02+08:00",
+      "abstract": "国行 Apple 智能开始测试：iOS 27.3 首个开发者 Beta 版已推送 11 月 4 日，苹果向开发者推送 iOS 27.3 首个 Beta 版，国行 iPhone 用户开始测试首批 Apple 智能功能，包括实时翻译、照片消除、写作工具和通知摘要等。国行 Apple 智能与阿里巴巴达成合作，在部分体验中接入",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "link": "https://www.qbitai.com/2026/11/507507.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-03T21:57:11+08:00",
+      "abstract": "AI接管调度运营，仓库越干越聪明",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
+      "link": "https://www.qbitai.com/2026/11/507473.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-03T20:57:35+08:00",
+      "abstract": "两位CTO，关起门来吵架",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Whence dragons?",
+      "link": "https://www.nature.com/articles/d41586-026-03277-8",
+      "source": "Nature",
+      "category": "科学",
+      "published": "2026-11-03T00:00:00+08:00",
+      "abstract": "",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
+      "link": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-11-04T03:00:02+08:00",
+      "abstract": "To help engineers keep up with emerging technologies such as AI, cloud computing, and sustainable infrastructure, and learn how they can be applied in practice,",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "“银法”护蕾：28名退休法官守望青少年成长",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-04/10725815.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-11-04T10:27:51+08:00",
+      "abstract": "中新网滁州11月4日电 题：“银法”护蕾：28名退休法官守望青少年成长",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "湖南农业生物合成研究院成立",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-03/10725586.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-11-03T21:13:19+08:00",
+      "abstract": "中新网长沙11月3日电 (唐小晴 王薇薇 庹炼 青晓彤)校院地室企共建、院士领衔。11月3日，湖南农业生物合成研究院在湖南农业大学揭牌成立。中国工程院院士、湖南农业大学教授单杨受聘担任院长。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "四川男篮74比82不敌福建男篮",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-04/10725804.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-11-04T10:24:06+08:00",
+      "abstract": "中新网成都11月4日电 (记者 吕杨)2026-2027赛季CBA常规赛11月3日晚继续上演精彩比拼，四川男篮坐镇主场迎战福建男篮。深陷连败泥潭的四川男篮渴望一场胜利结束当前颓势。经过四节鏖战，最终四川男篮以74比82不敌福建男篮。",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}
