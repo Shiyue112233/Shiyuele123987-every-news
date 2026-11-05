@@ -1,0 +1,264 @@
+{
+  "generated_at": "2026-11-05T10:39:57.224576+08:00",
+  "count": 20,
+  "quote": {
+    "text": "知道得越多，越发现边界之外还有更广阔的答案。",
+    "author": "工作手记"
+  },
+  "tool": {
+    "name": "Ansys Discovery / Fluent",
+    "price": "商业",
+    "category": "CFD 仿真",
+    "desc": "喷雾造粒与传热传质模拟的工业标准，做中试放大论证时常用。",
+    "url": "https://www.ansys.com/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 27条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 94条",
+    "创业邦 30条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 23条",
+    "BBC Business 43条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 54条",
+    "DW 中文 59条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [],
+  "items": [
+    {
+      "title": "以开源之钥 启互联新篇——世界互联网大会乌镇峰会凝聚全球数字治理共识",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-05/10726445.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-05T10:29:52+08:00",
+      "abstract": "新华社杭州11月4日电 题：以开源之钥 启互联新篇——世界互联网大会乌镇峰会凝聚全球数字治理共识",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "广交会采购商创新高 中国制造为全球产供链稳定注入确定性",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-05/10726443.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-05T10:24:57+08:00",
+      "abstract": "11月3日，境外采购商在广交会童车玩具展区洽谈。新华社记者 邓华 摄 新华社广州11月4日电(记者詹奕嘉、丁乐)第140届中国进出口商品交易会(广交会)4日闭幕。截至3日，来自219个国家和地区的35.2万名境外采购商到会，较上届增长12.2%，规模再创新高。已有70年历史的“中国第一展”魅力不减，彰显中国坚定不移扩大",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "贵州银行股份有限公司原监事长肖慈发接受审查调查",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-05/10726435.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-05T10:24:37+08:00",
+      "abstract": "中新网11月5日电 据贵州省纪委监委消息：贵州银行股份有限公司原党委委员、监事长肖慈发涉嫌严重违纪违法，目前正接受贵州省纪委监委纪律审查和监察调查。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Israel's president begins consultations with parties after election deadlock",
+      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-11-05T00:18:21+08:00",
+      "abstract": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+      "tier": 1,
+      "also": [
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "ANC faces anger over poor services as South Africans vote in local elections",
+      "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-04T22:50:47+08:00",
+      "abstract": "<p>Party expected to get less than a third of the vote amid frustration over water outages and power cuts</p><p>The African National Congress is on course for a",
+      "tier": 1,
+      "also": [
+        "France24"
+      ]
+    },
+    {
+      "title": "朝鲜试射新型防空导弹",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726441.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-11-05T10:21:43+08:00",
+      "abstract": "中新网11月5日电 据朝中社5日报道，朝鲜导弹总局4日试射新型先进防空导弹系统。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "中方称“就中俄美元首会晤同相关方保持着沟通”",
+      "link": "https://www.dw.com/zh/中方称-就中俄美元首会晤同相关方保持着沟通/a-79855265?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "category": "国际",
+      "published": "2026-11-04T13:38:00+08:00",
+      "abstract": "有关中美俄峰会的传闻到底是真是假？中美俄元首在深圳APEC会晤已在“筹备中”了吗？特朗普、普京和习近平谁最渴望三方会谈？",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "11月5日央行开展2630亿元隔夜逆回购操作",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-05/10726398.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-11-05T09:31:00+08:00",
+      "abstract": "中新网11月5日电 据中国人民银行网站消息，2026年11月5日中国人民银行以固定利率、数量招标方式开展了2630亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "Australia's oldest department store David Jones collapses after 188 years",
+      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-05T08:59:22+08:00",
+      "abstract": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "AI短剧《持械入宋》爆火，算力投入超百万商业回报约千万",
+      "link": "https://www.jiemian.com/article/15296609.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-11-05T10:31:54+08:00",
+      "abstract": "《持械入宋》前十季平均每季热度接近5000万。",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "category": "科技",
+      "published": "2026-11-03T16:33:20+08:00",
+      "abstract": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "tier": 1,
+      "also": [
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "AMD 营收预计将首次超过英特尔",
+      "link": "https://www.solidot.org/story?sid=85799",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-05T01:20:06+08:00",
+      "abstract": "AMD 周二公布了 2026 财年第三季度财报，营收同比增长 45% 达到 134 亿美元。其中数据中心业务贡献了 85 亿美元营收同比增长 97%。客户端与游戏业务部门的营收下滑了 8% 降至 37 亿美元。作为 AMD 在 x86 市场的主要竞争对手，英特尔下一季度营收预计为 150-160 亿美元，其增长几乎停滞",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道",
+      "link": "http://www.geekpark.net/news/373494",
+      "source": "极客公园",
+      "category": "科技",
+      "published": "2026-11-05T08:45:25+08:00",
+      "abstract": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一 11 月 4 日，Apple 智能伴随 iOS 27.3 的 Developer Beta 向中国大陆用户开放测试，并计划于 12 月随 iOS 27.3 正式版推出。与此同时，苹果也确认与阿里巴巴达成合作，将千问接入 Siri、写作工具及视觉智能，让中国用",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "link": "https://www.qbitai.com/2026/11/507707.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-05T09:59:37+08:00",
+      "abstract": "最快6秒出图",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+      "link": "https://www.qbitai.com/2026/11/507697.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-05T09:54:44+08:00",
+      "abstract": "被轰成筛子了…",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Mysterious anthrax outbreak kills hippos in Africa — raising concerns for human spread",
+      "link": "https://www.nature.com/articles/d41586-026-03580-4",
+      "source": "Nature",
+      "category": "科学",
+      "published": "2026-11-04T00:00:00+08:00",
+      "abstract": "",
+      "tier": 1,
+      "also": [
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
+      "link": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-11-04T03:00:02+08:00",
+      "abstract": "To help engineers keep up with emerging technologies such as AI, cloud computing, and sustainable infrastructure, and learn how they can be applied in practice,",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "自驾上珠峰大本营被拦路 游客起诉景区“侵犯路权”",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726451.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-11-05T10:37:58+08:00",
+      "abstract": "“在大本营20公里外被要求花钱换乘接驳车”",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "陕西省教育厅通报“延安大学教师白某某离世”：已成立联合调查组",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-05/10726385.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-11-05T09:19:38+08:00",
+      "abstract": "中新网11月5日电 据“陕西省教育厅”微信公众号消息，11月4日晚，陕西省教育厅发布情况通报：",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "WTT法兰克福冠军赛：国乒小将温瑞博挺进男单16强",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-05/10726399.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-11-05T09:35:51+08:00",
+      "abstract": "中新社德国法兰克福11月5日电 当地时间11月4日，2026年世界乒乓球职业大联盟(WTT)法兰克福冠军赛在德国继续进行。国乒小将温瑞博以3:0横扫韩国选手安宰贤，晋级男单16强。中国女单选手王艺迪以0:3不敌德国选手韩莹，止步女单首轮。",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}
