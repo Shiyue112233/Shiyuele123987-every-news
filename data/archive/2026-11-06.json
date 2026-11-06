@@ -1,0 +1,270 @@
+{
+  "generated_at": "2026-11-06T10:42:16.749672+08:00",
+  "count": 20,
+  "quote": {
+    "text": "把每天的进步记录下来，一年后你会不敢相信。",
+    "author": "工作手记"
+  },
+  "tool": {
+    "name": "CNKI E-Study",
+    "price": "免费",
+    "category": "文献管理",
+    "desc": "读中文期刊、学位论文并管理笔记，国内调研的必备补充。",
+    "url": "https://estudy.cnki.net/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 23条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 94条",
+    "创业邦 30条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 9条",
+    "BBC World 22条",
+    "BBC Business 52条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 53条",
+    "DW 中文 61条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [],
+  "items": [
+    {
+      "title": "特朗普回应美股大跌：是民主党人造成的",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727100.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-06T10:34:15+08:00",
+      "abstract": "中新网11月6日电 综合报道，美国总统特朗普当地时间5日在社交媒体发布多条帖文回应美股大跌。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "袁州区委统战部传达学习贯彻党的二十届五中全会精神",
+      "link": "https://www.chinanews.com.cn/txy/2026/11-06/10727103.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-06T10:40:31+08:00",
+      "abstract": "11月2日，袁州区委统战部召开专题会议，集中学习了党的二十届五中全会公报和《决定》精神，根据精神系统梳理今年统战重点工作完成情况，统筹部署下一阶段任务。区委常委、统战部部长刘莉出席并讲话，分管日常工作的副部长李安玲主持，机关全体干部参加会议，部分与会人员开展交流研讨。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "《世界开放报告2026》发布，这些看点值得关注",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727104.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-06T10:39:33+08:00",
+      "abstract": "第九届进博会｜《世界开放报告2026》发布，这些看点值得关注",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-11-06T07:09:33+08:00",
+      "abstract": "California has historically had the largest population of people on death row in the US.",
+      "tier": 1,
+      "also": [
+        "Al Jazeera",
+        "France24"
+      ]
+    },
+    {
+      "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+      "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-06T10:30:48+08:00",
+      "abstract": "The president of the South American nation, Santiago Peña, has apologized for failing to prevent its worst financial crisis in decades.",
+      "tier": 1,
+      "also": [
+        "BBC World",
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
+      "link": "https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-06T04:30:11+08:00",
+      "abstract": "<p>Doctor who was helping response to outbreak in Africa taken to specialist isolation unit at Royal Free hospital</p><p>A British doctor who tested positive fo",
+      "tier": 1,
+      "also": [
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "商务部：对原产于美国的进口正丙醇继续征收反补贴税",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-05/10726746.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-11-05T17:23:12+08:00",
+      "abstract": "中新网11月5日电 据商务部网站消息，11月5日，商务部发布2026年第55号公告，公布对原产于美国的进口正丙醇所适用反补贴措施的期终复审裁定。全文如下：",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-06T01:09:55+08:00",
+      "abstract": "Most analysts expected the increase from 3.75% to 4%.",
+      "tier": 1,
+      "also": [
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "黑龙江电力外送签约电量首破200亿千瓦时",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-05/10726965.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-11-05T23:43:07+08:00",
+      "abstract": "中新网哈尔滨11月5日电 (王鹏宇 于庆泉)国网黑龙江电力5日对外发布消息，截至11月1日，黑龙江当年电力外送签约电量首次突破200亿千瓦时，其中清洁电力外送签约电量137.11亿千瓦时，均创历史新高，外送电范围累计覆盖全国20个省(区、市)，横跨东北、华北、华东、华中、西北、西南六大区域。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "进博手记｜在全球创新中看见中国印记",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-06/10727092.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-11-06T10:30:04+08:00",
+      "abstract": "新华社上海11月5日电(记者宿亮#8195;曹筱凡#8195;周蕊)全球品牌的创新灵感，正在从中国消费者的日常生活中生长出来。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "category": "科技",
+      "published": "2026-11-06T09:44:03+08:00",
+      "abstract": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+      "link": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-11-06T03:59:22+08:00",
+      "abstract": "Software optimizes a physical model of the telescope to reduce noise.",
+      "tier": 2,
+      "also": [
+        "Nature"
+      ]
+    },
+    {
+      "title": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
+      "link": "https://www.solidot.org/story?sid=85809",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-06T00:53:00+08:00",
+      "abstract": "印度计算机应急响应小组（CERT-In）星期三发布安全通报，被称为“狡猾猎鹰”（Crafty Falcon）的黑客组织，已入侵非银行贷款机构、金融科技公司及加密货币交易所。攻击者利用公开可用的 AI 工具，实现高速自动化入侵。印度计算机应急响应小组形容这项威胁“仍在发生，且持续活跃”。该机构点名四款用于入侵的工具，分别",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "link": "https://www.qbitai.com/2026/11/507787.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-05T15:15:13+08:00",
+      "abstract": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
+      "link": "https://www.qbitai.com/2026/11/507782.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-05T15:10:56+08:00",
+      "abstract": "spaCy作者长文炮轰",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+      "link": "https://www.nature.com/articles/s41586-026-11336-3",
+      "source": "Nature",
+      "category": "科学",
+      "published": "2026-11-05T00:00:00+08:00",
+      "abstract": "",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Use Your Year-End Review to Reach for a Promotion",
+      "link": "https://spectrum.ieee.org/how-to-get-a-promotion",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-11-06T00:08:03+08:00",
+      "abstract": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partne",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "周末出行请注意！今夜起我国将有一轮大范围雨雪天气",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727079.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-11-06T10:23:58+08:00",
+      "abstract": "这两天网上都在热议“立冬雪”，很多网友都在关心，周六，包括北京在内，华北多地会迎来明显的雨雪天气，立冬下雪是否常见呢？",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "“智慧教室”会侵犯学生隐私？全国教育辟谣平台发文谈误读套路",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-06/10727073.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-11-06T10:25:52+08:00",
+      "abstract": "中新网北京11月6日电 近日，南京大学启用智慧教室系统事件引发热议。11月6日，全国教育辟谣平台发文称，跳出单一现象来看，“智慧教室”引发的争议并非孤例。随着教育数字化推进，录播监控、课堂行为分析等技术在越来越多学校落地。从个别网传截图引发的焦虑，到一些家长群、学生群里流传的“学校全天候监控”传闻，这背后折射出的是公众",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "2026CFA中国之队·银川五人制足球国际邀请赛开赛",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-06/10727042.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-11-06T09:43:16+08:00",
+      "abstract": "中新网银川11月6日电 (记者 杨迪)2026CFA中国之队·银川五人制足球国际邀请赛5日在银川体育馆开赛。中国队、中国香港队、韩国选拔队等7支五人制足球队齐聚宁夏，开启为期6天的国际足球交流赛事。在当晚的“焦点战”中，中国队4:0战胜中国香港队。",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}
