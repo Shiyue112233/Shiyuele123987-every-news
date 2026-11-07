@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-06T10:42:16.749672+08:00",
+  "generated_at": "2026-11-07T10:09:33.047960+08:00",
   "count": 20,
   "quote": {
-    "text": "把每天的进步记录下来，一年后你会不敢相信。",
+    "text": "与其预测未来，不如建立一个能快速适应的系统。",
     "author": "工作手记"
   },
   "tool": {
-    "name": "CNKI E-Study",
+    "name": "Espacenet",
     "price": "免费",
-    "category": "文献管理",
-    "desc": "读中文期刊、学位论文并管理笔记，国内调研的必备补充。",
-    "url": "https://estudy.cnki.net/"
+    "category": "专利检索",
+    "desc": "欧洲专利局数据库，免费覆盖全球同族专利，查同族和引证链很好用。",
+    "url": "https://worldwide.espacenet.com/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 23条",
+    "中新网·教育 28条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 94条",
+    "东方财富 93条",
     "创业邦 30条",
     "Solidot 奇客 20条",
     "极客公园 30条",
     "少数派 10条",
     "开源中国 50条",
     "ZOL 科技 100条",
-    "量子位 9条",
-    "BBC World 22条",
-    "BBC Business 52条",
+    "量子位 10条",
+    "BBC World 25条",
+    "BBC Business 54条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
-    "纽约时报·国际 53条",
-    "DW 中文 61条",
+    "纽约时报·国际 52条",
+    "DW 中文 63条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,44 +49,64 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "特朗普回应美股大跌：是民主党人造成的",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727100.shtml",
+      "title": "中国第43次南极考察队出征",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727767.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-06T10:34:15+08:00",
-      "abstract": "中新网11月6日电 综合报道，美国总统特朗普当地时间5日在社交媒体发布多条帖文回应美股大跌。",
+      "published": "2026-11-07T09:39:58+08:00",
+      "abstract": "新华社权威快报|中国第43次南极考察队出征",
       "tier": 1,
       "also": [
-        "东方财富"
+        "界面新闻"
       ]
     },
     {
-      "title": "袁州区委统战部传达学习贯彻党的二十届五中全会精神",
-      "link": "https://www.chinanews.com.cn/txy/2026/11-06/10727103.shtml",
+      "title": "北京今日开始供热系统试运行 夜间阴有雨夹雪或雪",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727764.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-06T10:40:31+08:00",
-      "abstract": "11月2日，袁州区委统战部召开专题会议，集中学习了党的二十届五中全会公报和《决定》精神，根据精神系统梳理今年统战重点工作完成情况，统筹部署下一阶段任务。区委常委、统战部部长刘莉出席并讲话，分管日常工作的副部长李安玲主持，机关全体干部参加会议，部分与会人员开展交流研讨。",
+      "published": "2026-11-07T09:33:04+08:00",
+      "abstract": "北京今日(11月7日)白天多云转阴有小雨或雨夹雪(西部北部有中雪)，偏北风二、三级(东南部阵风五级左右)，最高气温6℃；",
       "tier": 1,
-      "also": []
+      "also": [
+        "界面新闻"
+      ]
     },
     {
-      "title": "《世界开放报告2026》发布，这些看点值得关注",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727104.shtml",
+      "title": "商务部新闻发言人就美制裁中国企业答记者问",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-07/10727763.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-06T10:39:33+08:00",
-      "abstract": "第九届进博会｜《世界开放报告2026》发布，这些看点值得关注",
+      "published": "2026-11-07T09:24:56+08:00",
+      "abstract": "中新网11月7日电 据商务部网站7日消息，商务部新闻发言人就美制裁中国企业答记者问。",
       "tier": 1,
-      "also": []
+      "also": [
+        "东方财富",
+        "界面新闻"
+      ]
     },
     {
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "title": "New wave of bomb threats hit European airlines",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-11-06T07:09:33+08:00",
-      "abstract": "California has historically had the largest population of people on death row in the US.",
+      "published": "2026-11-06T23:25:35+08:00",
+      "abstract": "No link has been established between the threats against the airlines and those against the media outlets.",
+      "tier": 1,
+      "also": [
+        "France24",
+        "NPR World",
+        "The Guardian·World",
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+      "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-07T09:38:06+08:00",
+      "abstract": "<p>US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down</p><ul><li><p><a href=\"https://www.theguardian",
       "tier": 1,
       "also": [
         "Al Jazeera",
@@ -94,175 +114,163 @@
       ]
     },
     {
-      "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
-      "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+      "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+      "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
       "source": "纽约时报·国际",
       "category": "国际",
-      "published": "2026-11-06T10:30:48+08:00",
-      "abstract": "The president of the South American nation, Santiago Peña, has apologized for failing to prevent its worst financial crisis in decades.",
+      "published": "2026-11-07T09:29:30+08:00",
+      "abstract": "Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under.",
       "tier": 1,
       "also": [
-        "BBC World",
         "The Guardian·World"
       ]
     },
     {
-      "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
-      "link": "https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital",
-      "source": "The Guardian·World",
-      "category": "国际",
-      "published": "2026-11-06T04:30:11+08:00",
-      "abstract": "<p>Doctor who was helping response to outbreak in Africa taken to specialist isolation unit at Royal Free hospital</p><p>A British doctor who tested positive fo",
-      "tier": 1,
-      "also": [
-        "纽约时报·国际"
-      ]
-    },
-    {
-      "title": "商务部：对原产于美国的进口正丙醇继续征收反补贴税",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-05/10726746.shtml",
+      "title": "国家广播电视总局部署开展新一轮微短剧专项治理工作",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727509.shtml",
       "source": "中新网·国际",
       "category": "国际",
-      "published": "2026-11-05T17:23:12+08:00",
-      "abstract": "中新网11月5日电 据商务部网站消息，11月5日，商务部发布2026年第55号公告，公布对原产于美国的进口正丙醇所适用反补贴措施的期终复审裁定。全文如下：",
+      "published": "2026-11-06T19:53:51+08:00",
+      "abstract": "中新网11月6日电 据“国家广播电视总局”微信公众号消息，近日，国家广播电视总局在巩固前期微短剧低俗有害和侵权盗版专项治理成效的基础上，针对AI微短剧质量良莠不齐、AI技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质化专项治理工作，治理为期两个月，自11月1日起至12月底。",
       "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "Interest rates hiked to 4% in first increase in over three years",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+      "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "财经",
-      "published": "2026-11-06T01:09:55+08:00",
-      "abstract": "Most analysts expected the increase from 3.75% to 4%.",
-      "tier": 1,
-      "also": [
-        "The Guardian·World"
-      ]
-    },
-    {
-      "title": "黑龙江电力外送签约电量首破200亿千瓦时",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-05/10726965.shtml",
-      "source": "中新网·财经",
-      "category": "财经",
-      "published": "2026-11-05T23:43:07+08:00",
-      "abstract": "中新网哈尔滨11月5日电 (王鹏宇 于庆泉)国网黑龙江电力5日对外发布消息，截至11月1日，黑龙江当年电力外送签约电量首次突破200亿千瓦时，其中清洁电力外送签约电量137.11亿千瓦时，均创历史新高，外送电范围累计覆盖全国20个省(区、市)，横跨东北、华北、华东、华中、西北、西南六大区域。",
-      "tier": 1,
-      "also": [
-        "界面新闻"
-      ]
-    },
-    {
-      "title": "进博手记｜在全球创新中看见中国印记",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-06/10727092.shtml",
-      "source": "中新网·财经",
-      "category": "财经",
-      "published": "2026-11-06T10:30:04+08:00",
-      "abstract": "新华社上海11月5日电(记者宿亮#8195;曹筱凡#8195;周蕊)全球品牌的创新灵感，正在从中国消费者的日常生活中生长出来。",
+      "published": "2026-11-07T09:41:36+08:00",
+      "abstract": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "title": "大范围降水来袭，华北北部局地有大暴雪，冷空气影响将直抵华南",
+      "link": "https://www.jiemian.com/article/15306152.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-11-07T09:49:43+08:00",
+      "abstract": "据中国天气网消息，今天（11月7日），大范围降水将影响我国，北方部分地区强降雪具有极端性，长江中下游地区有较强降雨，需防范雨雪天气对交通出行等方面的不利影响。明天，我国降水有所减少、减弱。气温方面，未来三天，新一股冷空气来袭，我国大部气温将创新低，多地体感寒凉，需注意添衣保暖。",
+      "tier": 2,
+      "also": [
+        "中新网·滚动",
+        "中新网·社会"
+      ]
+    },
+    {
+      "title": "从“十五五”专项规划看以金融服务发展大局",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-07/10727779.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-11-07T09:58:23+08:00",
+      "abstract": "新华社北京11月6日电 题：不断提升服务实体经济质效——从“十五五”专项规划看以金融服务发展大局",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Tech",
       "category": "科技",
-      "published": "2026-11-06T09:44:03+08:00",
-      "abstract": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+      "published": "2026-11-07T05:49:50+08:00",
+      "abstract": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
-      "link": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+      "title": "Earth's churning mantle may have created the Great Unconformity",
+      "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
       "source": "Ars Technica",
       "category": "科技",
-      "published": "2026-11-06T03:59:22+08:00",
-      "abstract": "Software optimizes a physical model of the telescope to reduce noise.",
+      "published": "2026-11-07T04:24:20+08:00",
+      "abstract": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
       "tier": 2,
       "also": [
         "Nature"
       ]
     },
     {
-      "title": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
-      "link": "https://www.solidot.org/story?sid=85809",
+      "title": "从 Linux 到维基百科：志愿者如何构建互联网",
+      "link": "https://www.solidot.org/story?sid=85820",
       "source": "Solidot 奇客",
       "category": "科技",
-      "published": "2026-11-06T00:53:00+08:00",
-      "abstract": "印度计算机应急响应小组（CERT-In）星期三发布安全通报，被称为“狡猾猎鹰”（Crafty Falcon）的黑客组织，已入侵非银行贷款机构、金融科技公司及加密货币交易所。攻击者利用公开可用的 AI 工具，实现高速自动化入侵。印度计算机应急响应小组形容这项威胁“仍在发生，且持续活跃”。该机构点名四款用于入侵的工具，分别",
+      "published": "2026-11-07T01:20:39+08:00",
+      "abstract": "Linux 和维基百科代表了一种被称为同侪生产（Peer Production）的模式——这一名字由法学教授 Yochai Benkler 提出。古典经济学认为，如果想要人们开展合作以及有效分配合作所产生的成果，那么最有效方式是通过私人营利性企业实现，即由这些企业在开放市场中销售商品或服务。企业雇用员工并支付报酬，而员",
       "tier": 2,
       "also": []
     },
     {
-      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-      "link": "https://www.qbitai.com/2026/11/507787.html",
+      "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+      "link": "https://www.qbitai.com/2026/11/508155.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-11-05T15:15:13+08:00",
-      "abstract": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+      "published": "2026-11-06T15:00:29+08:00",
+      "abstract": "Q3营收实现数倍增长",
       "tier": 2,
       "also": []
     },
     {
-      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
-      "link": "https://www.qbitai.com/2026/11/507782.html",
+      "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+      "link": "https://www.qbitai.com/2026/11/508118.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-11-05T15:10:56+08:00",
-      "abstract": "spaCy作者长文炮轰",
+      "published": "2026-11-06T14:54:17+08:00",
+      "abstract": "挑战商业视频的高难度场景",
       "tier": 2,
       "also": []
     },
     {
-      "title": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
-      "link": "https://www.nature.com/articles/s41586-026-11336-3",
+      "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
+      "link": "https://www.nature.com/articles/d41586-026-03595-x",
       "source": "Nature",
       "category": "科学",
-      "published": "2026-11-05T00:00:00+08:00",
+      "published": "2026-11-06T00:00:00+08:00",
       "abstract": "",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Use Your Year-End Review to Reach for a Promotion",
-      "link": "https://spectrum.ieee.org/how-to-get-a-promotion",
+      "title": "How Do You Land on a Moon With Almost No Gravity?",
+      "link": "https://spectrum.ieee.org/mmx-mission-to-phobos",
       "source": "IEEE Spectrum",
       "category": "科学",
-      "published": "2026-11-06T00:08:03+08:00",
-      "abstract": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partne",
+      "published": "2026-11-06T23:00:02+08:00",
+      "abstract": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover’s electronic eye spied an oblong shadow crossing the distant, gl",
       "tier": 2,
       "also": []
     },
     {
-      "title": "周末出行请注意！今夜起我国将有一轮大范围雨雪天气",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727079.shtml",
+      "title": "中国第43次南极考察队起航仪式在三亚举行",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727762.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-11-06T10:23:58+08:00",
-      "abstract": "这两天网上都在热议“立冬雪”，很多网友都在关心，周六，包括北京在内，华北多地会迎来明显的雨雪天气，立冬下雪是否常见呢？",
+      "published": "2026-11-07T09:23:31+08:00",
+      "abstract": "新华社三亚11月7日电#8195;中国第43次南极考察队即将起航执行南极科学考察任务。起航仪式7日上午在三亚南山港科考码头3号泊位举行。",
       "tier": 1,
-      "also": []
+      "also": [
+        "界面新闻"
+      ]
     },
     {
-      "title": "“智慧教室”会侵犯学生隐私？全国教育辟谣平台发文谈误读套路",
-      "link": "https://www.chinanews.com.cn/edu/2026/11-06/10727073.shtml",
+      "title": "AI评测技术赋能教育 助学生提升英语口语",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-06/10727702.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-11-06T10:25:52+08:00",
-      "abstract": "中新网北京11月6日电 近日，南京大学启用智慧教室系统事件引发热议。11月6日，全国教育辟谣平台发文称，跳出单一现象来看，“智慧教室”引发的争议并非孤例。随着教育数字化推进，录播监控、课堂行为分析等技术在越来越多学校落地。从个别网传截图引发的焦虑，到一些家长群、学生群里流传的“学校全天候监控”传闻，这背后折射出的是公众",
+      "published": "2026-11-06T23:40:05+08:00",
+      "abstract": "中新网广州11月6日电 (记者 王坚)2026移动网络大会正在广州举行。大会现场人山人海，教育展区内一台轻量学习终端吸引了不少观众驻足。它外形小巧，没有繁复的娱乐功能，核心能力只有一项：对着它读一句英语，系统能即时标注出发音偏差，并给出纠正建议。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "2026CFA中国之队·银川五人制足球国际邀请赛开赛",
-      "link": "https://www.chinanews.com.cn/ty/2026/11-06/10727042.shtml",
+      "title": "哈尔滨亚布力雪中开板 增加亲子滑雪等新业态",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-06/10727534.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-11-06T09:43:16+08:00",
-      "abstract": "中新网银川11月6日电 (记者 杨迪)2026CFA中国之队·银川五人制足球国际邀请赛5日在银川体育馆开赛。中国队、中国香港队、韩国选拔队等7支五人制足球队齐聚宁夏，开启为期6天的国际足球交流赛事。在当晚的“焦点战”中，中国队4:0战胜中国香港队。",
+      "published": "2026-11-06T20:42:10+08:00",
+      "abstract": "中新社哈尔滨11月6日电 (记者 王琳)6日的哈尔滨雪花纷飞，2026—2027哈尔滨冰雪季启幕暨亚布力滑雪开板仪式在亚布力阳光度假村滑雪场举行，标志着全新一季哈尔滨冰雪盛宴拉开帷幕。今年，世界滑雪胜地亚布力焕新迎客，增加了亲子滑雪、观景酒廊、山地自行车等新业态。",
       "tier": 1,
       "also": []
     }
