@@ -1,0 +1,278 @@
+{
+  "generated_at": "2026-11-08T09:41:21.047861+08:00",
+  "count": 20,
+  "quote": {
+    "text": "最好的投资，是把时间投在会复利的事情上。",
+    "author": "工作手记"
+  },
+  "tool": {
+    "name": "Lens.org",
+    "price": "免费档",
+    "category": "专利检索",
+    "desc": "专利+论文联合检索，看技术从论文到专利的迁移路径。",
+    "url": "https://www.lens.org/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 28条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 93条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 25条",
+    "BBC Business 43条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 53条",
+    "DW 中文 62条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [
+    "创业邦(URLError: <urlopen error _ssl.c:994: The handshake operation timed out>)"
+  ],
+  "items": [
+    {
+      "title": "北京今天雨雪逐渐结束 气温继续下降将创下半年来新低",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728232.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-08T08:31:57+08:00",
+      "abstract": "今天(11月8日)，北京雨雪天气将逐渐结束，但气温还会进一步下滑，最高气温将降至6℃，最低气温也会跌至零下3℃，将度过下半年来最冷的一天。明后两天，北京晴朗回归，最高气温将明显回升，早晚时段依然寒冷，公众外出需注意保暖。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "雨雪降温来袭 天津部分高速封闭限行",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728231.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-08T08:28:29+08:00",
+      "abstract": "受冷空气影响，天津市迎来一轮雨雪降温天气过程，北部区域降雪强度大，多地先后发布道路结冰、暴雪预警，受雨雪、大雾影响，天津辖区多条高速采取封闭、限行管制措施。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "中国新闻社7件作品获中国新闻奖，2件作品一等奖！",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728238.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-08T09:35:27+08:00",
+      "abstract": "由中华全国新闻工作者协会主办的第36届中国新闻奖评选结果今天揭晓。中国新闻社7件作品获奖，其中，一等奖2个，二等奖4个，三等奖1个。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-11-08T06:19:59+08:00",
+      "abstract": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "tier": 1,
+      "also": [
+        "Al Jazeera",
+        "NPR World",
+        "The Guardian·World",
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+      "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-08T09:00:48+08:00",
+      "abstract": "<p>National party will be largest in parliament but ultimate shape of next government won’t be settled for some time</p><p>New Zealand could be facing a weeks-l",
+      "tier": 1,
+      "also": [
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-08T07:36:17+08:00",
+      "abstract": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
+      "tier": 1,
+      "also": [
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "AI驱动存储进入“超级周期” 业界呼吁“以存强算”",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-07/10728056.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-11-07T19:46:25+08:00",
+      "abstract": "中新网北京11月7日电 (记者 刘亮)由中国电子工业标准化技术协会主办的2026数据存储产业大会近日在郑州举办。与会人士共同探讨人工智能(AI)时代下存储角色的变化与演进方向。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-08T07:02:35+08:00",
+      "abstract": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "河北秦皇岛凌晨发布暴雪红色预警，降雪仍在持续",
+      "link": "https://www.jiemian.com/article/15307403.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-11-08T08:21:35+08:00",
+      "abstract": "",
+      "tier": 2,
+      "also": [
+        "中新网·社会"
+      ]
+    },
+    {
+      "title": "特朗普宣布邀请终极格斗冠军赛总裁达纳·怀特担任白宫新闻秘书",
+      "link": "http://finance.eastmoney.com/news/1351,202611083925577311.html",
+      "source": "东方财富",
+      "category": "财经",
+      "published": "2026-11-08T07:36:28+08:00",
+      "abstract": "美国总统特朗普当地时间11月7日下午在社交媒体发帖称，已邀请终极格斗冠军赛（UFC）总裁达纳·怀特出任白宫新闻秘书一职 。不过据美国媒体援引消息人士报道，怀特已拒绝了这一邀请。 特朗普在此前的帖文中称怀特是“一位强悍的斗士与战士”，还称已请怀特带6名现役或前UFC冠军一同入职。特朗普称，“我们需要这些人来保卫我们。达纳",
+      "tier": 2,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "天宫即将迎来首位巴基斯坦宇航员",
+      "link": "https://www.solidot.org/story?sid=85822",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-07T19:22:25+08:00",
+      "abstract": "一名巴基斯坦宇航员将加入神舟二十四号载人飞行任务的乘组。他是一位载荷专家。任务成行后，他将成为首位进入中国空间站的外国公民。这也将是中国载人航天工程历史上，首次由中国与外国宇航员共同执行太空飞行任务。今年早些时候，两名巴基斯坦预备宇航员——穆罕默德·泽尚·阿里（Muhammad Zeeshan Ali）和胡拉姆·达乌德",
+      "tier": 2,
+      "also": [
+        "DW 中文"
+      ]
+    },
+    {
+      "title": "Can the Zelda remake capture the magic of the original?",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "category": "科技",
+      "published": "2026-11-08T08:37:45+08:00",
+      "abstract": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Earth's churning mantle may have created the Great Unconformity",
+      "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-11-07T04:24:20+08:00",
+      "abstract": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+      "tier": 2,
+      "also": [
+        "Nature"
+      ]
+    },
+    {
+      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+      "link": "https://www.qbitai.com/2026/11/508344.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-07T16:11:25+08:00",
+      "abstract": "融资缩水，硅谷投资人也谨慎了",
+      "tier": 2,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+      "link": "https://www.qbitai.com/2026/11/508449.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-07T17:38:56+08:00",
+      "abstract": "AI写代码太快，基础设施跟不上了",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "How Do You Land on a Moon With Almost No Gravity?",
+      "link": "https://spectrum.ieee.org/mmx-mission-to-phobos",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-11-06T23:00:02+08:00",
+      "abstract": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover’s electronic eye spied an oblong shadow crossing the distant, gl",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Why the tropics lose the most birds when cities expand",
+      "link": "https://phys.org/news/2026-11-tropics-birds-cities.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-11-08T04:30:01+08:00",
+      "abstract": "Tropical ecosystems are famous for their teeming, exuberant diversity. In fact, the dramatic increase in biodiversity from the poles to the tropics—known as the",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "广西开行首趟“八桂嗦粉”主题旅游列车 列车上设有米粉展示区",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728219.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-11-08T09:15:13+08:00",
+      "abstract": "中新网南宁11月8日电(资音 明学德 卢诗宇)11月7日8时，广西首趟Y878次“八桂嗦粉”主题旅游列车从南宁站驶向桂林北站，载着近百名旅客开启了“吃粉赏景游八桂”的旅途。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "AI评测技术赋能教育 助学生提升英语口语",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-06/10727702.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-11-06T23:40:05+08:00",
+      "abstract": "中新网广州11月6日电 (记者 王坚)2026移动网络大会正在广州举行。大会现场人山人海，教育展区内一台轻量学习终端吸引了不少观众驻足。它外形小巧，没有繁复的娱乐功能，核心能力只有一项：对着它读一句英语，系统能即时标注出发音偏差，并给出纠正建议。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "东南亚警察组队赴“村超”踢球",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-08/10728218.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-11-08T09:02:47+08:00",
+      "abstract": "中新网贵州榕江11月8日电(记者 袁超)2026年澜湄警察足球赛在“村超”发源地贵州省榕江县举行。柬埔寨、中国、老挝、缅甸、泰国、越南六国执法机构组成的澜湄警察足球联队与榕江“村超”足球队同场竞技、以球会友，依托“村超”平台深化澜湄各国执法机构人文交流，厚植区域执法机构合作情谊。",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}

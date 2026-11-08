@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-07T10:09:33.047960+08:00",
+  "generated_at": "2026-11-08T09:41:21.047861+08:00",
   "count": 20,
   "quote": {
-    "text": "与其预测未来，不如建立一个能快速适应的系统。",
+    "text": "最好的投资，是把时间投在会复利的事情上。",
     "author": "工作手记"
   },
   "tool": {
-    "name": "Espacenet",
-    "price": "免费",
+    "name": "Lens.org",
+    "price": "免费档",
     "category": "专利检索",
-    "desc": "欧洲专利局数据库，免费覆盖全球同族专利，查同族和引证链很好用。",
-    "url": "https://worldwide.espacenet.com/"
+    "desc": "专利+论文联合检索，看技术从论文到专利的迁移路径。",
+    "url": "https://www.lens.org/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
@@ -21,7 +21,6 @@
     "中新网·体育 30条",
     "界面新闻 30条",
     "东方财富 93条",
-    "创业邦 30条",
     "Solidot 奇客 20条",
     "极客公园 30条",
     "少数派 10条",
@@ -29,11 +28,11 @@
     "ZOL 科技 100条",
     "量子位 10条",
     "BBC World 25条",
-    "BBC Business 54条",
+    "BBC Business 43条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
-    "纽约时报·国际 52条",
-    "DW 中文 63条",
+    "纽约时报·国际 53条",
+    "DW 中文 62条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -46,137 +45,148 @@
     "Phys.org 30条",
     "ScienceDaily 60条"
   ],
-  "sources_failed": [],
+  "sources_failed": [
+    "创业邦(URLError: <urlopen error _ssl.c:994: The handshake operation timed out>)"
+  ],
   "items": [
     {
-      "title": "中国第43次南极考察队出征",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727767.shtml",
+      "title": "北京今天雨雪逐渐结束 气温继续下降将创下半年来新低",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728232.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-07T09:39:58+08:00",
-      "abstract": "新华社权威快报|中国第43次南极考察队出征",
+      "published": "2026-11-08T08:31:57+08:00",
+      "abstract": "今天(11月8日)，北京雨雪天气将逐渐结束，但气温还会进一步下滑，最高气温将降至6℃，最低气温也会跌至零下3℃，将度过下半年来最冷的一天。明后两天，北京晴朗回归，最高气温将明显回升，早晚时段依然寒冷，公众外出需注意保暖。",
       "tier": 1,
       "also": [
         "界面新闻"
       ]
     },
     {
-      "title": "北京今日开始供热系统试运行 夜间阴有雨夹雪或雪",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727764.shtml",
+      "title": "雨雪降温来袭 天津部分高速封闭限行",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728231.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-07T09:33:04+08:00",
-      "abstract": "北京今日(11月7日)白天多云转阴有小雨或雨夹雪(西部北部有中雪)，偏北风二、三级(东南部阵风五级左右)，最高气温6℃；",
+      "published": "2026-11-08T08:28:29+08:00",
+      "abstract": "受冷空气影响，天津市迎来一轮雨雪降温天气过程，北部区域降雪强度大，多地先后发布道路结冰、暴雪预警，受雨雪、大雾影响，天津辖区多条高速采取封闭、限行管制措施。",
       "tier": 1,
       "also": [
         "界面新闻"
       ]
     },
     {
-      "title": "商务部新闻发言人就美制裁中国企业答记者问",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-07/10727763.shtml",
+      "title": "中国新闻社7件作品获中国新闻奖，2件作品一等奖！",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728238.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-07T09:24:56+08:00",
-      "abstract": "中新网11月7日电 据商务部网站7日消息，商务部新闻发言人就美制裁中国企业答记者问。",
+      "published": "2026-11-08T09:35:27+08:00",
+      "abstract": "由中华全国新闻工作者协会主办的第36届中国新闻奖评选结果今天揭晓。中国新闻社7件作品获奖，其中，一等奖2个，二等奖4个，三等奖1个。",
       "tier": 1,
-      "also": [
-        "东方财富",
-        "界面新闻"
-      ]
+      "also": []
     },
     {
-      "title": "New wave of bomb threats hit European airlines",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-11-06T23:25:35+08:00",
-      "abstract": "No link has been established between the threats against the airlines and those against the media outlets.",
+      "published": "2026-11-08T06:19:59+08:00",
+      "abstract": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
       "tier": 1,
       "also": [
-        "France24",
+        "Al Jazeera",
         "NPR World",
         "The Guardian·World",
         "纽约时报·国际"
       ]
     },
     {
-      "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
-      "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+      "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+      "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
       "source": "The Guardian·World",
       "category": "国际",
-      "published": "2026-11-07T09:38:06+08:00",
-      "abstract": "<p>US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down</p><ul><li><p><a href=\"https://www.theguardian",
+      "published": "2026-11-08T09:00:48+08:00",
+      "abstract": "<p>National party will be largest in parliament but ultimate shape of next government won’t be settled for some time</p><p>New Zealand could be facing a weeks-l",
       "tier": 1,
       "also": [
-        "Al Jazeera",
-        "France24"
+        "纽约时报·国际"
       ]
     },
     {
-      "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
-      "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+      "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
       "source": "纽约时报·国际",
       "category": "国际",
-      "published": "2026-11-07T09:29:30+08:00",
-      "abstract": "Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under.",
+      "published": "2026-11-08T07:36:17+08:00",
+      "abstract": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
       "tier": 1,
       "also": [
         "The Guardian·World"
       ]
     },
     {
-      "title": "国家广播电视总局部署开展新一轮微短剧专项治理工作",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727509.shtml",
+      "title": "AI驱动存储进入“超级周期” 业界呼吁“以存强算”",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-07/10728056.shtml",
       "source": "中新网·国际",
       "category": "国际",
-      "published": "2026-11-06T19:53:51+08:00",
-      "abstract": "中新网11月6日电 据“国家广播电视总局”微信公众号消息，近日，国家广播电视总局在巩固前期微短剧低俗有害和侵权盗版专项治理成效的基础上，针对AI微短剧质量良莠不齐、AI技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质化专项治理工作，治理为期两个月，自11月1日起至12月底。",
+      "published": "2026-11-07T19:46:25+08:00",
+      "abstract": "中新网北京11月7日电 (记者 刘亮)由中国电子工业标准化技术协会主办的2026数据存储产业大会近日在郑州举办。与会人士共同探讨人工智能(AI)时代下存储角色的变化与演进方向。",
       "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
-      "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "财经",
-      "published": "2026-11-07T09:41:36+08:00",
-      "abstract": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+      "published": "2026-11-08T07:02:35+08:00",
+      "abstract": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
       "tier": 1,
       "also": []
     },
     {
-      "title": "大范围降水来袭，华北北部局地有大暴雪，冷空气影响将直抵华南",
-      "link": "https://www.jiemian.com/article/15306152.html",
+      "title": "河北秦皇岛凌晨发布暴雪红色预警，降雪仍在持续",
+      "link": "https://www.jiemian.com/article/15307403.html",
       "source": "界面新闻",
       "category": "财经",
-      "published": "2026-11-07T09:49:43+08:00",
-      "abstract": "据中国天气网消息，今天（11月7日），大范围降水将影响我国，北方部分地区强降雪具有极端性，长江中下游地区有较强降雨，需防范雨雪天气对交通出行等方面的不利影响。明天，我国降水有所减少、减弱。气温方面，未来三天，新一股冷空气来袭，我国大部气温将创新低，多地体感寒凉，需注意添衣保暖。",
+      "published": "2026-11-08T08:21:35+08:00",
+      "abstract": "",
       "tier": 2,
       "also": [
-        "中新网·滚动",
         "中新网·社会"
       ]
     },
     {
-      "title": "从“十五五”专项规划看以金融服务发展大局",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-07/10727779.shtml",
-      "source": "中新网·财经",
+      "title": "特朗普宣布邀请终极格斗冠军赛总裁达纳·怀特担任白宫新闻秘书",
+      "link": "http://finance.eastmoney.com/news/1351,202611083925577311.html",
+      "source": "东方财富",
       "category": "财经",
-      "published": "2026-11-07T09:58:23+08:00",
-      "abstract": "新华社北京11月6日电 题：不断提升服务实体经济质效——从“十五五”专项规划看以金融服务发展大局",
-      "tier": 1,
-      "also": []
+      "published": "2026-11-08T07:36:28+08:00",
+      "abstract": "美国总统特朗普当地时间11月7日下午在社交媒体发帖称，已邀请终极格斗冠军赛（UFC）总裁达纳·怀特出任白宫新闻秘书一职 。不过据美国媒体援引消息人士报道，怀特已拒绝了这一邀请。 特朗普在此前的帖文中称怀特是“一位强悍的斗士与战士”，还称已请怀特带6名现役或前UFC冠军一同入职。特朗普称，“我们需要这些人来保卫我们。达纳",
+      "tier": 2,
+      "also": [
+        "界面新闻"
+      ]
     },
     {
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "title": "天宫即将迎来首位巴基斯坦宇航员",
+      "link": "https://www.solidot.org/story?sid=85822",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-07T19:22:25+08:00",
+      "abstract": "一名巴基斯坦宇航员将加入神舟二十四号载人飞行任务的乘组。他是一位载荷专家。任务成行后，他将成为首位进入中国空间站的外国公民。这也将是中国载人航天工程历史上，首次由中国与外国宇航员共同执行太空飞行任务。今年早些时候，两名巴基斯坦预备宇航员——穆罕默德·泽尚·阿里（Muhammad Zeeshan Ali）和胡拉姆·达乌德",
+      "tier": 2,
+      "also": [
+        "DW 中文"
+      ]
+    },
+    {
+      "title": "Can the Zelda remake capture the magic of the original?",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Tech",
       "category": "科技",
-      "published": "2026-11-07T05:49:50+08:00",
-      "abstract": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "published": "2026-11-08T08:37:45+08:00",
+      "abstract": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
       "tier": 1,
       "also": []
     },
@@ -193,43 +203,25 @@
       ]
     },
     {
-      "title": "从 Linux 到维基百科：志愿者如何构建互联网",
-      "link": "https://www.solidot.org/story?sid=85820",
-      "source": "Solidot 奇客",
-      "category": "科技",
-      "published": "2026-11-07T01:20:39+08:00",
-      "abstract": "Linux 和维基百科代表了一种被称为同侪生产（Peer Production）的模式——这一名字由法学教授 Yochai Benkler 提出。古典经济学认为，如果想要人们开展合作以及有效分配合作所产生的成果，那么最有效方式是通过私人营利性企业实现，即由这些企业在开放市场中销售商品或服务。企业雇用员工并支付报酬，而员",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-      "link": "https://www.qbitai.com/2026/11/508155.html",
+      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+      "link": "https://www.qbitai.com/2026/11/508344.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-11-06T15:00:29+08:00",
-      "abstract": "Q3营收实现数倍增长",
+      "published": "2026-11-07T16:11:25+08:00",
+      "abstract": "融资缩水，硅谷投资人也谨慎了",
       "tier": 2,
-      "also": []
+      "also": [
+        "东方财富"
+      ]
     },
     {
-      "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-      "link": "https://www.qbitai.com/2026/11/508118.html",
+      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+      "link": "https://www.qbitai.com/2026/11/508449.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-11-06T14:54:17+08:00",
-      "abstract": "挑战商业视频的高难度场景",
+      "published": "2026-11-07T17:38:56+08:00",
+      "abstract": "AI写代码太快，基础设施跟不上了",
       "tier": 2,
-      "also": []
-    },
-    {
-      "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
-      "link": "https://www.nature.com/articles/d41586-026-03595-x",
-      "source": "Nature",
-      "category": "科学",
-      "published": "2026-11-06T00:00:00+08:00",
-      "abstract": "",
-      "tier": 1,
       "also": []
     },
     {
@@ -243,16 +235,24 @@
       "also": []
     },
     {
-      "title": "中国第43次南极考察队起航仪式在三亚举行",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727762.shtml",
+      "title": "Why the tropics lose the most birds when cities expand",
+      "link": "https://phys.org/news/2026-11-tropics-birds-cities.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-11-08T04:30:01+08:00",
+      "abstract": "Tropical ecosystems are famous for their teeming, exuberant diversity. In fact, the dramatic increase in biodiversity from the poles to the tropics—known as the",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "广西开行首趟“八桂嗦粉”主题旅游列车 列车上设有米粉展示区",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728219.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-11-07T09:23:31+08:00",
-      "abstract": "新华社三亚11月7日电#8195;中国第43次南极考察队即将起航执行南极科学考察任务。起航仪式7日上午在三亚南山港科考码头3号泊位举行。",
+      "published": "2026-11-08T09:15:13+08:00",
+      "abstract": "中新网南宁11月8日电(资音 明学德 卢诗宇)11月7日8时，广西首趟Y878次“八桂嗦粉”主题旅游列车从南宁站驶向桂林北站，载着近百名旅客开启了“吃粉赏景游八桂”的旅途。",
       "tier": 1,
-      "also": [
-        "界面新闻"
-      ]
+      "also": []
     },
     {
       "title": "AI评测技术赋能教育 助学生提升英语口语",
@@ -265,12 +265,12 @@
       "also": []
     },
     {
-      "title": "哈尔滨亚布力雪中开板 增加亲子滑雪等新业态",
-      "link": "https://www.chinanews.com.cn/ty/2026/11-06/10727534.shtml",
+      "title": "东南亚警察组队赴“村超”踢球",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-08/10728218.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-11-06T20:42:10+08:00",
-      "abstract": "中新社哈尔滨11月6日电 (记者 王琳)6日的哈尔滨雪花纷飞，2026—2027哈尔滨冰雪季启幕暨亚布力滑雪开板仪式在亚布力阳光度假村滑雪场举行，标志着全新一季哈尔滨冰雪盛宴拉开帷幕。今年，世界滑雪胜地亚布力焕新迎客，增加了亲子滑雪、观景酒廊、山地自行车等新业态。",
+      "published": "2026-11-08T09:02:47+08:00",
+      "abstract": "中新网贵州榕江11月8日电(记者 袁超)2026年澜湄警察足球赛在“村超”发源地贵州省榕江县举行。柬埔寨、中国、老挝、缅甸、泰国、越南六国执法机构组成的澜湄警察足球联队与榕江“村超”足球队同场竞技、以球会友，依托“村超”平台深化澜湄各国执法机构人文交流，厚植区域执法机构合作情谊。",
       "tier": 1,
       "also": []
     }
