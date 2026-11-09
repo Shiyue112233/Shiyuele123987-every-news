@@ -1,38 +1,39 @@
 {
-  "generated_at": "2026-11-08T09:41:21.047861+08:00",
+  "generated_at": "2026-11-09T09:49:25.075954+08:00",
   "count": 20,
   "quote": {
-    "text": "最好的投资，是把时间投在会复利的事情上。",
-    "author": "工作手记"
+    "text": "完成胜过完美；先让它跑起来，再让它变好。",
+    "author": "工程箴言"
   },
   "tool": {
-    "name": "Lens.org",
-    "price": "免费档",
+    "name": "Google Patents",
+    "price": "免费",
     "category": "专利检索",
-    "desc": "专利+论文联合检索，看技术从论文到专利的迁移路径。",
-    "url": "https://www.lens.org/"
+    "desc": "语义检索与引用网络，找最接近的现有技术非常高效。",
+    "url": "https://patents.google.com/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 28条",
+    "中新网·教育 24条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 93条",
+    "东方财富 91条",
+    "创业邦 30条",
     "Solidot 奇客 20条",
     "极客公园 30条",
     "少数派 10条",
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 25条",
-    "BBC Business 43条",
+    "BBC World 27条",
+    "BBC Business 47条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
-    "纽约时报·国际 53条",
-    "DW 中文 62条",
+    "纽约时报·国际 55条",
+    "DW 中文 64条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -45,128 +46,128 @@
     "Phys.org 30条",
     "ScienceDaily 60条"
   ],
-  "sources_failed": [
-    "创业邦(URLError: <urlopen error _ssl.c:994: The handshake operation timed out>)"
-  ],
+  "sources_failed": [],
   "items": [
     {
-      "title": "北京今天雨雪逐渐结束 气温继续下降将创下半年来新低",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728232.shtml",
+      "title": "11月9日央行开展1820亿元隔夜逆回购操作",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-09/10728618.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-08T08:31:57+08:00",
-      "abstract": "今天(11月8日)，北京雨雪天气将逐渐结束，但气温还会进一步下滑，最高气温将降至6℃，最低气温也会跌至零下3℃，将度过下半年来最冷的一天。明后两天，北京晴朗回归，最高气温将明显回升，早晚时段依然寒冷，公众外出需注意保暖。",
+      "published": "2026-11-09T09:35:55+08:00",
+      "abstract": "中新网11月9日电 据中国人民银行网站消息，2026年11月9日中国人民银行以固定利率、数量招标方式开展了1820亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
       "tier": 1,
       "also": [
         "界面新闻"
       ]
     },
     {
-      "title": "雨雪降温来袭 天津部分高速封闭限行",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728231.shtml",
+      "title": "国家统计局：10月份居民消费价格同比上涨0.7%",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-09/10728619.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-08T08:28:29+08:00",
-      "abstract": "受冷空气影响，天津市迎来一轮雨雪降温天气过程，北部区域降雪强度大，多地先后发布道路结冰、暴雪预警，受雨雪、大雾影响，天津辖区多条高速采取封闭、限行管制措施。",
+      "published": "2026-11-09T09:32:09+08:00",
+      "abstract": "中新网11月9日电 据国家统计局网站消息，2026年10月份，全国居民消费价格同比上涨0.7%。其中，城市上涨0.7%，农村上涨0.7%；食品价格下降2.9%，非食品价格上涨1.5%；消费品价格上涨0.8%，服务价格上涨0.7%。1—10月平均，全国居民消费价格比上年同期上涨0.9%。",
+      "tier": 1,
+      "also": [
+        "东方财富",
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "11月9日人民币对美元中间价报6.7188 下调20个基点",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-09/10728616.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-09T09:30:50+08:00",
+      "abstract": "中新网11月9日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月9日银行间外汇市场人民币汇率中间价为1美元对人民币6.7188元，下调20个基点。",
       "tier": 1,
       "also": [
         "界面新闻"
       ]
     },
     {
-      "title": "中国新闻社7件作品获中国新闻奖，2件作品一等奖！",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728238.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-11-08T09:35:27+08:00",
-      "abstract": "由中华全国新闻工作者协会主办的第36届中国新闻奖评选结果今天揭晓。中国新闻社7件作品获奖，其中，一等奖2个，二等奖4个，三等奖1个。",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-11-08T06:19:59+08:00",
-      "abstract": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "published": "2026-11-09T05:37:36+08:00",
+      "abstract": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "tier": 1,
+      "also": [
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+      "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-09T09:10:55+08:00",
+      "abstract": "<p>President says it was ‘just a little fun’ to picture White, UFC boss and Trump’s friend, in briefing room with fighters</p><p><a href=\"https://www.theguardia",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
+      "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-09T07:36:32+08:00",
+      "abstract": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
       "tier": 1,
       "also": [
         "Al Jazeera",
-        "NPR World",
-        "The Guardian·World",
-        "纽约时报·国际"
+        "France24"
       ]
     },
     {
-      "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
-      "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
-      "source": "The Guardian·World",
-      "category": "国际",
-      "published": "2026-11-08T09:00:48+08:00",
-      "abstract": "<p>National party will be largest in parliament but ultimate shape of next government won’t be settled for some time</p><p>New Zealand could be facing a weeks-l",
-      "tier": 1,
-      "also": [
-        "纽约时报·国际"
-      ]
-    },
-    {
-      "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
-      "source": "纽约时报·国际",
-      "category": "国际",
-      "published": "2026-11-08T07:36:17+08:00",
-      "abstract": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
-      "tier": 1,
-      "also": [
-        "The Guardian·World"
-      ]
-    },
-    {
-      "title": "AI驱动存储进入“超级周期” 业界呼吁“以存强算”",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-07/10728056.shtml",
+      "title": "特朗普：美伊谈判若取得进展 “极不可能”再对伊动武",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728581.shtml",
       "source": "中新网·国际",
       "category": "国际",
-      "published": "2026-11-07T19:46:25+08:00",
-      "abstract": "中新网北京11月7日电 (记者 刘亮)由中国电子工业标准化技术协会主办的2026数据存储产业大会近日在郑州举办。与会人士共同探讨人工智能(AI)时代下存储角色的变化与演进方向。",
+      "published": "2026-11-09T06:22:42+08:00",
+      "abstract": "中新网11月9日电 据美国有线电视新闻网(CNN)报道，当地时间8日，美国总统特朗普表示，只要围绕伊朗核计划及重新开放霍尔木兹海峡的谈判取得进展，美国“极不可能”恢复对伊朗的大规模军事行动。",
       "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "财经",
-      "published": "2026-11-08T07:02:35+08:00",
-      "abstract": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "published": "2026-11-09T08:50:06+08:00",
+      "abstract": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
       "tier": 1,
-      "also": []
+      "also": [
+        "Al Jazeera",
+        "TechCrunch"
+      ]
     },
     {
-      "title": "河北秦皇岛凌晨发布暴雪红色预警，降雪仍在持续",
-      "link": "https://www.jiemian.com/article/15307403.html",
+      "title": "特朗普回应黄仁勋婚外情",
+      "link": "https://www.jiemian.com/article/15308965.html",
       "source": "界面新闻",
       "category": "财经",
-      "published": "2026-11-08T08:21:35+08:00",
+      "published": "2026-11-09T09:34:44+08:00",
       "abstract": "",
       "tier": 2,
       "also": [
-        "中新网·社会"
+        "东方财富"
       ]
     },
     {
-      "title": "特朗普宣布邀请终极格斗冠军赛总裁达纳·怀特担任白宫新闻秘书",
-      "link": "http://finance.eastmoney.com/news/1351,202611083925577311.html",
-      "source": "东方财富",
+      "title": "Doing these things now will help you save money at Christmas",
+      "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
       "category": "财经",
-      "published": "2026-11-08T07:36:28+08:00",
-      "abstract": "美国总统特朗普当地时间11月7日下午在社交媒体发帖称，已邀请终极格斗冠军赛（UFC）总裁达纳·怀特出任白宫新闻秘书一职 。不过据美国媒体援引消息人士报道，怀特已拒绝了这一邀请。 特朗普在此前的帖文中称怀特是“一位强悍的斗士与战士”，还称已请怀特带6名现役或前UFC冠军一同入职。特朗普称，“我们需要这些人来保卫我们。达纳",
-      "tier": 2,
-      "also": [
-        "界面新闻"
-      ]
+      "published": "2026-11-09T08:09:14+08:00",
+      "abstract": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+      "tier": 1,
+      "also": []
     },
     {
       "title": "天宫即将迎来首位巴基斯坦宇航员",
@@ -181,38 +182,40 @@
       ]
     },
     {
-      "title": "Can the Zelda remake capture the magic of the original?",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Tech",
       "category": "科技",
-      "published": "2026-11-08T08:37:45+08:00",
-      "abstract": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+      "published": "2026-11-08T23:37:25+08:00",
+      "abstract": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Earth's churning mantle may have created the Great Unconformity",
-      "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
-      "source": "Ars Technica",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge",
       "category": "科技",
-      "published": "2026-11-07T04:24:20+08:00",
-      "abstract": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+      "published": "2026-11-08T17:54:50+08:00",
+      "abstract": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese go",
       "tier": 2,
       "also": [
-        "Nature"
+        "Al Jazeera",
+        "Ars Technica",
+        "France24",
+        "TechCrunch",
+        "The Guardian·World"
       ]
     },
     {
-      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
-      "link": "https://www.qbitai.com/2026/11/508344.html",
+      "title": "资本正在撤离“世界模型”",
+      "link": "https://www.qbitai.com/2026/11/508466.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-11-07T16:11:25+08:00",
-      "abstract": "融资缩水，硅谷投资人也谨慎了",
+      "published": "2026-11-08T12:09:55+08:00",
+      "abstract": "没有永远的夏天",
       "tier": 2,
-      "also": [
-        "东方财富"
-      ]
+      "also": []
     },
     {
       "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
@@ -225,52 +228,52 @@
       "also": []
     },
     {
-      "title": "How Do You Land on a Moon With Almost No Gravity?",
-      "link": "https://spectrum.ieee.org/mmx-mission-to-phobos",
-      "source": "IEEE Spectrum",
-      "category": "科学",
-      "published": "2026-11-06T23:00:02+08:00",
-      "abstract": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover’s electronic eye spied an oblong shadow crossing the distant, gl",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "Why the tropics lose the most birds when cities expand",
-      "link": "https://phys.org/news/2026-11-tropics-birds-cities.html",
+      "title": "A new clinical simulation model strengthens the empowerment and autonomy of nursing staff",
+      "link": "https://phys.org/news/2026-11-clinical-simulation-empowerment-autonomy-nursing.html",
       "source": "Phys.org",
       "category": "科学",
-      "published": "2026-11-08T04:30:01+08:00",
-      "abstract": "Tropical ecosystems are famous for their teeming, exuberant diversity. In fact, the dramatic increase in biodiversity from the poles to the tropics—known as the",
+      "published": "2026-11-09T04:30:01+08:00",
+      "abstract": "To date, many of the methods used in clinical simulation have focused primarily on assessing technical skills and compliance with medical standards, often from ",
       "tier": 2,
       "also": []
     },
     {
-      "title": "广西开行首趟“八桂嗦粉”主题旅游列车 列车上设有米粉展示区",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728219.shtml",
+      "title": "A little-known protein could be a major culprit in type 2 diabetes",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174543.htm",
+      "source": "ScienceDaily",
+      "category": "科学",
+      "published": "2026-11-09T04:44:53+08:00",
+      "abstract": "Scientists have discovered that a buildup of a protein called Miro1 may be a hidden driver of insulin resistance in Type 2 diabetes, with preclinical experiment",
+      "tier": 3,
+      "also": []
+    },
+    {
+      "title": "寒潮继续南下影响江淮江南华南等地 云南等地降水明显",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728610.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-11-08T09:15:13+08:00",
-      "abstract": "中新网南宁11月8日电(资音 明学德 卢诗宇)11月7日8时，广西首趟Y878次“八桂嗦粉”主题旅游列车从南宁站驶向桂林北站，载着近百名旅客开启了“吃粉赏景游八桂”的旅途。",
+      "published": "2026-11-09T09:27:40+08:00",
+      "abstract": "中新网11月9日电 据中央气象台网站消息，监测显示，受冷空气影响，今7时较昨7时，西北地区东部、华北、黄淮、江淮、江汉、西南地区及辽宁等出现6～12℃降温，局地降温幅度超过12℃。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "AI评测技术赋能教育 助学生提升英语口语",
-      "link": "https://www.chinanews.com.cn/edu/2026/11-06/10727702.shtml",
+      "title": "全国法语教育界专家在渝探讨学科发展新路径",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-08/10728330.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-11-06T23:40:05+08:00",
-      "abstract": "中新网广州11月6日电 (记者 王坚)2026移动网络大会正在广州举行。大会现场人山人海，教育展区内一台轻量学习终端吸引了不少观众驻足。它外形小巧，没有繁复的娱乐功能，核心能力只有一项：对着它读一句英语，系统能即时标注出发音偏差，并给出纠正建议。",
+      "published": "2026-11-08T13:39:20+08:00",
+      "abstract": "中新网重庆11月8日电(刘心羽)2026教育部外指委法语分委员会、(中国)法语教学研究会联席会议6日至8日在重庆工商大学举行。会议以“法语学科全域建设与纵深发展”为主题，来自全国多所高校的法语教育专家、学者围绕人工智能发展、人才需求变化与国际交流新形势，探讨新时期法语学科高质量发展的挑战、路径与重点任务。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "东南亚警察组队赴“村超”踢球",
-      "link": "https://www.chinanews.com.cn/ty/2026/11-08/10728218.shtml",
+      "title": "2026中超盘点：竞争格局下的奇迹上演与神话破灭",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-08/10728572.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-11-08T09:02:47+08:00",
-      "abstract": "中新网贵州榕江11月8日电(记者 袁超)2026年澜湄警察足球赛在“村超”发源地贵州省榕江县举行。柬埔寨、中国、老挝、缅甸、泰国、越南六国执法机构组成的澜湄警察足球联队与榕江“村超”足球队同场竞技、以球会友，依托“村超”平台深化澜湄各国执法机构人文交流，厚植区域执法机构合作情谊。",
+      "published": "2026-11-08T23:30:40+08:00",
+      "abstract": "中新社北京11月8日电 题：2026中超盘点：竞争格局下的奇迹上演与神话破灭",
       "tier": 1,
       "also": []
     }
