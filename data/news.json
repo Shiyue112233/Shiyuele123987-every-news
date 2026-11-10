@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-09T09:49:25.075954+08:00",
+  "generated_at": "2026-11-10T12:14:02.458753+08:00",
   "count": 20,
   "quote": {
-    "text": "完成胜过完美；先让它跑起来，再让它变好。",
-    "author": "工程箴言"
+    "text": "提出问题的方式，往往决定了答案的质量。",
+    "author": "工作手记"
   },
   "tool": {
-    "name": "Google Patents",
+    "name": "PATENTSCOPE",
     "price": "免费",
     "category": "专利检索",
-    "desc": "语义检索与引用网络，找最接近的现有技术非常高效。",
-    "url": "https://patents.google.com/"
+    "desc": "WIPO 官方检索，查 PCT 国际申请与进入国家阶段情况。",
+    "url": "https://patentscope.wipo.int/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 24条",
+    "中新网·教育 23条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 91条",
+    "东方财富 96条",
     "创业邦 30条",
     "Solidot 奇客 20条",
     "极客公园 30条",
@@ -28,12 +28,12 @@
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 27条",
-    "BBC Business 47条",
+    "BBC World 31条",
+    "BBC Business 55条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
-    "纽约时报·国际 55条",
-    "DW 中文 64条",
+    "纽约时报·国际 54条",
+    "DW 中文 61条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,231 +49,220 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "11月9日央行开展1820亿元隔夜逆回购操作",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-09/10728618.shtml",
+      "title": "中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729337.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-09T09:35:55+08:00",
-      "abstract": "中新网11月9日电 据中国人民银行网站消息，2026年11月9日中国人民银行以固定利率、数量招标方式开展了1820亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+      "published": "2026-11-10T12:07:19+08:00",
+      "abstract": "中新社北京11月10日电 据中国国防部网站消息，11月10日，中美两军在四川成都举行美军遗骸移交仪式，中方向美方移交一批在“驼峰航线”沿线区域发掘的美军援华抗日飞行员遗骸。",
       "tier": 1,
-      "also": [
-        "界面新闻"
-      ]
+      "also": []
     },
     {
-      "title": "国家统计局：10月份居民消费价格同比上涨0.7%",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-09/10728619.shtml",
+      "title": "今年前十月两岸进出口贸易额同比增长32%",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729335.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-09T09:32:09+08:00",
-      "abstract": "中新网11月9日电 据国家统计局网站消息，2026年10月份，全国居民消费价格同比上涨0.7%。其中，城市上涨0.7%，农村上涨0.7%；食品价格下降2.9%，非食品价格上涨1.5%；消费品价格上涨0.8%，服务价格上涨0.7%。1—10月平均，全国居民消费价格比上年同期上涨0.9%。",
+      "published": "2026-11-10T12:05:41+08:00",
+      "abstract": "中新社北京11月10日电 海关总署10日公布的最新统计数据显示，今年前10个月，大陆与台湾进出口贸易额同比增长32%，内地与香港进出口贸易额同比增长55.3%。",
       "tier": 1,
-      "also": [
-        "东方财富",
-        "界面新闻"
-      ]
+      "also": []
     },
     {
-      "title": "11月9日人民币对美元中间价报6.7188 下调20个基点",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-09/10728616.shtml",
+      "title": "湖南新田做强淮山特色产业 拓宽乡村富民路",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729331.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-09T09:30:50+08:00",
-      "abstract": "中新网11月9日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月9日银行间外汇市场人民币汇率中间价为1美元对人民币6.7188元，下调20个基点。",
+      "published": "2026-11-10T12:05:35+08:00",
+      "abstract": "中新网永州11月10日电(蒋军君 周林凤 陶红星)眼下正是淮山采收季，湖南新田县金盆镇青山坪村庆熙农业开发中心的淮山种植基地里，一派繁忙采收景象。",
       "tier": 1,
-      "also": [
-        "界面新闻"
-      ]
+      "also": []
     },
     {
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-11-09T05:37:36+08:00",
-      "abstract": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
-      "tier": 1,
-      "also": [
-        "纽约时报·国际"
-      ]
-    },
-    {
-      "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
-      "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
-      "source": "The Guardian·World",
-      "category": "国际",
-      "published": "2026-11-09T09:10:55+08:00",
-      "abstract": "<p>President says it was ‘just a little fun’ to picture White, UFC boss and Trump’s friend, in briefing room with fighters</p><p><a href=\"https://www.theguardia",
-      "tier": 1,
-      "also": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
-      "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
-      "source": "纽约时报·国际",
-      "category": "国际",
-      "published": "2026-11-09T07:36:32+08:00",
-      "abstract": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
+      "published": "2026-11-10T11:58:13+08:00",
+      "abstract": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
       "tier": 1,
       "also": [
         "Al Jazeera",
-        "France24"
-      ]
-    },
-    {
-      "title": "特朗普：美伊谈判若取得进展 “极不可能”再对伊动武",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728581.shtml",
-      "source": "中新网·国际",
-      "category": "国际",
-      "published": "2026-11-09T06:22:42+08:00",
-      "abstract": "中新网11月9日电 据美国有线电视新闻网(CNN)报道，当地时间8日，美国总统特朗普表示，只要围绕伊朗核计划及重新开放霍尔木兹海峡的谈判取得进展，美国“极不可能”恢复对伊朗的大规模军事行动。",
-      "tier": 1,
-      "also": [
-        "东方财富"
-      ]
-    },
-    {
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "财经",
-      "published": "2026-11-09T08:50:06+08:00",
-      "abstract": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-      "tier": 1,
-      "also": [
-        "Al Jazeera",
+        "France24",
         "TechCrunch"
       ]
     },
     {
-      "title": "特朗普回应黄仁勋婚外情",
-      "link": "https://www.jiemian.com/article/15308965.html",
-      "source": "界面新闻",
-      "category": "财经",
-      "published": "2026-11-09T09:34:44+08:00",
-      "abstract": "",
-      "tier": 2,
+      "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-10T11:39:35+08:00",
+      "abstract": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
+      "tier": 1,
+      "also": [
+        "BBC World",
+        "France24",
+        "NPR World"
+      ]
+    },
+    {
+      "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+      "link": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-10T10:54:54+08:00",
+      "abstract": "<p>Campaign over Prop 40, as measure was known, was most expensive in state history, flush with Silicon Valley dollars</p><p>California billionaires won a conte",
+      "tier": 1,
+      "also": [
+        "France24"
+      ]
+    },
+    {
+      "title": "国家发改委：多渠道增加普通高中和高等教育学位供给",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-10/10729247.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-11-10T10:18:10+08:00",
+      "abstract": "11月10日，国家发展改革委社会发展司副司长黄玮茹表示，“十五五”时期，高中和高等教育学位供需矛盾凸显。下一步，将继续支持普通高中教学楼、宿舍、食堂、操场等设施建设，改善孩子们的上学条件，增加学位供给能力，因为学位不足而上不了普高的焦虑有望得到进一步缓解。此外，还将支持有条件的地方新建若干所新型研究型大学，建设一批办学",
+      "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "Doing these things now will help you save money at Christmas",
-      "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "title": "海关总署：今年前10个月我国货物贸易进出口同比增长20%",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729298.shtml",
+      "source": "中新网·财经",
       "category": "财经",
-      "published": "2026-11-09T08:09:14+08:00",
-      "abstract": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+      "published": "2026-11-10T11:18:15+08:00",
+      "abstract": "中新网11月10日电 据海关总署网站消息，据海关统计，2026年前10个月，我国货物贸易进出口总值44.81万亿元人民币，同比(下同)增长20%。其中，出口25.99万亿元，增长17.6%；进口18.82万亿元，增长23.6%。10月份，我国货物贸易进出口总值4.87万亿元，增长31.2%。其中，出口2.79万亿元，增",
       "tier": 1,
-      "also": []
-    },
-    {
-      "title": "天宫即将迎来首位巴基斯坦宇航员",
-      "link": "https://www.solidot.org/story?sid=85822",
-      "source": "Solidot 奇客",
-      "category": "科技",
-      "published": "2026-11-07T19:22:25+08:00",
-      "abstract": "一名巴基斯坦宇航员将加入神舟二十四号载人飞行任务的乘组。他是一位载荷专家。任务成行后，他将成为首位进入中国空间站的外国公民。这也将是中国载人航天工程历史上，首次由中国与外国宇航员共同执行太空飞行任务。今年早些时候，两名巴基斯坦预备宇航员——穆罕默德·泽尚·阿里（Muhammad Zeeshan Ali）和胡拉姆·达乌德",
-      "tier": 2,
       "also": [
-        "DW 中文"
+        "东方财富"
       ]
     },
     {
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Tech",
-      "category": "科技",
-      "published": "2026-11-08T23:37:25+08:00",
-      "abstract": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-      "tier": 1,
+      "title": "“2毛基”现身！多家头部私募产品净值大幅回撤，博润银泰、汉和资本等在列",
+      "link": "https://www.jiemian.com/article/15313047.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-11-10T12:03:11+08:00",
+      "abstract": "多家头部私募旗下产品纷纷跌入“毛基”行列。",
+      "tier": 2,
       "also": []
     },
     {
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "source": "The Verge",
-      "category": "科技",
-      "published": "2026-11-08T17:54:50+08:00",
-      "abstract": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese go",
-      "tier": 2,
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-10T09:55:22+08:00",
+      "abstract": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "tier": 1,
       "also": [
-        "Al Jazeera",
-        "Ars Technica",
-        "France24",
-        "TechCrunch",
         "The Guardian·World"
       ]
     },
     {
-      "title": "资本正在撤离“世界模型”",
-      "link": "https://www.qbitai.com/2026/11/508466.html",
+      "title": "火星发现存在活火山的证据",
+      "link": "https://www.solidot.org/story?sid=85841",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-09T21:19:02+08:00",
+      "abstract": "科学家将通常由岩浆产生的气体证据与在火星表面新发现的裂缝联系起来，指出火星可能存在火山活动。这一发现可谓寻找生命过程中的好消息，因为要使微生物免受火星表面严寒温度的侵害，就需要持续的热源。科学家已发现火星在过去几百万年间存在火山活动的证据，地震活动也暗示其中一些火山可能仍然活跃，但此前从未发现过熔岩流动或喷发的证据。2",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "What could China get from Jensen Huang?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "source": "The Verge",
+      "category": "科技",
+      "published": "2026-11-09T18:51:58+08:00",
+      "abstract": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being bui",
+      "tier": 2,
+      "also": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道",
+      "link": "http://www.geekpark.net/news/373736",
+      "source": "极客公园",
+      "category": "科技",
+      "published": "2026-11-10T08:19:15+08:00",
+      "abstract": "8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20%11 月 10 日消息，Anthropic 昨日（11 月 9 日）官宣推出 Claude Fable 5.2 和 Claude Mythos 5.2，两款模型基于同一底层模型",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "“AI毁了我的计算机学位”",
+      "link": "https://www.qbitai.com/2026/11/508706.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-11-08T12:09:55+08:00",
-      "abstract": "没有永远的夏天",
+      "published": "2026-11-09T16:57:20+08:00",
+      "abstract": "教授也用Claude糊弄…",
       "tier": 2,
       "also": []
     },
     {
-      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
-      "link": "https://www.qbitai.com/2026/11/508449.html",
+      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "link": "https://www.qbitai.com/2026/11/507843.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-11-07T17:38:56+08:00",
-      "abstract": "AI写代码太快，基础设施跟不上了",
+      "published": "2026-11-09T16:44:00+08:00",
+      "abstract": "",
       "tier": 2,
       "also": []
     },
     {
-      "title": "A new clinical simulation model strengthens the empowerment and autonomy of nursing staff",
-      "link": "https://phys.org/news/2026-11-clinical-simulation-empowerment-autonomy-nursing.html",
-      "source": "Phys.org",
+      "title": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
+      "link": "https://www.nature.com/articles/d41586-026-03588-w",
+      "source": "Nature",
       "category": "科学",
-      "published": "2026-11-09T04:30:01+08:00",
-      "abstract": "To date, many of the methods used in clinical simulation have focused primarily on assessing technical skills and compliance with medical standards, often from ",
+      "published": "2026-11-09T00:00:00+08:00",
+      "abstract": "",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+      "link": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-11-10T00:25:06+08:00",
+      "abstract": "This article is brought to you by Queen’s University Belfast.Several teams around the globe are leveraging AI by creating a task force of agents managed by an o",
       "tier": 2,
       "also": []
     },
     {
-      "title": "A little-known protein could be a major culprit in type 2 diabetes",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174543.htm",
-      "source": "ScienceDaily",
-      "category": "科学",
-      "published": "2026-11-09T04:44:53+08:00",
-      "abstract": "Scientists have discovered that a buildup of a protein called Miro1 may be a hidden driver of insulin resistance in Type 2 diabetes, with preclinical experiment",
-      "tier": 3,
-      "also": []
-    },
-    {
-      "title": "寒潮继续南下影响江淮江南华南等地 云南等地降水明显",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728610.shtml",
+      "title": "甘肃渭源“银发族”戏台上叙乡土家常事",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729326.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-11-09T09:27:40+08:00",
-      "abstract": "中新网11月9日电 据中央气象台网站消息，监测显示，受冷空气影响，今7时较昨7时，西北地区东部、华北、黄淮、江淮、江汉、西南地区及辽宁等出现6～12℃降温，局地降温幅度超过12℃。",
+      "published": "2026-11-10T11:55:33+08:00",
+      "abstract": "中新网兰州11月10日电 (戴文昌 马富平 唐建喜)暮色漫过甘肃省定西市渭源县麻家集镇宗丹村，山坳里的文化广场渐渐热闹起来。板胡起调，秦腔高亢，伴着悠悠“花儿”曲调，一群银发老人把村里的家长里短、乡风道理编进唱段，在乡土戏台上，用乡音带动山村新风。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "全国法语教育界专家在渝探讨学科发展新路径",
-      "link": "https://www.chinanews.com.cn/edu/2026/11-08/10728330.shtml",
+      "title": "服务乡村振兴高校招生专项计划来了！2030年将正式落地实施",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-10/10729219.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-11-08T13:39:20+08:00",
-      "abstract": "中新网重庆11月8日电(刘心羽)2026教育部外指委法语分委员会、(中国)法语教学研究会联席会议6日至8日在重庆工商大学举行。会议以“法语学科全域建设与纵深发展”为主题，来自全国多所高校的法语教育专家、学者围绕人工智能发展、人才需求变化与国际交流新形势，探讨新时期法语学科高质量发展的挑战、路径与重点任务。",
+      "published": "2026-11-10T09:33:17+08:00",
+      "abstract": "中新网11月10日电 据教育部网站消息，近日，教育部、公安部、农业农村部联合印发《关于实施服务乡村振兴高校招生专项计划的通知》(以下简称《通知》)，对实施服务乡村振兴高校招生专项计划作出部署。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "2026中超盘点：竞争格局下的奇迹上演与神话破灭",
-      "link": "https://www.chinanews.com.cn/ty/2026/11-08/10728572.shtml",
+      "title": "中国队获得青奥会历史首枚体操女子团体金牌",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-10/10729336.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-11-08T23:30:40+08:00",
-      "abstract": "中新社北京11月8日电 题：2026中超盘点：竞争格局下的奇迹上演与神话破灭",
+      "published": "2026-11-10T11:57:13+08:00",
+      "abstract": "北京时间11月10日凌晨，2026年达喀尔青奥会竞技体操女子团体决赛，由陈紫嫣、谢谷英和钟圻组成的中国队，以总分107.798分，斩获青奥会历史首枚竞技体操女子团体金牌，日本队获得银牌，铜牌归属法国队。至此，中国队包揽了本届青奥会男、女体操团体金牌。",
       "tier": 1,
       "also": []
     }
