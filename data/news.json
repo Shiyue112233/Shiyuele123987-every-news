@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-10T12:14:02.458753+08:00",
+  "generated_at": "2026-11-11T10:03:34.848232+08:00",
   "count": 20,
   "quote": {
-    "text": "提出问题的方式，往往决定了答案的质量。",
+    "text": "人的精力有限，把它花在别人替代不了的地方。",
     "author": "工作手记"
   },
   "tool": {
-    "name": "PATENTSCOPE",
-    "price": "免费",
-    "category": "专利检索",
-    "desc": "WIPO 官方检索，查 PCT 国际申请与进入国家阶段情况。",
-    "url": "https://patentscope.wipo.int/"
+    "name": "Connected Papers",
+    "price": "免费档",
+    "category": "文献调研",
+    "desc": "输入一篇文献，自动画出相关文献图谱，快速摸清领域脉络。",
+    "url": "https://www.connectedpapers.com/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 23条",
+    "中新网·教育 30条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 96条",
+    "东方财富 92条",
     "创业邦 30条",
     "Solidot 奇客 20条",
     "极客公园 30条",
@@ -28,12 +28,12 @@
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 31条",
-    "BBC Business 55条",
+    "BBC World 38条",
+    "BBC Business 51条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
-    "纽约时报·国际 54条",
-    "DW 中文 61条",
+    "纽约时报·国际 55条",
+    "DW 中文 58条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,220 +49,223 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729337.shtml",
+      "title": "11月11日央行开展1870亿元隔夜逆回购操作",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-11/10729915.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-10T12:07:19+08:00",
-      "abstract": "中新社北京11月10日电 据中国国防部网站消息，11月10日，中美两军在四川成都举行美军遗骸移交仪式，中方向美方移交一批在“驼峰航线”沿线区域发掘的美军援华抗日飞行员遗骸。",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "今年前十月两岸进出口贸易额同比增长32%",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729335.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-11-10T12:05:41+08:00",
-      "abstract": "中新社北京11月10日电 海关总署10日公布的最新统计数据显示，今年前10个月，大陆与台湾进出口贸易额同比增长32%，内地与香港进出口贸易额同比增长55.3%。",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "湖南新田做强淮山特色产业 拓宽乡村富民路",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729331.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-11-10T12:05:35+08:00",
-      "abstract": "中新网永州11月10日电(蒋军君 周林凤 陶红星)眼下正是淮山采收季，湖南新田县金盆镇青山坪村庆熙农业开发中心的淮山种植基地里，一派繁忙采收景象。",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "国际",
-      "published": "2026-11-10T11:58:13+08:00",
-      "abstract": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "published": "2026-11-11T09:32:42+08:00",
+      "abstract": "中新网11月11日电 据中国人民银行网站消息，2026年11月11日中国人民银行以固定利率、数量招标方式开展了1870亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
       "tier": 1,
       "also": [
-        "Al Jazeera",
-        "France24",
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "“效率提升达百倍” 一种“新型基础设施”来了",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-11/10729933.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-11T09:58:49+08:00",
+      "abstract": "随着人工智能技术的快速迭代，这两年，AI黑灯实验室正在加快落地，开辟智能科研服务新赛道。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "开放朋友圈越扩越大 一组数据看进博 “成绩单”",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-11/10729932.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-11T09:57:51+08:00",
+      "abstract": "11月10日，第九届中国国际进口博览会在上海闭幕。六天的展期，交出了一份怎样的进博“成绩单”？下面就通过一组数据来盘点一下。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-11-11T06:52:15+08:00",
+      "abstract": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "tier": 1,
+      "also": [
         "TechCrunch"
       ]
     },
     {
-      "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-      "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-      "source": "纽约时报·国际",
+      "title": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+      "source": "The Guardian·World",
       "category": "国际",
-      "published": "2026-11-10T11:39:35+08:00",
-      "abstract": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
+      "published": "2026-11-11T09:42:15+08:00",
+      "abstract": "<p>Republicans secure majority of votes to send articles introduced by Thomas Massie to committee, meaning there won’t be a full vote on chamber floor</p><ul><l",
       "tier": 1,
       "also": [
-        "BBC World",
-        "France24",
-        "NPR World"
+        "Al Jazeera"
       ]
     },
     {
-      "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
-      "link": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
-      "source": "The Guardian·World",
+      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+      "source": "纽约时报·国际",
       "category": "国际",
-      "published": "2026-11-10T10:54:54+08:00",
-      "abstract": "<p>Campaign over Prop 40, as measure was known, was most expensive in state history, flush with Silicon Valley dollars</p><p>California billionaires won a conte",
+      "published": "2026-11-11T06:24:05+08:00",
+      "abstract": "The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I. and U.S. military intelligence.",
       "tier": 1,
       "also": [
+        "Al Jazeera",
+        "BBC World",
         "France24"
       ]
     },
     {
-      "title": "国家发改委：多渠道增加普通高中和高等教育学位供给",
-      "link": "https://www.chinanews.com.cn/edu/2026/11-10/10729247.shtml",
+      "title": "新一轮俄美乌三方会谈在阿联酋开始举行",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729497.shtml",
       "source": "中新网·国际",
       "category": "国际",
-      "published": "2026-11-10T10:18:10+08:00",
-      "abstract": "11月10日，国家发展改革委社会发展司副司长黄玮茹表示，“十五五”时期，高中和高等教育学位供需矛盾凸显。下一步，将继续支持普通高中教学楼、宿舍、食堂、操场等设施建设，改善孩子们的上学条件，增加学位供给能力，因为学位不足而上不了普高的焦虑有望得到进一步缓解。此外，还将支持有条件的地方新建若干所新型研究型大学，建设一批办学",
+      "published": "2026-11-10T16:22:49+08:00",
+      "abstract": "中新网11月10日电 据俄罗斯媒体报道，新一轮俄美乌三方会谈10日在阿联酋首都阿布扎比开始举行。",
       "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "海关总署：今年前10个月我国货物贸易进出口同比增长20%",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729298.shtml",
-      "source": "中新网·财经",
+      "title": "A股热点前瞻丨阿里拟分拆平头哥赴港上市；台积电10月营收创新高；穿越者启动商业载人发射招标",
+      "link": "http://finance.eastmoney.com/news/11874,202611113927990859.html",
+      "source": "东方财富",
       "category": "财经",
-      "published": "2026-11-10T11:18:15+08:00",
-      "abstract": "中新网11月10日电 据海关总署网站消息，据海关统计，2026年前10个月，我国货物贸易进出口总值44.81万亿元人民币，同比(下同)增长20%。其中，出口25.99万亿元，增长17.6%；进口18.82万亿元，增长23.6%。10月份，我国货物贸易进出口总值4.87万亿元，增长31.2%。其中，出口2.79万亿元，增",
-      "tier": 1,
-      "also": [
-        "东方财富"
-      ]
-    },
-    {
-      "title": "“2毛基”现身！多家头部私募产品净值大幅回撤，博润银泰、汉和资本等在列",
-      "link": "https://www.jiemian.com/article/15313047.html",
-      "source": "界面新闻",
-      "category": "财经",
-      "published": "2026-11-10T12:03:11+08:00",
-      "abstract": "多家头部私募旗下产品纷纷跌入“毛基”行列。",
+      "published": "2026-11-11T08:20:19+08:00",
+      "abstract": "①阿里官宣分拆平头哥赴港上市，国产AI算力生态迎资本化窗口； ②台积电10月营收创单月新高，半导体景气度持续上行； ③穿越者启动30次商业载人发射招标，商业航天产业化提速； ④字节PICO新机Space Pro将至，端侧AI硬件迎新； ⑤卫星导航定位基准站网强制性国标出台，北斗应用加速场景扩张； ⑥高通联合中兴完成5G",
       "tier": 2,
-      "also": []
+      "also": [
+        "中新网·财经"
+      ]
     },
     {
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "财经",
-      "published": "2026-11-10T09:55:22+08:00",
-      "abstract": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "published": "2026-11-11T05:22:36+08:00",
+      "abstract": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
       "tier": 1,
-      "also": [
-        "The Guardian·World"
-      ]
-    },
-    {
-      "title": "火星发现存在活火山的证据",
-      "link": "https://www.solidot.org/story?sid=85841",
-      "source": "Solidot 奇客",
-      "category": "科技",
-      "published": "2026-11-09T21:19:02+08:00",
-      "abstract": "科学家将通常由岩浆产生的气体证据与在火星表面新发现的裂缝联系起来，指出火星可能存在火山活动。这一发现可谓寻找生命过程中的好消息，因为要使微生物免受火星表面严寒温度的侵害，就需要持续的热源。科学家已发现火星在过去几百万年间存在火山活动的证据，地震活动也暗示其中一些火山可能仍然活跃，但此前从未发现过熔岩流动或喷发的证据。2",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "What could China get from Jensen Huang?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "source": "The Verge",
-      "category": "科技",
-      "published": "2026-11-09T18:51:58+08:00",
-      "abstract": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being bui",
-      "tier": 2,
       "also": [
         "TechCrunch"
       ]
     },
     {
-      "title": "ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道",
-      "link": "http://www.geekpark.net/news/373736",
+      "title": "造纸板块异动拉升，青山纸业直线涨停",
+      "link": "https://www.jiemian.com/article/15318918.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-11-11T09:37:34+08:00",
+      "abstract": "",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员",
+      "link": "http://www.geekpark.net/news/373796",
       "source": "极客公园",
       "category": "科技",
-      "published": "2026-11-10T08:19:15+08:00",
-      "abstract": "8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20%11 月 10 日消息，Anthropic 昨日（11 月 9 日）官宣推出 Claude Fable 5.2 和 Claude Mythos 5.2，两款模型基于同一底层模型",
+      "published": "2026-11-11T08:34:34+08:00",
+      "abstract": "英伟达董事会聘请前美国联邦检察官，调查 CEO 黄仁勋相关事件 11 月 11 日消息，英伟达发布公告，宣布已聘请美国前联邦检察官金正贤（Joon H. Kim）及其所在的律师事务所 Wachtell, Lipton, Rosen & Katz，负责开展一项全面、独立的调查。 此前，英伟达董事会表示，鉴于近期有关公司创",
+      "tier": 2,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "微软宣布 .NET 11",
+      "link": "https://www.solidot.org/story?sid=85851",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-11T00:50:48+08:00",
+      "abstract": "微软宣布了 .NET 11。该版本是标准支持版本 STS，提供两年支持，上个版本 .NET 10 则是长期支持版本 LTS。.NET 11 改进 C# 15、ASP.NET Core、.NET MAUI 以及 Windows，缩短了应用构建时间，主要变化包括：C# 15 引入了联合类型和封闭类层次结构；Native A",
       "tier": 2,
       "also": []
     },
     {
-      "title": "“AI毁了我的计算机学位”",
-      "link": "https://www.qbitai.com/2026/11/508706.html",
+      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+      "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-11-10T22:53:05+08:00",
+      "abstract": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+      "tier": 2,
+      "also": [
+        "TechCrunch",
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+      "link": "https://www.qbitai.com/2026/11/509017.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-11-09T16:57:20+08:00",
-      "abstract": "教授也用Claude糊弄…",
+      "published": "2026-11-10T16:33:25+08:00",
+      "abstract": "近亿元融资刚刚落袋",
       "tier": 2,
       "also": []
     },
     {
-      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-      "link": "https://www.qbitai.com/2026/11/507843.html",
+      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+      "link": "https://www.qbitai.com/2026/11/508996.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-11-09T16:44:00+08:00",
-      "abstract": "",
+      "published": "2026-11-10T15:57:45+08:00",
+      "abstract": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
       "tier": 2,
       "also": []
     },
     {
-      "title": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
-      "link": "https://www.nature.com/articles/d41586-026-03588-w",
+      "title": "PhD funding mechanisms should protect the right to disagree with supervisors",
+      "link": "https://www.nature.com/articles/d41586-026-03645-4",
       "source": "Nature",
       "category": "科学",
-      "published": "2026-11-09T00:00:00+08:00",
+      "published": "2026-11-10T00:00:00+08:00",
       "abstract": "",
       "tier": 1,
       "also": []
     },
     {
-      "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
-      "link": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+      "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
+      "link": "https://spectrum.ieee.org/speech-processing-pioneer-in-memoriam",
       "source": "IEEE Spectrum",
       "category": "科学",
-      "published": "2026-11-10T00:25:06+08:00",
-      "abstract": "This article is brought to you by Queen’s University Belfast.Several teams around the globe are leveraging AI by creating a task force of agents managed by an o",
+      "published": "2026-11-11T03:00:02+08:00",
+      "abstract": "Bishnu Saroop AtalAcoustics and signal processing pioneerLife Fellow, 93; died 19 AugustAtal was an acoustics and signal processing researcher at Bell Labs in M",
       "tier": 2,
       "also": []
     },
     {
-      "title": "甘肃渭源“银发族”戏台上叙乡土家常事",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729326.shtml",
+      "title": "西安高校团队研发公路安全仿真平台 护航山区通行",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729927.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-11-10T11:55:33+08:00",
-      "abstract": "中新网兰州11月10日电 (戴文昌 马富平 唐建喜)暮色漫过甘肃省定西市渭源县麻家集镇宗丹村，山坳里的文化广场渐渐热闹起来。板胡起调，秦腔高亢，伴着悠悠“花儿”曲调，一群银发老人把村里的家长里短、乡风道理编进唱段，在乡土戏台上，用乡音带动山村新风。",
+      "published": "2026-11-11T09:56:03+08:00",
+      "abstract": "中新网西安11月11日电 (记者 党田野 张一辰)山区公路地形复杂，急弯、长下坡、桥隧密集，车辆通行的安全风险点多、管控难度大。长安大学“安行智构”团队研发国产化公路安全仿真平台，依托数字模拟技术提前识别道路隐患，为山区公路安全整治提供技术支撑。近日，记者走进实验室探访这支科研团队。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "服务乡村振兴高校招生专项计划来了！2030年将正式落地实施",
-      "link": "https://www.chinanews.com.cn/edu/2026/11-10/10729219.shtml",
+      "title": "北京一零一中教育集团校长熊永昌：让生态文明扎根孩子心中",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-10/10729857.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-11-10T09:33:17+08:00",
-      "abstract": "中新网11月10日电 据教育部网站消息，近日，教育部、公安部、农业农村部联合印发《关于实施服务乡村振兴高校招生专项计划的通知》(以下简称《通知》)，对实施服务乡村振兴高校招生专项计划作出部署。",
+      "published": "2026-11-10T22:59:43+08:00",
+      "abstract": "中新网安塔利亚11月10日电(记者 魏园 王庆凯)“让绿色成为校园底色，让生态文明扎根孩子心中。”",
       "tier": 1,
       "also": []
     },
     {
-      "title": "中国队获得青奥会历史首枚体操女子团体金牌",
-      "link": "https://www.chinanews.com.cn/ty/2026/11-10/10729336.shtml",
+      "title": "银川五人制足球国际邀请赛收官 伊朗女队夺冠",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-11/10729869.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-11-10T11:57:13+08:00",
-      "abstract": "北京时间11月10日凌晨，2026年达喀尔青奥会竞技体操女子团体决赛，由陈紫嫣、谢谷英和钟圻组成的中国队，以总分107.798分，斩获青奥会历史首枚竞技体操女子团体金牌，日本队获得银牌，铜牌归属法国队。至此，中国队包揽了本届青奥会男、女体操团体金牌。",
+      "published": "2026-11-11T05:55:56+08:00",
+      "abstract": "中新社银川11月11日电 (记者 杨迪)2026CFA中国之队·银川五人制足球国际邀请赛10日落幕，女子组赛事中，伊朗队夺冠，中国队获得亚军，中国香港队获得季军。",
       "tier": 1,
       "also": []
     }
