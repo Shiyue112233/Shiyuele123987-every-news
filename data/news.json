@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-11T10:03:34.848232+08:00",
+  "generated_at": "2026-11-12T11:13:52.665625+08:00",
   "count": 20,
   "quote": {
-    "text": "人的精力有限，把它花在别人替代不了的地方。",
+    "text": "看数据，也看数据背后的人。",
     "author": "工作手记"
   },
   "tool": {
-    "name": "Connected Papers",
-    "price": "免费档",
+    "name": "Semantic Scholar",
+    "price": "免费",
     "category": "文献调研",
-    "desc": "输入一篇文献，自动画出相关文献图谱，快速摸清领域脉络。",
-    "url": "https://www.connectedpapers.com/"
+    "desc": "AI 驱动的学术搜索，摘要与关键结论提炼，检索速度快。",
+    "url": "https://www.semanticscholar.org/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 30条",
+    "中新网·教育 28条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 92条",
+    "东方财富 97条",
     "创业邦 30条",
     "Solidot 奇客 20条",
     "极客公园 30条",
@@ -28,12 +28,12 @@
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 38条",
-    "BBC Business 51条",
+    "BBC World 30条",
+    "BBC Business 56条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
     "纽约时报·国际 55条",
-    "DW 中文 58条",
+    "DW 中文 62条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,105 +49,128 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "11月11日央行开展1870亿元隔夜逆回购操作",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-11/10729915.shtml",
+      "title": "直播海报：“北冥鲲鹏”不是神话 在东营蹲一场鸟浪扶摇",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730699.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-11T09:32:42+08:00",
-      "abstract": "中新网11月11日电 据中国人民银行网站消息，2026年11月11日中国人民银行以固定利率、数量招标方式开展了1870亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
-      "tier": 1,
-      "also": [
-        "界面新闻"
-      ]
-    },
-    {
-      "title": "“效率提升达百倍” 一种“新型基础设施”来了",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-11/10729933.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-11-11T09:58:49+08:00",
-      "abstract": "随着人工智能技术的快速迭代，这两年，AI黑灯实验室正在加快落地，开辟智能科研服务新赛道。",
+      "published": "2026-11-12T11:06:59+08:00",
+      "abstract": "",
       "tier": 1,
       "also": []
     },
     {
-      "title": "开放朋友圈越扩越大 一组数据看进博 “成绩单”",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-11/10729932.shtml",
+      "title": "一批侵华日军细菌战化学战新罪证集中发布",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730697.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-11T09:57:51+08:00",
-      "abstract": "11月10日，第九届中国国际进口博览会在上海闭幕。六天的展期，交出了一份怎样的进博“成绩单”？下面就通过一组数据来盘点一下。",
+      "published": "2026-11-12T11:04:47+08:00",
+      "abstract": "新华社哈尔滨11月11日电(记者杨思琪、何山)今年是东京审判开庭80周年。11月9日至11日，“铭记历史·守护正义——侵华日军细菌战化学战罪行研究学术研讨会”在黑龙江举行。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "title": "新华图讯丨纪念孙中山先生诞辰160周年大会在北京举行",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730681.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-12T11:04:25+08:00",
+      "abstract": "11月12日上午，纪念孙中山先生诞辰160周年大会在北京人民大会堂隆重举行。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-11-11T06:52:15+08:00",
-      "abstract": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "published": "2026-11-12T10:40:18+08:00",
+      "abstract": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
       "tier": 1,
       "also": [
-        "TechCrunch"
+        "The Guardian·World"
       ]
     },
     {
-      "title": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+      "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+      "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
       "source": "The Guardian·World",
       "category": "国际",
-      "published": "2026-11-11T09:42:15+08:00",
-      "abstract": "<p>Republicans secure majority of votes to send articles introduced by Thomas Massie to committee, meaning there won’t be a full vote on chamber floor</p><ul><l",
-      "tier": 1,
-      "also": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
-      "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
-      "source": "纽约时报·国际",
-      "category": "国际",
-      "published": "2026-11-11T06:24:05+08:00",
-      "abstract": "The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I. and U.S. military intelligence.",
+      "published": "2026-11-12T10:58:16+08:00",
+      "abstract": "<p>Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in after-hours",
       "tier": 1,
       "also": [
         "Al Jazeera",
-        "BBC World",
-        "France24"
+        "Ars Technica",
+        "TechCrunch",
+        "The Verge"
       ]
     },
     {
-      "title": "新一轮俄美乌三方会谈在阿联酋开始举行",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729497.shtml",
+      "title": "王毅同美国国务卿鲁比奥通电话",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730581.shtml",
       "source": "中新网·国际",
       "category": "国际",
-      "published": "2026-11-10T16:22:49+08:00",
-      "abstract": "中新网11月10日电 据俄罗斯媒体报道，新一轮俄美乌三方会谈10日在阿联酋首都阿布扎比开始举行。",
+      "published": "2026-11-12T07:39:22+08:00",
+      "abstract": "中新社北京11月11日电 中共中央政治局委员、外交部长王毅11日同美国国务卿鲁比奥通电话。双方就中美关系及两国元首互动深入交换意见，通话是积极和建设性的。",
       "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "A股热点前瞻丨阿里拟分拆平头哥赴港上市；台积电10月营收创新高；穿越者启动商业载人发射招标",
-      "link": "http://finance.eastmoney.com/news/11874,202611113927990859.html",
-      "source": "东方财富",
-      "category": "财经",
-      "published": "2026-11-11T08:20:19+08:00",
-      "abstract": "①阿里官宣分拆平头哥赴港上市，国产AI算力生态迎资本化窗口； ②台积电10月营收创单月新高，半导体景气度持续上行； ③穿越者启动30次商业载人发射招标，商业航天产业化提速； ④字节PICO新机Space Pro将至，端侧AI硬件迎新； ⑤卫星导航定位基准站网强制性国标出台，北斗应用加速场景扩张； ⑥高通联合中兴完成5G",
-      "tier": 2,
+      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-12T05:53:34+08:00",
+      "abstract": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign.",
+      "tier": 1,
       "also": [
-        "中新网·财经"
+        "BBC Business",
+        "NPR World",
+        "The Guardian·World"
       ]
+    },
+    {
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-12T06:07:37+08:00",
+      "abstract": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "tier": 1,
+      "also": [
+        "Al Jazeera",
+        "France24",
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "上海气质 国际风范——在进博会感受有序与活力",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-12/10730706.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-11-12T11:13:08+08:00",
+      "abstract": "新华社北京11月11日电 11月11日,《新华每日电讯》发表题为《上海气质 国际风范——在进博会感受有序与活力》的报道。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "对话Hélène Mercier：喧嚣之上，守住自己的音乐世界",
+      "link": "https://www.jiemian.com/article/15324284.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-11-12T11:03:45+08:00",
+      "abstract": "永远不要害怕展现你真实的内心。",
+      "tier": 2,
+      "also": []
     },
     {
       "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
       "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "财经",
-      "published": "2026-11-11T05:22:36+08:00",
+      "source": "BBC Tech",
+      "category": "科技",
+      "published": "2026-11-11T15:44:24+08:00",
       "abstract": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
       "tier": 1,
       "also": [
@@ -155,117 +178,94 @@
       ]
     },
     {
-      "title": "造纸板块异动拉升，青山纸业直线涨停",
-      "link": "https://www.jiemian.com/article/15318918.html",
-      "source": "界面新闻",
-      "category": "财经",
-      "published": "2026-11-11T09:37:34+08:00",
-      "abstract": "",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员",
-      "link": "http://www.geekpark.net/news/373796",
-      "source": "极客公园",
-      "category": "科技",
-      "published": "2026-11-11T08:34:34+08:00",
-      "abstract": "英伟达董事会聘请前美国联邦检察官，调查 CEO 黄仁勋相关事件 11 月 11 日消息，英伟达发布公告，宣布已聘请美国前联邦检察官金正贤（Joon H. Kim）及其所在的律师事务所 Wachtell, Lipton, Rosen & Katz，负责开展一项全面、独立的调查。 此前，英伟达董事会表示，鉴于近期有关公司创",
-      "tier": 2,
-      "also": [
-        "东方财富"
-      ]
-    },
-    {
-      "title": "微软宣布 .NET 11",
-      "link": "https://www.solidot.org/story?sid=85851",
+      "title": "假如地球没有诞生生命？",
+      "link": "https://www.solidot.org/story?sid=85862",
       "source": "Solidot 奇客",
       "category": "科技",
-      "published": "2026-11-11T00:50:48+08:00",
-      "abstract": "微软宣布了 .NET 11。该版本是标准支持版本 STS，提供两年支持，上个版本 .NET 10 则是长期支持版本 LTS。.NET 11 改进 C# 15、ASP.NET Core、.NET MAUI 以及 Windows，缩短了应用构建时间，主要变化包括：C# 15 引入了联合类型和封闭类层次结构；Native A",
+      "published": "2026-11-11T22:43:47+08:00",
+      "abstract": "假如地球没有诞生生命，它会变成什么模样？华盛顿大学团队进行了计算机模拟，他们将生命的因素彻底抽离，但完整保留了地核、地函、大气、海洋以及太阳辐射等 19 项关键物理变数，模拟这颗没有生命的地球从 45 亿年前诞生至今、乃至未来 5 亿年的演化史。在长达数十亿年的岁月里，这颗死寂的地球除了因为没有植物进行光合作用而极度缺",
       "tier": 2,
       "also": []
     },
     {
-      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
-      "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
-      "source": "Ars Technica",
+      "title": "苹果突然永久关闭官方「支持社区」；字节即将推出个人 AI 助手；华为新品牌星芒 OSTA 曝光 | 极客早知道",
+      "link": "http://www.geekpark.net/news/373839",
+      "source": "极客公园",
       "category": "科技",
-      "published": "2026-11-10T22:53:05+08:00",
-      "abstract": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+      "published": "2026-11-12T08:39:27+08:00",
+      "abstract": "苹果官方社区即将永久关闭 11 月 11 日，苹果官网突然宣布，Apple 支持社区将于 2026 年 11 月 20 日永久关闭。即日起，社区将不再接受新帖子，并转为只读模式。用户仍可前往官方 Apple 支持网站，获取值得信赖的指导和帮助。 苹果公告称，我们衷心感谢各位社区成员一直以来贡献宝贵的时间和专业知识，帮助",
       "tier": 2,
+      "also": []
+    },
+    {
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "link": "https://www.qbitai.com/2026/11/509146.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-11T14:41:26+08:00",
+      "abstract": "价格、门槛全打穿",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+      "link": "https://www.qbitai.com/2026/11/509088.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-11T14:27:03+08:00",
+      "abstract": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "New culprit in early Alzheimer’s: Blood–brain barrier blocks protective proteins",
+      "link": "https://www.nature.com/articles/d41586-026-03655-2",
+      "source": "Nature",
+      "category": "科学",
+      "published": "2026-11-11T00:00:00+08:00",
+      "abstract": "",
+      "tier": 1,
       "also": [
-        "TechCrunch",
-        "The Guardian·World"
+        "ScienceDaily"
       ]
     },
     {
-      "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
-      "link": "https://www.qbitai.com/2026/11/509017.html",
-      "source": "量子位",
-      "category": "AI",
-      "published": "2026-11-10T16:33:25+08:00",
-      "abstract": "近亿元融资刚刚落袋",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
-      "link": "https://www.qbitai.com/2026/11/508996.html",
-      "source": "量子位",
-      "category": "AI",
-      "published": "2026-11-10T15:57:45+08:00",
-      "abstract": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "PhD funding mechanisms should protect the right to disagree with supervisors",
-      "link": "https://www.nature.com/articles/d41586-026-03645-4",
-      "source": "Nature",
-      "category": "科学",
-      "published": "2026-11-10T00:00:00+08:00",
-      "abstract": "",
-      "tier": 1,
-      "also": []
-    },
-    {
-      "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
-      "link": "https://spectrum.ieee.org/speech-processing-pioneer-in-memoriam",
+      "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
+      "link": "https://spectrum.ieee.org/innomotics-electric-motors-drive-systems",
       "source": "IEEE Spectrum",
       "category": "科学",
-      "published": "2026-11-11T03:00:02+08:00",
-      "abstract": "Bishnu Saroop AtalAcoustics and signal processing pioneerLife Fellow, 93; died 19 AugustAtal was an acoustics and signal processing researcher at Bell Labs in M",
+      "published": "2026-11-11T19:00:02+08:00",
+      "abstract": "This article is brought to you by Innomotics.In the annals of industrial history, few innovations have demonstrated such remarkable staying power as the dynamo-",
       "tier": 2,
       "also": []
     },
     {
-      "title": "西安高校团队研发公路安全仿真平台 护航山区通行",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729927.shtml",
+      "title": "云南文山至越南两条跨境直达运输线路正式启用",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730690.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-11-11T09:56:03+08:00",
-      "abstract": "中新网西安11月11日电 (记者 党田野 张一辰)山区公路地形复杂，急弯、长下坡、桥隧密集，车辆通行的安全风险点多、管控难度大。长安大学“安行智构”团队研发国产化公路安全仿真平台，依托数字模拟技术提前识别道路隐患，为山区公路安全整治提供技术支撑。近日，记者走进实验室探访这支科研团队。",
+      "published": "2026-11-12T10:57:41+08:00",
+      "abstract": "中新网云南文山11月12日电 (王采霞 张军丽)11日，云南文山至越南宣光省跨境直达运输线路正式启用，意味着从昆明和文山发出的货物无须中转倒装，可直达越南腹地，大幅提升了货物流通效率，降低物流成本。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "北京一零一中教育集团校长熊永昌：让生态文明扎根孩子心中",
-      "link": "https://www.chinanews.com.cn/edu/2026/11-10/10729857.shtml",
+      "title": "第十三届产教融合发展战略国际论坛亮相武汉",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-11/10730457.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-11-10T22:59:43+08:00",
-      "abstract": "中新网安塔利亚11月10日电(记者 魏园 王庆凯)“让绿色成为校园底色，让生态文明扎根孩子心中。”",
+      "published": "2026-11-11T20:25:53+08:00",
+      "abstract": "中新网武汉11月11日电 (王梦媛)据武汉市政府新闻办11日发布会消息，11月11日至13日，第十三届产教融合发展战略国际论坛在武汉举办，论坛围绕分类推进高校改革、强化科技和人才支撑主线展开，为区域发展和产业升级持续释放产教融合力量。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "银川五人制足球国际邀请赛收官 伊朗女队夺冠",
-      "link": "https://www.chinanews.com.cn/ty/2026/11-11/10729869.shtml",
+      "title": "2026年中国国际拳击公开赛在贵州遵义收官",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-12/10730676.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-11-11T05:55:56+08:00",
-      "abstract": "中新社银川11月11日电 (记者 杨迪)2026CFA中国之队·银川五人制足球国际邀请赛10日落幕，女子组赛事中，伊朗队夺冠，中国队获得亚军，中国香港队获得季军。",
+      "published": "2026-11-12T10:53:31+08:00",
+      "abstract": "中新网贵州遵义11月12日电 (记者 瞿宏伦 周燕玲)2026年中国国际拳击公开赛(以下简称，公开赛)11日晚在贵州省遵义市收官。经过7天的角逐，中国选手在男子、女子各竞赛级别中以9金的成绩高居奖牌榜榜首。",
       "tier": 1,
       "also": []
     }
