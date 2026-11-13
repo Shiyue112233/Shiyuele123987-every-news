@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-12T11:13:52.665625+08:00",
+  "generated_at": "2026-11-13T10:45:48.076152+08:00",
   "count": 20,
   "quote": {
-    "text": "看数据，也看数据背后的人。",
+    "text": "今日事今日毕，是对明天最大的善意。",
     "author": "工作手记"
   },
   "tool": {
-    "name": "Semantic Scholar",
+    "name": "arXiv",
     "price": "免费",
-    "category": "文献调研",
-    "desc": "AI 驱动的学术搜索，摘要与关键结论提炼，检索速度快。",
-    "url": "https://www.semanticscholar.org/"
+    "category": "预印本",
+    "desc": "聚合物、材料模拟方向最新预印本，比期刊早半年看到动向。",
+    "url": "https://arxiv.org/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 28条",
+    "中新网·教育 30条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 97条",
+    "东方财富 93条",
     "创业邦 30条",
     "Solidot 奇客 20条",
     "极客公园 30条",
@@ -28,12 +28,12 @@
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 30条",
-    "BBC Business 56条",
+    "BBC World 33条",
+    "BBC Business 59条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
-    "纽约时报·国际 55条",
-    "DW 中文 62条",
+    "纽约时报·国际 57条",
+    "DW 中文 57条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,185 +49,188 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "直播海报：“北冥鲲鹏”不是神话 在东营蹲一场鸟浪扶摇",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730699.shtml",
+      "title": "聚焦产业创新探索 2026生物制造大赛决赛将在天津举行",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-13/10731331.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-12T11:06:59+08:00",
-      "abstract": "",
+      "published": "2026-11-13T10:38:42+08:00",
+      "abstract": "中新网北京11月13日电 (记者 刘亮)记者13日从工信部中小企业发展促进中心获悉，2026生物制造大赛决赛将于11月18日至19日在天津市武清区举行。经过初赛遴选与上海、北京两站复赛，前沿技术、应用创新两大赛道各54个项目晋级，108个项目将共同呈现生物制造领域的创新探索。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "一批侵华日军细菌战化学战新罪证集中发布",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730697.shtml",
+      "title": "金价波动加剧，多家银行新增积存金挂单业务",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-13/10731353.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-12T11:04:47+08:00",
-      "abstract": "新华社哈尔滨11月11日电(记者杨思琪、何山)今年是东京审判开庭80周年。11月9日至11日，“铭记历史·守护正义——侵华日军细菌战化学战罪行研究学术研讨会”在黑龙江举行。",
+      "published": "2026-11-13T10:38:12+08:00",
+      "abstract": "每经记者｜赵景致",
       "tier": 1,
       "also": []
     },
     {
-      "title": "新华图讯丨纪念孙中山先生诞辰160周年大会在北京举行",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730681.shtml",
+      "title": "北交所：开市五年 从81家到355家",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-13/10731350.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-12T11:04:25+08:00",
-      "abstract": "11月12日上午，纪念孙中山先生诞辰160周年大会在北京人民大会堂隆重举行。",
+      "published": "2026-11-13T10:35:50+08:00",
+      "abstract": "11月15日，北交所将迎来开市五周年。从首批81家公司起步，到如今的355家上市公司、总市值合计近7800亿元，北交所五年来始终坚守市场定位，发行上市融资制度持续优化。经Wind统计，前述355家上市公司合计募资金额约830亿元。“后备军”方面，目前有超200家公司正排队申报北交所上市，远超同期沪深市场IPO规模。对于",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-11-12T10:40:18+08:00",
-      "abstract": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-      "tier": 1,
-      "also": [
-        "The Guardian·World"
-      ]
-    },
-    {
-      "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-      "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "source": "The Guardian·World",
-      "category": "国际",
-      "published": "2026-11-12T10:58:16+08:00",
-      "abstract": "<p>Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in after-hours",
+      "published": "2026-11-13T10:39:00+08:00",
+      "abstract": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
       "tier": 1,
       "also": [
         "Al Jazeera",
         "Ars Technica",
+        "France24",
         "TechCrunch",
-        "The Verge"
+        "The Guardian·World"
       ]
     },
     {
-      "title": "王毅同美国国务卿鲁比奥通电话",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-12/10730581.shtml",
+      "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
+      "link": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-13T10:14:37+08:00",
+      "abstract": "<p>Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy</",
+      "tier": 1,
+      "also": [
+        "Ars Technica",
+        "BBC Business",
+        "BBC World",
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "Indonesia’s Vice President, Gibran, Resigns",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-13T07:40:14+08:00",
+      "abstract": "Gibran Rakabuming Raka, who is stepping down amid a scandal over his academic credentials, was a symbol of the partnership that elevated President Prabowo Subia",
+      "tier": 1,
+      "also": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "11月12日24时起，国内汽、柴油价格每吨分别下调645元、625元",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-12/10730806.shtml",
       "source": "中新网·国际",
       "category": "国际",
-      "published": "2026-11-12T07:39:22+08:00",
-      "abstract": "中新社北京11月11日电 中共中央政治局委员、外交部长王毅11日同美国国务卿鲁比奥通电话。双方就中美关系及两国元首互动深入交换意见，通话是积极和建设性的。",
+      "published": "2026-11-12T15:02:30+08:00",
+      "abstract": "中新网11月12日电 据国家发改委网站消息，10月29日国内成品油价格调整以来，国际市场原油价格震荡回落，本次调价的前10个工作日平均价格低于上次调价前10个工作日平均价格。根据国际市场油价变化情况，自11月12日24时起，国内汽、柴油(标准品)价格每吨分别下调645元、625元。",
       "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
-      "source": "纽约时报·国际",
-      "category": "国际",
-      "published": "2026-11-12T05:53:34+08:00",
-      "abstract": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign.",
-      "tier": 1,
-      "also": [
-        "BBC Business",
-        "NPR World",
-        "The Guardian·World"
-      ]
-    },
-    {
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "财经",
-      "published": "2026-11-12T06:07:37+08:00",
-      "abstract": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "tier": 1,
-      "also": [
-        "Al Jazeera",
-        "France24",
-        "The Guardian·World"
-      ]
-    },
-    {
-      "title": "上海气质 国际风范——在进博会感受有序与活力",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-12/10730706.shtml",
+      "title": "金价再度跌破3900美元",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-13/10731242.shtml",
       "source": "中新网·财经",
       "category": "财经",
-      "published": "2026-11-12T11:13:08+08:00",
-      "abstract": "新华社北京11月11日电 11月11日,《新华每日电讯》发表题为《上海气质 国际风范——在进博会感受有序与活力》的报道。",
+      "published": "2026-11-13T06:02:21+08:00",
+      "abstract": "由于美国通胀持续，市场预期美联储或将进一步收紧货币政策，推动美元走强，美国国债收益率走高，黄金、白银期价12日大幅下跌。",
       "tier": 1,
-      "also": []
+      "also": [
+        "东方财富"
+      ]
     },
     {
-      "title": "对话Hélène Mercier：喧嚣之上，守住自己的音乐世界",
-      "link": "https://www.jiemian.com/article/15324284.html",
+      "title": "价值风格崛起！中证红利ETF招商(515080)逆势走强，连续3日净流入约9600万，机构：增配！",
+      "link": "https://www.jiemian.com/article/15329389.html",
       "source": "界面新闻",
       "category": "财经",
-      "published": "2026-11-12T11:03:45+08:00",
-      "abstract": "永远不要害怕展现你真实的内心。",
+      "published": "2026-11-13T10:35:47+08:00",
+      "abstract": "11月13日，红利板块盘中走强。截至10时25分，中证红利涨0.76%，一度跌0.16%，中证红利ETF招商(515080)盘中拉升。截至11月12日，该基金获资金连续3日净流入，累计约9600万元。",
       "tier": 2,
       "also": []
     },
     {
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Tech",
+      "title": "英伟达宣布CEO黄仁勋辞职 CFO科莱特·克雷斯出任临时CEO",
+      "link": "http://finance.eastmoney.com/news/1345,202611123929926773.html",
+      "source": "东方财富",
+      "category": "财经",
+      "published": "2026-11-12T21:50:24+08:00",
+      "abstract": "英伟达宣布，公司董事会已批准黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。公司现任执行副总裁兼首席财务官科莱特·克雷斯（Colette Kress）出任临时CEO，并继续担任CFO，直至正式继任者确定。董事会将启动新任CEO遴选程序，同时考虑内部及外部候选人。英伟达董事会还任命Harvey C. Jones担任公",
+      "tier": 2,
+      "also": [
+        "中新网·财经",
+        "少数派"
+      ]
+    },
+    {
+      "title": "M87 星系黑洞存在甜甜圈结构",
+      "link": "https://www.solidot.org/story?sid=85868",
+      "source": "Solidot 奇客",
       "category": "科技",
-      "published": "2026-11-11T15:44:24+08:00",
-      "abstract": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-      "tier": 1,
+      "published": "2026-11-12T16:43:31+08:00",
+      "abstract": "作为人类首张黑洞照片，距地球约 5500 万光年、质量超太阳 60 亿倍的 M87 星系中心超大质量黑洞(M87*黑洞)被形象称为“甜甜圈”的图像，自 7 年多前发布以来广受关注，学界对其独特环状结构是否存在也有争议。一项研究独立验证了M87*黑洞经典重建图像中的独特环状结构，确认“甜甜圈”图像无误，最新的重建结果利用",
+      "tier": 2,
+      "also": [
+        "中新网·国际"
+      ]
+    },
+    {
+      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "source": "The Verge",
+      "category": "科技",
+      "published": "2026-11-12T18:43:22+08:00",
+      "abstract": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities,",
+      "tier": 2,
       "also": [
         "TechCrunch"
       ]
     },
     {
-      "title": "假如地球没有诞生生命？",
-      "link": "https://www.solidot.org/story?sid=85862",
-      "source": "Solidot 奇客",
-      "category": "科技",
-      "published": "2026-11-11T22:43:47+08:00",
-      "abstract": "假如地球没有诞生生命，它会变成什么模样？华盛顿大学团队进行了计算机模拟，他们将生命的因素彻底抽离，但完整保留了地核、地函、大气、海洋以及太阳辐射等 19 项关键物理变数，模拟这颗没有生命的地球从 45 亿年前诞生至今、乃至未来 5 亿年的演化史。在长达数十亿年的岁月里，这颗死寂的地球除了因为没有植物进行光合作用而极度缺",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "苹果突然永久关闭官方「支持社区」；字节即将推出个人 AI 助手；华为新品牌星芒 OSTA 曝光 | 极客早知道",
-      "link": "http://www.geekpark.net/news/373839",
+      "title": "黄仁勋宣布辞职，特朗普：库克适合接任；微信「看一看」测试短剧入口；《GTA 6》还没发售就狂卖近千万份｜极客早知道",
+      "link": "http://www.geekpark.net/news/373907",
       "source": "极客公园",
       "category": "科技",
-      "published": "2026-11-12T08:39:27+08:00",
-      "abstract": "苹果官方社区即将永久关闭 11 月 11 日，苹果官网突然宣布，Apple 支持社区将于 2026 年 11 月 20 日永久关闭。即日起，社区将不再接受新帖子，并转为只读模式。用户仍可前往官方 Apple 支持网站，获取值得信赖的指导和帮助。 苹果公告称，我们衷心感谢各位社区成员一直以来贡献宝贵的时间和专业知识，帮助",
+      "published": "2026-11-13T08:16:48+08:00",
+      "abstract": "黄仁勋宣布辞职，英伟达股价重挫 13% 美国时间 11 月 12 日美股开盘前，英伟达官方宣布，黄仁勋辞去总裁、首席执行官和董事会成员职务，即刻生效。 首席财务官科莱特·克雷斯（Colette Kress）出任临时 CEO，同时继续兼管财务；董事哈维·琼斯（Harvey C. Jones）出任董事会主席。董事会已经开始",
       "tier": 2,
       "also": []
     },
     {
-      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-      "link": "https://www.qbitai.com/2026/11/509146.html",
+      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+      "link": "https://www.qbitai.com/2026/11/509440.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-11-11T14:41:26+08:00",
-      "abstract": "价格、门槛全打穿",
+      "published": "2026-11-12T19:36:20+08:00",
+      "abstract": "「CAD拆解」",
       "tier": 2,
       "also": []
     },
     {
-      "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
-      "link": "https://www.qbitai.com/2026/11/509088.html",
+      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+      "link": "https://www.qbitai.com/2026/11/509404.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-11-11T14:27:03+08:00",
-      "abstract": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+      "published": "2026-11-12T18:45:33+08:00",
+      "abstract": "银河智学首席科学家邓澍军博士发表主题演讲",
       "tier": 2,
       "also": []
     },
     {
-      "title": "New culprit in early Alzheimer’s: Blood–brain barrier blocks protective proteins",
-      "link": "https://www.nature.com/articles/d41586-026-03655-2",
+      "title": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
+      "link": "https://www.nature.com/articles/d41586-026-03639-2",
       "source": "Nature",
       "category": "科学",
-      "published": "2026-11-11T00:00:00+08:00",
+      "published": "2026-11-12T00:00:00+08:00",
       "abstract": "",
       "tier": 1,
-      "also": [
-        "ScienceDaily"
-      ]
+      "also": []
     },
     {
       "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
@@ -240,32 +243,32 @@
       "also": []
     },
     {
-      "title": "云南文山至越南两条跨境直达运输线路正式启用",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-12/10730690.shtml",
+      "title": "亚洲最大耙吸挖泥船“浚广”守护粤西能源港湾",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731340.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-11-12T10:57:41+08:00",
-      "abstract": "中新网云南文山11月12日电 (王采霞 张军丽)11日，云南文山至越南宣光省跨境直达运输线路正式启用，意味着从昆明和文山发出的货物无须中转倒装，可直达越南腹地，大幅提升了货物流通效率，降低物流成本。",
+      "published": "2026-11-13T10:40:10+08:00",
+      "abstract": "中新网茂名11月13日电 (记者 王坚)中交广航局亚洲最大耙吸挖泥船“浚广”近日进驻广东茂名博贺港区，投入港池及航道维护疏浚施工，为粤西这条关键海上能源大通道保驾护航。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "第十三届产教融合发展战略国际论坛亮相武汉",
-      "link": "https://www.chinanews.com.cn/edu/2026/11-11/10730457.shtml",
+      "title": "亚洲青年科学家基金已资助48位学者 首批获资助者成果斐然",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-12/10731104.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-11-11T20:25:53+08:00",
-      "abstract": "中新网武汉11月11日电 (王梦媛)据武汉市政府新闻办11日发布会消息，11月11日至13日，第十三届产教融合发展战略国际论坛在武汉举办，论坛围绕分类推进高校改革、强化科技和人才支撑主线展开，为区域发展和产业升级持续释放产教融合力量。",
+      "published": "2026-11-12T20:38:42+08:00",
+      "abstract": "中新网北京11月12日电 (记者 张素)记者12日采访获悉，亚洲青年科学家基金自2022年设立以来，已资助来自亚洲22家机构的48位青年学者。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "2026年中国国际拳击公开赛在贵州遵义收官",
-      "link": "https://www.chinanews.com.cn/ty/2026/11-12/10730676.shtml",
+      "title": "虚拟雪道衔接真雪场：吉林培育冰雪全产业链人才",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-13/10731283.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-11-12T10:53:31+08:00",
-      "abstract": "中新网贵州遵义11月12日电 (记者 瞿宏伦 周燕玲)2026年中国国际拳击公开赛(以下简称，公开赛)11日晚在贵州省遵义市收官。经过7天的角逐，中国选手在男子、女子各竞赛级别中以9金的成绩高居奖牌榜榜首。",
+      "published": "2026-11-13T09:39:55+08:00",
+      "abstract": "中新网吉林11月13日电 (记者 苍雁 石洪宇)吉林市冰雪技师学院智慧冰雪实训中心里，一名冰雪导游方向的学生戴着头显，站在VR滑雪模拟器上。他手握传感器模拟雪杖摆动，身体在虚拟的中级雪道上连续回转，侧屏上的重心轨迹随之跳动。",
       "tier": 1,
       "also": []
     }
