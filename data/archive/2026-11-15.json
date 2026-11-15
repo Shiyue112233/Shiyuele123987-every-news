@@ -1,0 +1,282 @@
+{
+  "generated_at": "2026-11-15T10:01:45.319817+08:00",
+  "count": 20,
+  "quote": {
+    "text": "把每一次失败当作付费学到的经验。",
+    "author": "工作手记"
+  },
+  "tool": {
+    "name": "国家科技图书文献中心 NSTL",
+    "price": "免费档",
+    "category": "文献获取",
+    "desc": "国内官方文献传递，专利与标准全文也能申请。",
+    "url": "https://www.nstl.gov.cn/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 30条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 97条",
+    "创业邦 30条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 23条",
+    "BBC Business 57条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 57条",
+    "DW 中文 61条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [],
+  "items": [
+    {
+      "title": "金融机构外汇存款准备金率今起提高至6%",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-15/10732240.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-15T09:18:01+08:00",
+      "abstract": "今天，中国人民银行上调金融机构外汇存款准备金率正式生效，外汇存款准备金率由现行的4%提高到6%。本次上调有助于促进外汇市场供求平衡，打破人民币升值预期的自我实现。",
+      "tier": 1,
+      "also": [
+        "东方财富",
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "1至10月份国家铁路发送货物34.2亿吨",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-15/10732221.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-15T09:02:18+08:00",
+      "abstract": "中新网11月15日电 据“中国铁路”微信公众号消息，今年1至10月份，国家铁路累计发送货物34.2亿吨，日均装车18.92万车，同比分别增长1.1%、1.8%，为降低全社会物流成本、保障国民经济平稳运行提供了可靠运输支撑，“中国铁路物流”的品牌影响力、市场竞争力和客户满意度持续提升。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "北交所开市五周年 总市值约8000亿元",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-15/10732225.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-15T08:41:11+08:00",
+      "abstract": "今天(15日)，北京证券交易所迎来开市五周年。截至目前，北交所有上市公司355家，总市值约8000亿元。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-11-15T06:37:25+08:00",
+      "abstract": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+      "tier": 1,
+      "also": [
+        "France24"
+      ]
+    },
+    {
+      "title": "Asia’s Eurovision Contest Is Missing China, India, Pakistan, Indonesia and Japan",
+      "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-15T07:46:33+08:00",
+      "abstract": "China, India, Pakistan, Indonesia and Japan aren’t joining the singing contest. That leaves some of the region’s best-known musical cultures out of the mix.",
+      "tier": 1,
+      "also": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-15T03:01:32+08:00",
+      "abstract": "<p>Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok</p><p>Carmelle Collado has won the first Eurovision song",
+      "tier": 1,
+      "also": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "再创新高 51个一类新药进入新版国家医保药品目录",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-14/10731912.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-11-14T10:44:35+08:00",
+      "abstract": "原标题：新华社权威快报｜再创新高 51个一类新药进入新版国家医保药品目录",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-14T14:42:27+08:00",
+      "abstract": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "tier": 1,
+      "also": [
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-14T07:00:31+08:00",
+      "abstract": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "tier": 1,
+      "also": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "见证历史+1！SpaceX首次完成“筷子夹飞船”",
+      "link": "http://finance.eastmoney.com/news/1354,202611153931386374.html",
+      "source": "东方财富",
+      "category": "财经",
+      "published": "2026-11-15T05:39:06+08:00",
+      "abstract": "北京时间周日清晨，SpaceX星舰第十五次试飞的上面级飞船返回得克萨斯州星港，在完成着陆点火和姿态翻转后，成功被发射塔“筷子”机械臂捕获。 这是SpaceX首次成功捕获从地球轨道返回的星舰上面级飞船。 此次试飞于北京时间昨日清晨从美国得克萨斯州星际基地升空，原计划在同一次任务中，分别用发射塔的“筷子”机械臂捕获超重型助",
+      "tier": 2,
+      "also": [
+        "极客公园"
+      ]
+    },
+    {
+      "title": "美国失去麻疹消除地位",
+      "link": "https://www.solidot.org/story?sid=85889",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-15T00:52:55+08:00",
+      "abstract": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过",
+      "tier": 2,
+      "also": [
+        "DW 中文"
+      ]
+    },
+    {
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "source": "The Verge",
+      "category": "科技",
+      "published": "2026-11-14T16:44:44+08:00",
+      "abstract": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first",
+      "tier": 2,
+      "also": [
+        "France24"
+      ]
+    },
+    {
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-11-14T07:17:38+08:00",
+      "abstract": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
+      "tier": 2,
+      "also": [
+        "Al Jazeera",
+        "The Verge"
+      ]
+    },
+    {
+      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "link": "https://www.qbitai.com/2026/11/510297.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-14T18:08:08+08:00",
+      "abstract": "马斯克也签名了",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "link": "https://www.qbitai.com/2026/11/510232.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-14T17:58:22+08:00",
+      "abstract": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Is this iconic black hole image accurate? New study delivers an independent result",
+      "link": "https://phys.org/news/2026-11-iconic-black-hole-image-accurate.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-11-15T04:30:01+08:00",
+      "abstract": "On April 10, 2019, the Event Horizon Telescope (EHT) Collaboration revealed the first picture of a black hole. The object is at the center of a galaxy known as ",
+      "tier": 2,
+      "also": [
+        "Nature"
+      ]
+    },
+    {
+      "title": "How Microcredentials Help Engineers Build Trustworthy AI",
+      "link": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-11-14T03:00:03+08:00",
+      "abstract": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Tra",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "部分电动自行车3C认证卡壳 消费者上牌遇阻",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-15/10732245.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-11-15T09:21:45+08:00",
+      "abstract": "花几千元买了一辆电动自行车，门店承诺可以上牌。可等到办理登记时，却被告知：车辆对应的3C认证证书已经暂停了。近日，不少地方的消费者向记者反映，自己遇到了类似难题：找门店，被告知等厂家；联系品牌客服，也迟迟得不到明确的解决时间。新车买了，却卡在上牌这一步；想退车，也并不容易。消费者们不禁困惑：为什么买车时没人提醒自己一声",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "浙江教育观察：温州托幼一体化如何让“小小孩”被看见？",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-13/10731737.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-11-13T21:30:30+08:00",
+      "abstract": "中新网温州11月13日电(孙琳茹)“加油！加油！”伴随着一声声稚嫩的呐喊，浙江省温州市第五幼儿园的操场上，机器狗正和小朋友互动。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "第2届中国高校校友网球公开赛在郑州开赛",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-15/10732237.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-11-15T09:46:41+08:00",
+      "abstract": "中新网郑州11月15日电 (陈贵洋)11月14日，为期两天的第2届中国高校校友网球公开赛在河南郑州航空港经济综合实验区(简称郑州航空港区)开赛，来自全国70所高校的280余名校友选手参赛。",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}
