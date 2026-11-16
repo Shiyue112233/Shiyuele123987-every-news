@@ -1,0 +1,279 @@
+{
+  "generated_at": "2026-11-16T10:18:34.099988+08:00",
+  "count": 20,
+  "quote": {
+    "text": "专注不是做更多，而是决定不做什么。",
+    "author": "工作手记"
+  },
+  "tool": {
+    "name": "TinyPNG",
+    "price": "免费档",
+    "category": "图片压缩",
+    "desc": "压缩汇报用图片，PPT 从 50MB 降到 5MB，发邮件不卡。",
+    "url": "https://tinypng.com/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 15条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 90条",
+    "创业邦 30条",
+    "Solidot 奇客 17条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 20条",
+    "BBC Business 57条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 58条",
+    "DW 中文 53条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [],
+  "items": [
+    {
+      "title": "10月国民经济运行总体平稳、向新向优",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-16/10732619.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-16T10:02:58+08:00",
+      "abstract": "原标题：新华社权威快报|10月国民经济运行总体平稳、向新向优",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "（深圳APEC）习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732602.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-16T10:00:36+08:00",
+      "abstract": "中新社北京11月16日电 中国外交部发言人16日宣布，11月19日，国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。(完)",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "国家统计局：10月份各线城市商品住宅销售价格同比降幅继续收窄",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-16/10732592.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-16T09:34:51+08:00",
+      "abstract": "中新网11月16日电 据国家统计局网站消息，国家统计局城市司高级统计师杨彩芳解读2026年10月份商品住宅销售价格变动情况统计数据。2026年10月份，70个大中城市中，一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降，一二三线城市同比降幅继续收窄。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-11-16T07:52:10+08:00",
+      "abstract": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "tier": 1,
+      "also": [
+        "France24",
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+      "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-16T09:01:08+08:00",
+      "abstract": "<p>Silicon Valley figures back CEO ousted after revelations of affair with suspected Chinese spy, as US treasury secretary urges Nvidia to carry out ‘dramatic s",
+      "tier": 1,
+      "also": [
+        "France24",
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "AI来到教学一线，如何帮助教师轻装上阵？",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-16/10732614.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-11-16T09:59:56+08:00",
+      "abstract": "原标题：AI帮助教师轻装上阵",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Czechs rally against gov’t threat to media independence",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "国际",
+      "published": "2026-11-16T08:26:32+08:00",
+      "abstract": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
+      "tier": 2,
+      "also": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-14T14:42:27+08:00",
+      "abstract": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "tier": 1,
+      "also": [
+        "纽约时报·国际"
+      ]
+    },
+    {
+      "title": "国家统计局：1-10月份社会消费品零售总额增长1.0%",
+      "link": "https://www.jiemian.com/article/15335421.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-11-16T10:05:29+08:00",
+      "abstract": "国家统计局发布数据，1—10月份，社会消费品零售总额416464亿元，同比增长1.0%。其中，除汽车以外的消费品零售额383811亿元，增长2.8%。10月份，社会消费品零售总额46463亿元，同比增长0.4%。其中，除汽车以外的消费品零售额43162亿元，增长2.5%。",
+      "tier": 2,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-16T09:47:57+08:00",
+      "abstract": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "category": "科技",
+      "published": "2026-11-15T21:37:45+08:00",
+      "abstract": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "tier": 1,
+      "also": [
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "SpaceX 成功回收火箭上面级",
+      "link": "https://www.solidot.org/story?sid=85893",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-15T22:38:30+08:00",
+      "abstract": "SpaceX 再次创造了历史，首次成功回收 Starship 火箭的上面级，此前它已经成功回收了 Starship 的推进器。此次代号为 Flight 15/Starlink Group 31-2 的任务原计划同时回收火箭上面级和推进器，但推进器 Booster 22 在发射后不久启动了终止程序，在海面上受控爆炸。上面",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-11-15T08:40:59+08:00",
+      "abstract": "It felt like stepping into the future.",
+      "tier": 2,
+      "also": [
+        "BBC World",
+        "Phys.org"
+      ]
+    },
+    {
+      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "link": "https://www.qbitai.com/2026/11/510297.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-14T18:08:08+08:00",
+      "abstract": "马斯克也签名了",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "link": "https://www.qbitai.com/2026/11/510232.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-14T17:58:22+08:00",
+      "abstract": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Is this iconic black hole image accurate? New study delivers an independent result",
+      "link": "https://phys.org/news/2026-11-iconic-black-hole-image-accurate.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-11-15T04:30:01+08:00",
+      "abstract": "On April 10, 2019, the Event Horizon Telescope (EHT) Collaboration revealed the first picture of a black hole. The object is at the center of a galaxy known as ",
+      "tier": 2,
+      "also": [
+        "Nature"
+      ]
+    },
+    {
+      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+      "source": "ScienceDaily",
+      "category": "科学",
+      "published": "2026-11-15T16:04:09+08:00",
+      "abstract": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pul",
+      "tier": 3,
+      "also": [
+        "Phys.org"
+      ]
+    },
+    {
+      "title": "西部教师教育高质量发展论坛落地宁夏师范大学 探寻区域育人新路径",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732605.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-11-16T09:56:12+08:00",
+      "abstract": "中新网固原11月16日电 (记者 李佩珊)11月15日，西部教师教育高质量发展论坛在宁夏师范大学举办。论坛聚焦西部教育发展痛点与教师教育创新改革，为西部地区基础教育提质升级、建设高素质师资队伍搭建高水平学术交流平台。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "HSK留学中国预科联盟在京成立",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-15/10732454.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-11-15T19:45:15+08:00",
+      "abstract": "中新网11月15日电 11月15日，2026世界中文大会期间，HSK留学中国预科联盟(以下简称“联盟”)正式成立。这是首个面向外国中文学习者，采用“国外＋国内”两段式，开展预科教育的中外合作机制。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "全国羽毛球团体锦标赛落幕：浙江男队卫冕 江苏女队夺冠",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-16/10732625.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-11-16T10:11:31+08:00",
+      "abstract": "中新网湖北宜昌11月16日电 “李宁·小糊涂仙杯”2026年全国羽毛球团体锦标赛15日在宜昌奥体中心综合馆收官。浙江男队、江苏女队分获男、女团体冠军。",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}
