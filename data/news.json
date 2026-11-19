@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-18T11:46:05.788983+08:00",
+  "generated_at": "2026-11-19T11:44:16.444089+08:00",
   "count": 20,
   "quote": {
-    "text": "认知之外的钱挣不到，认知之外的机会也接不住。",
+    "text": "让工具替你记住细节，让大脑专心做判断。",
     "author": "工作手记"
   },
   "tool": {
-    "name": "讯飞听见 / Whisper",
-    "price": "免费档",
-    "category": "语音转写",
-    "desc": "会议与访谈录音转文字，整理纪要省一半时间。",
-    "url": "https://openai.com/research/whisper"
+    "name": "Ditto",
+    "price": "开源",
+    "category": "剪贴板",
+    "desc": "剪贴板历史管理，写报告时反复粘贴数据不用来回切换。",
+    "url": "https://ditto-cp.sourceforge.io/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 21条",
+    "中新网·教育 18条",
     "中新网·体育 30条",
     "界面新闻 30条",
     "东方财富 96条",
@@ -28,12 +28,12 @@
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 28条",
-    "BBC Business 55条",
+    "BBC World 33条",
+    "BBC Business 49条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
     "纽约时报·国际 59条",
-    "DW 中文 55条",
+    "DW 中文 54条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,175 +49,159 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文）",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733955.shtml",
+      "title": "我国新增34家领航级智能工厂",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-19/10734548.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-18T11:22:26+08:00",
-      "abstract": "新华社深圳11月18日电",
+      "published": "2026-11-19T11:24:29+08:00",
+      "abstract": "工业和信息化部等六部门今天公布了新一批34家领航级智能工厂培育名单。",
       "tier": 1,
       "also": [
         "界面新闻"
       ]
     },
     {
-      "title": "聚焦APEC｜泰国总理阿努廷抵达深圳",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733965.shtml",
+      "title": "国家网络安全通报中心发布JAVA远程代码执行高危漏洞预警",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734531.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-18T11:20:54+08:00",
-      "abstract": "新华社深圳11月18日电(记者周颖、杨深深)泰国总理阿努廷18日抵达深圳，将出席亚太经合组织第三十三次领导人非正式会议。(完)",
+      "published": "2026-11-19T11:03:54+08:00",
+      "abstract": "中新网11月19日电 据国家网络安全通报中心微信公众号消息，11月19日，国家网络安全通报中心发布JAVA远程代码执行高危漏洞预警，具体内容如下：",
       "tier": 1,
       "also": [
-        "界面新闻"
+        "Solidot 奇客"
       ]
     },
     {
-      "title": "“投资中国 对话山西”中法产业合作圆桌会议在太原举办",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733927.shtml",
+      "title": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734521.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-18T11:45:23+08:00",
-      "abstract": "中新网太原11月18日电 (记者 李庭耀)“投资中国 对话山西”中法产业合作圆桌会议17日在太原举办。中法政企研代表聚焦绿色能源转型国际合作，探讨能源绿色低碳发展路径和前景，推动中法生态低碳城项目合作落地山西。",
+      "published": "2026-11-19T10:27:26+08:00",
+      "abstract": "新华社深圳11月19日电",
       "tier": 1,
-      "also": []
+      "also": [
+        "东方财富"
+      ]
     },
     {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-11-18T06:46:30+08:00",
-      "abstract": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "published": "2026-11-19T10:20:15+08:00",
+      "abstract": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
       "tier": 1,
       "also": [
         "The Guardian·World"
       ]
     },
     {
-      "title": "Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picking new James Bond",
-      "link": "https://www.theguardian.com/film/2026/nov/17/james-bond-robert-pattinson-jeff-bezos-pick",
-      "source": "The Guardian·World",
+      "title": "Florida Man Found Guilty in Plot to Kill Haiti’s President",
+      "link": "https://www.nytimes.com/2026/11/18/world/americas/haiti-pastor-assassination-moise.html",
+      "source": "纽约时报·国际",
       "category": "国际",
-      "published": "2026-11-18T10:13:58+08:00",
-      "abstract": "<p>Amazon’s executive chair and billionaire founder said he felt there was ‘something special’ about Robert Pattinson</p><p>Amazon’s founder and billionaire cha",
+      "published": "2026-11-19T11:36:55+08:00",
+      "abstract": "Christian Emmanuel Sanon, 67, who was convicted in a Miami court, could now face life in prison over the killing of Jovenel Moïse.",
       "tier": 1,
       "also": [
-        "BBC Business",
-        "The Verge"
+        "The Guardian·World"
       ]
     },
     {
-      "title": "Matan Kahana Elected Speaker of Israel’s Parliament",
-      "link": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
-      "source": "纽约时报·国际",
+      "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "source": "The Guardian·World",
       "category": "国际",
-      "published": "2026-11-18T05:54:22+08:00",
-      "abstract": "Matan Kahana, a lawmaker from Gadi Eisenkot’s party, will take control of the legislative process as the opposition looks to press Prime Minister Benjamin Netan",
+      "published": "2026-11-19T11:11:52+08:00",
+      "abstract": "<p>This live blog is now closed. </p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china\">F",
       "tier": 1,
       "also": [
         "Al Jazeera",
-        "France24"
+        "纽约时报·国际"
       ]
     },
     {
-      "title": "商务部新闻发言人就中加经贸磋商成果答记者问",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-17/10733657.shtml",
-      "source": "中新网·国际",
+      "title": "特朗普抵达深圳 习近平遵循礼尚往来亲自接机",
+      "link": "https://www.dw.com/zh/特朗普抵达深圳-习近平遵循礼尚往来亲自接机/a-79982146?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
       "category": "国际",
-      "published": "2026-11-17T19:30:04+08:00",
-      "abstract": "中新网11月17日电 据商务部网站消息，商务部新闻发言人就中加经贸磋商成果答记者问。",
+      "published": "2026-11-18T14:05:00+08:00",
+      "abstract": "亚太经合组织峰会开幕前，特朗普总统抵达深圳，习近平亲自接机并称，中国有礼尚往来的传统。除了周四备受瞩目的美俄中三方会晤登场，普京也希望获得同特朗普单独会谈的机会。",
       "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "中国商务部回应美发布限制远程获取先进半导体相关措施",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-17/10733735.shtml",
+      "title": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-18/10734424.shtml",
       "source": "中新网·财经",
       "category": "财经",
-      "published": "2026-11-17T21:23:14+08:00",
-      "abstract": "中新社北京11月17日电 就美国商务部发布限制远程获取先进半导体相关措施，中国商务部新闻发言人17日表示，中方对此强烈不满，坚决反对。",
+      "published": "2026-11-18T23:18:41+08:00",
+      "abstract": "问：中韩自贸协定第二阶段谈判经历了怎样的历程？",
       "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "OpenAI发布GPT-6.2 Astra和Sol 强化专业工作与日常任务能力",
-      "link": "http://finance.eastmoney.com/news/1360,202611183933433098.html",
-      "source": "东方财富",
-      "category": "财经",
-      "published": "2026-11-18T07:44:43+08:00",
-      "abstract": "当地时间11月17日，OpenAI发布GPT-6.2 Astra和GPT-6.2 Sol两款模型。公司称，Astra面向复杂专业任务，在文档、演示文稿、电子表格、编程及科学研究等方面提升表现；Sol则定位日常通用模型，较上一代GPT-6.1 Sol更加智能、高效，可在相同付费套餐使用额度内完成更多任务。 OpenAI表",
-      "tier": 2,
-      "also": [
-        "少数派",
-        "开源中国",
-        "量子位"
-      ]
-    },
-    {
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "财经",
-      "published": "2026-11-18T02:24:21+08:00",
-      "abstract": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "published": "2026-11-19T07:47:46+08:00",
+      "abstract": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
       "tier": 1,
       "also": [
-        "France24",
-        "TechCrunch",
-        "The Verge"
+        "The Guardian·World"
       ]
     },
     {
-      "title": "OpenAI sued by California over Hugging Face attack",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Tech",
-      "category": "科技",
-      "published": "2026-11-17T07:12:24+08:00",
-      "abstract": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-      "tier": 1,
-      "also": [
-        "Ars Technica"
-      ]
-    },
-    {
-      "title": "Robert Pattinson 成为第七任 007",
-      "link": "https://www.solidot.org/story?sid=85905",
-      "source": "Solidot 奇客",
-      "category": "科技",
-      "published": "2026-11-17T00:18:40+08:00",
-      "abstract": "英国演员 Robert Pattinson 成为继 Daniel Craig 之后的第七任 007，将出演首部由亚马逊制作的 007 电影。Robert Pattinson 也成为第一位出演过蝙蝠侠的 007 演员。在 Daniel Craig 获选饰演 007 时，他当时还不是一线明星；相比其他竞争第七任 007 的",
+      "title": "现货黄金跌破3700美元关口",
+      "link": "https://www.jiemian.com/article/15349793.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-11-19T11:10:45+08:00",
+      "abstract": "",
       "tier": 2,
       "also": [
-        "BBC Business"
+        "东方财富"
       ]
     },
     {
-      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-      "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "title": "The \"shameful\" measles data that lost the US its elimination status",
+      "link": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
       "source": "Ars Technica",
       "category": "科技",
-      "published": "2026-11-18T04:32:55+08:00",
-      "abstract": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "published": "2026-11-19T02:30:23+08:00",
+      "abstract": "Measles became endemic in the US months ago—and it's only accelerating.",
       "tier": 2,
       "also": [
-        "France24",
-        "TechCrunch"
+        "Nature"
       ]
     },
     {
-      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
-      "link": "https://www.qbitai.com/2026/11/510737.html",
-      "source": "量子位",
-      "category": "AI",
-      "published": "2026-11-18T10:49:23+08:00",
-      "abstract": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+      "title": "WorkBuddy 日活超过 1000 万；曝英伟达未投企业责任险，或因黄仁勋事件遭巨额索赔；DeepSeek 再调整 API 计费 | 极客早知道",
+      "link": "http://www.geekpark.net/news/374177",
+      "source": "极客公园",
+      "category": "科技",
+      "published": "2026-11-19T09:03:37+08:00",
+      "abstract": "黄仁勋辞职风波升级：英伟达遭两起证券欺诈诉讼，公司自身却未投保企业责任险 11 月 18 日消息，据路透社报道，英伟达为公司高管和董事购买了责任保险，最高赔付额度达 9.5 亿美元，但公司自身没有购买通常用于覆盖证券诉讼辩护费用、和解金与判决赔偿的企业责任保险。 这意味着，如果围绕黄仁勋突然辞去 CEO 职务引发的诉讼",
       "tier": 2,
       "also": []
+    },
+    {
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-19T08:40:49+08:00",
+      "abstract": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he",
+      "tier": 2,
+      "also": [
+        "The Guardian·World"
+      ]
     },
     {
       "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
@@ -227,55 +211,71 @@
       "published": "2026-11-18T09:03:42+08:00",
       "abstract": "英伟达公布了老黄离职后的首份财报",
       "tier": 2,
-      "also": []
+      "also": [
+        "Solidot 奇客"
+      ]
     },
     {
-      "title": "Meet the ‘celestial bodies of fathomless powerful darkness’",
-      "link": "https://www.nature.com/articles/d41586-026-03750-4",
+      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+      "link": "https://www.qbitai.com/2026/11/510707.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-18T08:49:14+08:00",
+      "abstract": "Sol逼近旗舰性能",
+      "tier": 2,
+      "also": [
+        "开源中国"
+      ]
+    },
+    {
+      "title": "Rainforest adaptation in late Homo erectus from southern China",
+      "link": "https://www.nature.com/articles/s41586-026-11155-6",
       "source": "Nature",
       "category": "科学",
-      "published": "2026-11-17T00:00:00+08:00",
+      "published": "2026-11-18T00:00:00+08:00",
       "abstract": "",
       "tier": 1,
-      "also": []
+      "also": [
+        "Phys.org"
+      ]
     },
     {
-      "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
-      "link": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
+      "title": "Build a Personal Brand to Help Employers Find You",
+      "link": "https://spectrum.ieee.org/personal-branding-for-engineers",
       "source": "IEEE Spectrum",
       "category": "科学",
-      "published": "2026-11-18T03:00:03+08:00",
-      "abstract": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include",
+      "published": "2026-11-19T01:33:26+08:00",
+      "abstract": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partne",
       "tier": 2,
       "also": []
     },
     {
-      "title": "中央气象台：强冷空气继续影响中东部地区",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-18/10733858.shtml",
+      "title": "黑龙江共青团“金秋助学”希望工程圆梦行动助力5.6万名学子逐梦成才",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734553.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-11-18T09:54:39+08:00",
-      "abstract": "中新网11月18日电 据中央气象台网站消息，受强冷空气影响，昨日，西北地区中东部、内蒙古中西部、山西、京津冀、河南中北部等地部分地区出现7～9级阵风，局地11级以上。今晨，青海、甘肃、宁夏、内蒙古中西部、陕西、山西、河北西部等地出现4～8℃、局地10℃以上降温。",
+      "published": "2026-11-19T11:27:19+08:00",
+      "abstract": "中新网哈尔滨11月19日电(记者 刘璐 赵宇航)11月18日晚，由黑龙江省青少年发展基金会主办的“托举梦的力量”——共青团“金秋助学”希望工程圆梦行动十周年公益分享会在哈尔滨举办。来自社会各界的爱心企业、受助学子等1000余人参加活动。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "青春华章·我们的新长征丨深耕职教沃土 培育“大国工匠”",
-      "link": "https://www.chinanews.com.cn/edu/2026/11-17/10733448.shtml",
+      "title": "雪假来了：特色假期如何“放”到心坎里",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-19/10734530.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-11-17T15:19:10+08:00",
-      "abstract": "央广网天津11月15日消息(记者韩雨晨 周思杨)时代的长征，从来不止一条征途。有人向着山海攻关前沿科技，有人扎根车间锤炼手上功夫。技能人才培育的赛道上，无数青年以技艺为行囊，在勤学苦练中奔赴属于自己的奋斗征程。近日，记者走进位于天津海河教育园区的中国(天津)职业技能公共实训中心，在一间间实训室里，看见技能人才成长的鲜活",
+      "published": "2026-11-19T10:50:29+08:00",
+      "abstract": "秋假还没结束，雪假也来了。11月18日，河北省张家口市中小学迎来了首个雪假，不同学段错峰放假。此外，吉林省、内蒙古呼伦贝尔、新疆阿勒泰也陆续公布2026年雪假安排。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "西藏体彩发布2025年度社会责任报告 筹集公益金3.69亿元",
-      "link": "https://www.chinanews.com.cn/ty/2026/11-18/10733892.shtml",
+      "title": "年轻人看体育赛事是在看什么 超半数受访青年从竞体赛事中学会了接纳输赢",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-19/10734473.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-11-18T09:51:59+08:00",
-      "abstract": "本报拉萨11月15日讯(记者 旦增兰泽)近日，记者从“高原筑梦 益彩同行——西藏体彩2025年度社会责任报告”发布会获悉，2025年西藏体彩全年销售体育彩票达15.47亿元，筹集公益金3.69亿元，代扣代缴个人所得税0.15亿元。",
+      "published": "2026-11-19T08:54:55+08:00",
+      "abstract": "强势横扫、黑马逆袭、百炼成钢……如今，竞技体育赛事吸引了越来越多年轻人的目光。近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)对1048名观看过竞技体育赛事的青年开展的调查显示，竞技对抗带来的悬念与刺激感是受访青年观看赛事的首要原因。篮球、足球、乒乓球是受访青年最青睐的三项竞技项目。",
       "tier": 1,
       "also": []
     }
