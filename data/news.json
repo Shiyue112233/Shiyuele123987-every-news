@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-19T11:44:16.444089+08:00",
+  "generated_at": "2026-11-20T11:38:16.825728+08:00",
   "count": 20,
   "quote": {
-    "text": "让工具替你记住细节，让大脑专心做判断。",
+    "text": "信息不等于洞察，洞察来自对信息的筛选与追问。",
     "author": "工作手记"
   },
   "tool": {
-    "name": "Ditto",
-    "price": "开源",
-    "category": "剪贴板",
-    "desc": "剪贴板历史管理，写报告时反复粘贴数据不用来回切换。",
-    "url": "https://ditto-cp.sourceforge.io/"
+    "name": "Everything",
+    "price": "免费",
+    "category": "本地搜索",
+    "desc": "Windows 秒级全盘文件名搜索。装一次省一辈子找文件的时间。",
+    "url": "https://www.voidtools.com/zh-cn/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 18条",
+    "中新网·教育 22条",
     "中新网·体育 30条",
     "界面新闻 30条",
     "东方财富 96条",
@@ -28,12 +28,12 @@
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 33条",
-    "BBC Business 49条",
+    "BBC World 36条",
+    "BBC Business 57条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
-    "纽约时报·国际 59条",
-    "DW 中文 54条",
+    "纽约时报·国际 57条",
+    "DW 中文 55条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,124 +49,147 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "我国新增34家领航级智能工厂",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-19/10734548.shtml",
+      "title": "五部门印发2026版海洋产业投融资指导目录",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-20/10735127.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-19T11:24:29+08:00",
-      "abstract": "工业和信息化部等六部门今天公布了新一批34家领航级智能工厂培育名单。",
+      "published": "2026-11-20T11:30:52+08:00",
+      "abstract": "今天(11月20日)，自然资源部联合国家发展改革委、中国人民银行等五部门，印发《海洋产业投融资指导目录(2026版)》(以下简称《目录》)，精准引导社会资本赋能海洋产业升级，助力我国海洋经济高质量发展。",
       "tier": 1,
       "also": [
         "界面新闻"
       ]
     },
     {
-      "title": "国家网络安全通报中心发布JAVA远程代码执行高危漏洞预警",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734531.shtml",
+      "title": "62.8%！中国超六成可持续发展指标接近或实现2030年目标",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735116.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-19T11:03:54+08:00",
-      "abstract": "中新网11月19日电 据国家网络安全通报中心微信公众号消息，11月19日，国家网络安全通报中心发布JAVA远程代码执行高危漏洞预警，具体内容如下：",
+      "published": "2026-11-20T11:06:52+08:00",
+      "abstract": "今天(20日)，由可持续发展大数据国际研究中心牵头撰写的《地球大数据支撑可持续发展目标报告(2026)》在联合国网站发布。这是自2019年起，我国第八次发布该报告。《报告》梳理了2025年全球在可持续发展领域的最新进展，为各国理解人类社会发展进程、资源环境变化规律等提供了重要科学数据参考。",
       "tier": 1,
       "also": [
-        "Solidot 奇客"
+        "界面新闻"
       ]
     },
     {
-      "title": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734521.shtml",
+      "title": "习近平会见新加坡总理黄循财",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735114.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-19T10:27:26+08:00",
-      "abstract": "新华社深圳11月19日电",
+      "published": "2026-11-20T10:54:40+08:00",
+      "abstract": "新华社快讯：11月20日，国家主席习近平在深圳会见新加坡总理黄循财。",
       "tier": 1,
       "also": [
-        "东方财富"
+        "界面新闻"
       ]
     },
     {
-      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "title": "How did Anthropic's stock market debut unfold?",
+      "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-11-19T10:20:15+08:00",
-      "abstract": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+      "published": "2026-11-20T07:52:25+08:00",
+      "abstract": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
       "tier": 1,
       "also": [
-        "The Guardian·World"
+        "Al Jazeera"
       ]
     },
     {
-      "title": "Florida Man Found Guilty in Plot to Kill Haiti’s President",
-      "link": "https://www.nytimes.com/2026/11/18/world/americas/haiti-pastor-assassination-moise.html",
-      "source": "纽约时报·国际",
-      "category": "国际",
-      "published": "2026-11-19T11:36:55+08:00",
-      "abstract": "Christian Emmanuel Sanon, 67, who was convicted in a Miami court, could now face life in prison over the killing of Jovenel Moïse.",
-      "tier": 1,
-      "also": [
-        "The Guardian·World"
-      ]
-    },
-    {
-      "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
+      "link": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
       "source": "The Guardian·World",
       "category": "国际",
-      "published": "2026-11-19T11:11:52+08:00",
-      "abstract": "<p>This live blog is now closed. </p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china\">F",
+      "published": "2026-11-20T11:05:59+08:00",
+      "abstract": "<p>Zoo staff tried a colonoscopy, vibration plate and other procedures to aid the hippo in passing the hat to no avail</p><p>Fiona the hippo, one of America’s m",
       "tier": 1,
       "also": [
         "Al Jazeera",
-        "纽约时报·国际"
+        "BBC World"
       ]
     },
     {
-      "title": "特朗普抵达深圳 习近平遵循礼尚往来亲自接机",
-      "link": "https://www.dw.com/zh/特朗普抵达深圳-习近平遵循礼尚往来亲自接机/a-79982146?maca=chi-rss-chi-all-1127-rdf",
-      "source": "DW 中文",
+      "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+      "link": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+      "source": "纽约时报·国际",
       "category": "国际",
-      "published": "2026-11-18T14:05:00+08:00",
-      "abstract": "亚太经合组织峰会开幕前，特朗普总统抵达深圳，习近平亲自接机并称，中国有礼尚往来的传统。除了周四备受瞩目的美俄中三方会晤登场，普京也希望获得同特朗普单独会谈的机会。",
+      "published": "2026-11-20T09:37:19+08:00",
+      "abstract": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.",
       "tier": 1,
       "also": [
-        "东方财富"
-      ]
-    },
-    {
-      "title": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-18/10734424.shtml",
-      "source": "中新网·财经",
-      "category": "财经",
-      "published": "2026-11-18T23:18:41+08:00",
-      "abstract": "问：中韩自贸协定第二阶段谈判经历了怎样的历程？",
-      "tier": 1,
-      "also": [
-        "东方财富"
-      ]
-    },
-    {
-      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-      "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "财经",
-      "published": "2026-11-19T07:47:46+08:00",
-      "abstract": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-      "tier": 1,
-      "also": [
+        "Al Jazeera",
+        "BBC World",
+        "NPR World",
         "The Guardian·World"
       ]
     },
     {
-      "title": "现货黄金跌破3700美元关口",
-      "link": "https://www.jiemian.com/article/15349793.html",
+      "title": "普京：克里米亚大桥遭袭后 不再讨论海上停火",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-20/10734987.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-11-20T06:05:38+08:00",
+      "abstract": "新华社莫斯科11月19日电 俄罗斯总统普京19日表示，在克里米亚大桥遭袭后，俄方不会就海上停火或停止攻击能源设施与有关方面进行谈判。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "一卡玩转长三角！来文博会解锁展内展外多元新体验",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-20/10735115.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-11-20T11:00:22+08:00",
+      "abstract": "11月19日，第七届长三角国际文化产业博览会在国家会展中心(上海)开幕。本届文博会以“促进文商旅体展融合发展、激发文化消费新活力”为主题，展期持续至11月22日。开幕式上，“长三角文化消费季”同步启动，“长三角随心游权益卡”正式发布。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-19T05:28:08+08:00",
+      "abstract": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "tier": 1,
+      "also": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "国内金饰克价跌破1100元",
+      "link": "https://www.jiemian.com/article/15353856.html",
       "source": "界面新闻",
       "category": "财经",
-      "published": "2026-11-19T11:10:45+08:00",
+      "published": "2026-11-20T10:53:10+08:00",
       "abstract": "",
       "tier": 2,
       "also": [
         "东方财富"
+      ]
+    },
+    {
+      "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
+      "link": "https://www.solidot.org/story?sid=85937",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-20T00:34:10+08:00",
+      "abstract": "国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI 数据中心每年将额外消耗 350 TWh 的电力，这一数字超过了英国全年的总耗电量。IEA 预计到这个十年末，中国 AI 数据中心所需电力中约半数将来自燃煤电厂。其",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge",
+      "category": "科技",
+      "published": "2026-11-19T17:31:41+08:00",
+      "abstract": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling servi",
+      "tier": 2,
+      "also": [
+        "TechCrunch"
       ]
     },
     {
@@ -182,100 +205,76 @@
       ]
     },
     {
-      "title": "WorkBuddy 日活超过 1000 万；曝英伟达未投企业责任险，或因黄仁勋事件遭巨额索赔；DeepSeek 再调整 API 计费 | 极客早知道",
-      "link": "http://www.geekpark.net/news/374177",
-      "source": "极客公园",
-      "category": "科技",
-      "published": "2026-11-19T09:03:37+08:00",
-      "abstract": "黄仁勋辞职风波升级：英伟达遭两起证券欺诈诉讼，公司自身却未投保企业责任险 11 月 18 日消息，据路透社报道，英伟达为公司高管和董事购买了责任保险，最高赔付额度达 9.5 亿美元，但公司自身没有购买通常用于覆盖证券诉讼辩护费用、和解金与判决赔偿的企业责任保险。 这意味着，如果围绕黄仁勋突然辞去 CEO 职务引发的诉讼",
+      "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
+      "link": "https://www.qbitai.com/2026/11/511258.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-19T16:43:10+08:00",
+      "abstract": "「Revaluation 价值，另有答案」",
+      "tier": 2,
+      "also": [
+        "极客公园"
+      ]
+    },
+    {
+      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+      "link": "https://www.qbitai.com/2026/11/511426.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-20T09:07:38+08:00",
+      "abstract": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
       "tier": 2,
       "also": []
     },
     {
-      "title": "Elon Musk says: ‘I’m not MAGA’",
-      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-19T08:40:49+08:00",
-      "abstract": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he",
-      "tier": 2,
-      "also": [
-        "The Guardian·World"
-      ]
-    },
-    {
-      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
-      "link": "https://www.qbitai.com/2026/11/510726.html",
-      "source": "量子位",
-      "category": "AI",
-      "published": "2026-11-18T09:03:42+08:00",
-      "abstract": "英伟达公布了老黄离职后的首份财报",
-      "tier": 2,
-      "also": [
-        "Solidot 奇客"
-      ]
-    },
-    {
-      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
-      "link": "https://www.qbitai.com/2026/11/510707.html",
-      "source": "量子位",
-      "category": "AI",
-      "published": "2026-11-18T08:49:14+08:00",
-      "abstract": "Sol逼近旗舰性能",
-      "tier": 2,
-      "also": [
-        "开源中国"
-      ]
-    },
-    {
-      "title": "Rainforest adaptation in late Homo erectus from southern China",
-      "link": "https://www.nature.com/articles/s41586-026-11155-6",
+      "title": "Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
+      "link": "https://www.nature.com/articles/s41586-026-11388-5",
       "source": "Nature",
       "category": "科学",
-      "published": "2026-11-18T00:00:00+08:00",
+      "published": "2026-11-19T00:00:00+08:00",
       "abstract": "",
       "tier": 1,
+      "also": []
+    },
+    {
+      "title": "AI companions could help reduce loneliness, study finds",
+      "link": "https://phys.org/news/2026-11-ai-companions-loneliness.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-11-20T03:20:06+08:00",
+      "abstract": "AI companions could help reduce loneliness by creating a greater sense of belonging and improving self-esteem, according to new research from Durham University ",
+      "tier": 2,
       "also": [
-        "Phys.org"
+        "ScienceDaily"
       ]
     },
     {
-      "title": "Build a Personal Brand to Help Employers Find You",
-      "link": "https://spectrum.ieee.org/personal-branding-for-engineers",
-      "source": "IEEE Spectrum",
-      "category": "科学",
-      "published": "2026-11-19T01:33:26+08:00",
-      "abstract": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partne",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "黑龙江共青团“金秋助学”希望工程圆梦行动助力5.6万名学子逐梦成才",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734553.shtml",
+      "title": "黑龙江铁力：小鹿踏雪林间行 农文旅融合激活乡村新动能",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735087.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-11-19T11:27:19+08:00",
-      "abstract": "中新网哈尔滨11月19日电(记者 刘璐 赵宇航)11月18日晚，由黑龙江省青少年发展基金会主办的“托举梦的力量”——共青团“金秋助学”希望工程圆梦行动十周年公益分享会在哈尔滨举办。来自社会各界的爱心企业、受助学子等1000余人参加活动。",
+      "published": "2026-11-20T10:37:31+08:00",
+      "abstract": "中新网伊春11月20日电(记者 刘璐)近日，在黑龙江省伊春铁力市的鹿野仙踪园区，成群梅花鹿漫步皑皑白雪，灵动身影与茫茫林海相映成趣，成为冬日里一道治愈的风景线。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "雪假来了：特色假期如何“放”到心坎里",
-      "link": "https://www.chinanews.com.cn/edu/2026/11-19/10734530.shtml",
+      "title": "中国官方：2027届全国普通高校毕业生规模预计1299万人",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-19/10734900.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-11-19T10:50:29+08:00",
-      "abstract": "秋假还没结束，雪假也来了。11月18日，河北省张家口市中小学迎来了首个雪假，不同学段错峰放假。此外，吉林省、内蒙古呼伦贝尔、新疆阿勒泰也陆续公布2026年雪假安排。",
+      "published": "2026-11-19T20:54:31+08:00",
+      "abstract": "中新社北京11月19日电 (记者 曾玥)记者19日从中国教育部获悉，2027届全国普通高校毕业生规模预计1299万人。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "年轻人看体育赛事是在看什么 超半数受访青年从竞体赛事中学会了接纳输赢",
-      "link": "https://www.chinanews.com.cn/ty/2026/11-19/10734473.shtml",
+      "title": "汪顺、张博恒、林孝埈、无畏、桃晚安，共同见证中国竞技力量年度高光时刻",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-20/10735096.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-11-19T08:54:55+08:00",
-      "abstract": "强势横扫、黑马逆袭、百炼成钢……如今，竞技体育赛事吸引了越来越多年轻人的目光。近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)对1048名观看过竞技体育赛事的青年开展的调查显示，竞技对抗带来的悬念与刺激感是受访青年观看赛事的首要原因。篮球、足球、乒乓球是受访青年最青睐的三项竞技项目。",
+      "published": "2026-11-20T10:38:17+08:00",
+      "abstract": "中新网北京11月20日电 11月19日，以“当燃不让”为主题的2026微博竞燃之夜燃情收官。多领域嘉宾齐聚一堂，汪顺、张博恒、赵心童、张雨霏、林孝埈、张家齐、无畏、一诺、桃晚安、ZmjjKK、暖阳、369、白小纯、青稚等竞燃嘉宾强势集结，蔡国庆、李斯丹妮、王栎鑫、艾热等文娱名人跨界助阵，共同见证属于中国竞技力量的年度高",
       "tier": 1,
       "also": []
     }
