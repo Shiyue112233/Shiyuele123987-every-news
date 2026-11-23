@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-22T10:28:54.767284+08:00",
+  "generated_at": "2026-11-23T10:56:48.049325+08:00",
   "count": 20,
   "quote": {
-    "text": "一个能坚持的普通方案，胜过无数完美的计划。",
+    "text": "把问题写下来，答案往往就浮现了一半。",
     "author": "工作手记"
   },
   "tool": {
-    "name": "Zotero",
+    "name": "Obsidian",
     "price": "免费",
-    "category": "文献管理",
-    "desc": "抓取网页/PDF/专利题录，自动生成引用，写论文标参考文献一键完成。",
-    "url": "https://www.zotero.org/"
+    "category": "知识库",
+    "desc": "本地 Markdown 笔记库，双链把项目、专利、实验记录串成网。",
+    "url": "https://obsidian.md/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 28条",
+    "中新网·教育 15条",
     "中新网·体育 30条",
     "界面新闻 30条",
     "东方财富 91条",
@@ -28,12 +28,12 @@
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 27条",
-    "BBC Business 58条",
+    "BBC World 35条",
+    "BBC Business 46条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
-    "纽约时报·国际 52条",
-    "DW 中文 52条",
+    "纽约时报·国际 53条",
+    "DW 中文 50条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,122 +49,112 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-22/10735951.shtml",
+      "title": "《“一老一小”服务体系建设实施方案》发布",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736289.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-22T09:21:58+08:00",
-      "abstract": "中新网11月22日电 据商务部网站消息，商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问。",
+      "published": "2026-11-23T10:03:08+08:00",
+      "abstract": "今天，由国家发展改革委等四部门联合印发的《“一老一小”服务体系建设实施方案》对外公布。《实施方案》围绕“一老一小”服务体系建设提出了哪些目标？",
       "tier": 1,
       "also": [
-        "东方财富",
         "界面新闻"
       ]
     },
     {
-      "title": "特朗普：将寻求与伊朗达成一项“永久性”协议",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-22/10735946.shtml",
+      "title": "各族民众载歌载舞欢庆大理白族自治州成立70周年",
+      "link": "https://www.chinanews.com.cn/tp/2026/11-23/10736326.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-22T08:49:20+08:00",
-      "abstract": "中新网11月22日电 综合美媒21日报道，美国总统特朗普在采访节目中表示，将寻求与伊朗达成一项“永久性”协议。",
-      "tier": 1,
-      "also": [
-        "东方财富",
-        "界面新闻"
-      ]
-    },
-    {
-      "title": "网购牛仔裤水洗后轻戳就破 消费者要求“退一赔三”该得到支持吗？",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735966.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-11-22T10:24:19+08:00",
-      "abstract": "消费者网购标称“秋季新款”的牛仔裤，试穿时就有大量黑色粉末脱落；经清水漂洗后，面料多处出现破洞，晾干后轻轻触碰便破损。",
+      "published": "2026-11-23T10:55:13+08:00",
+      "abstract": "11月22日晚，各族民众在大理市欢聚一堂载歌载舞，共庆云南省大理白族自治州成立70周年。大理白族自治州于1956年11月22日建州，是中国唯一白族自治州，地处云南中部偏西，苍山洱海相伴，汉族、白族、彝族、傈僳族等多个民族在此共居生活。中新社记者 李嘉娴 摄 11月22日晚，各族民众在大理市欢聚一堂载歌载舞，共庆云南省大",
       "tier": 1,
       "also": []
     },
     {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "title": "金价震荡回调，黄金挂钩理财“退烧”？",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736337.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-23T10:54:23+08:00",
+      "abstract": "金价震荡回调，黄金挂钩理财“退烧”？新发节奏放缓，部分产品净值承压",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-11-22T08:10:44+08:00",
-      "abstract": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "published": "2026-11-23T09:23:43+08:00",
+      "abstract": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
       "tier": 1,
       "also": [
-        "France24",
-        "TechCrunch"
+        "Al Jazeera"
       ]
     },
     {
-      "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-      "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-23T10:01:42+08:00",
+      "abstract": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+      "tier": 1,
+      "also": [
+        "France24"
+      ]
+    },
+    {
+      "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+      "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
       "source": "The Guardian·World",
       "category": "国际",
-      "published": "2026-11-22T01:46:55+08:00",
-      "abstract": "<p>Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade</p><p>The Mexican military captured one of the FBI",
+      "published": "2026-11-23T05:33:44+08:00",
+      "abstract": "<p>No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia</p><p>A Russian warship docked in the Libyan port ",
       "tier": 1,
-      "also": [
-        "France24",
-        "纽约时报·国际"
-      ]
-    },
-    {
-      "title": "Indian man jailed over plot to kill Sikh separatist in US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "国际",
-      "published": "2026-11-22T05:09:18+08:00",
-      "abstract": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
-      "tier": 2,
       "also": [
         "BBC World",
-        "The Guardian·World"
+        "France24"
       ]
     },
     {
-      "title": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
-      "link": "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
-      "source": "France24",
+      "title": "韩国各地手机一天内三次警报大作，三天后韩国教育部长辞职",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736272.shtml",
+      "source": "中新网·国际",
       "category": "国际",
-      "published": "2026-11-22T03:55:07+08:00",
-      "abstract": "A Russian ballistic missile attack on President Volodymyr Zelensky’s hometown in central Ukraine on Saturday killed two people and wounded dozens. Hours later, ",
-      "tier": 2,
-      "also": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "title": "Thousands join cost of living protests across Europe",
-      "link": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "财经",
-      "published": "2026-11-20T22:43:39+08:00",
-      "abstract": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education.",
-      "tier": 1,
-      "also": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "title": "2026“世界电视日”大视听产业系列活动武汉启幕",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-22/10735963.shtml",
-      "source": "中新网·财经",
-      "category": "财经",
-      "published": "2026-11-22T10:17:01+08:00",
-      "abstract": "中新网武汉11月22日电 (蒋秋雨 高玲玲 王梦媛)2026“世界电视日”大视听产业系列活动21日在武汉经开区启幕，行业领军人物、知名学者齐聚一堂，聚焦行业前沿技术趋势与产业机遇，打造立足华中、面向全国、链接海外的视听文化盛会，为大视听产业发展锚定方向。",
+      "published": "2026-11-23T09:43:57+08:00",
+      "abstract": "原标题：韩国各地手机一天内三次警报大作，有人被惊醒，有人误以为战争爆发，三天后韩国教育部长辞职 | 国际早察",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Sessions offer advice on rising energy costs",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+      "title": "锐度·厚度·高度——从三个维度看广东加速从制造大省迈向制造强省",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736334.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-11-23T10:51:29+08:00",
+      "abstract": "记者 王军伟 颜之宏 孟盈如",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "财经",
-      "published": "2026-11-21T20:09:49+08:00",
-      "abstract": "A council is urging people to seek support with rising energy costs on heating this winter.",
+      "published": "2026-11-23T09:05:07+08:00",
+      "abstract": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
       "tier": 1,
+      "also": []
+    },
+    {
+      "title": "“稳市”新政三箭齐发：融资端、成本端、制度端如何协同发力？",
+      "link": "http://forex.eastmoney.com/news/1131,202611233937072792.html",
+      "source": "东方财富",
+      "category": "财经",
+      "published": "2026-11-23T09:45:25+08:00",
+      "abstract": "“稳股市”三项新政同日出炉。 11月22日晚间，稳市组合拳三箭齐发：融资端，融资保证金比例从100%降至80%；成本端，沪深交易所、中国结算集体降费；制度端，创业板将引入做市商制度。 “这些举措直击市场痛点。”中信证券表示，在杠杆资金持续净流出、创业板指大幅调整的背景下，一方面通过降低融资保证金比例释放融资空间、提升市",
+      "tier": 2,
       "also": []
     },
     {
@@ -180,94 +170,96 @@
       ]
     },
     {
-      "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Tech",
       "category": "科技",
-      "published": "2026-11-21T09:00:00+08:00",
-      "abstract": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+      "published": "2026-11-23T08:08:00+08:00",
+      "abstract": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
       "tier": 1,
       "also": []
     },
     {
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "source": "The Verge",
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "source": "Ars Technica",
       "category": "科技",
-      "published": "2026-11-21T15:03:37+08:00",
-      "abstract": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"kil",
+      "published": "2026-11-22T20:07:41+08:00",
+      "abstract": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+      "link": "https://www.qbitai.com/2026/11/511904.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-22T14:21:47+08:00",
+      "abstract": "用葡萄糖发电控制血糖。",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "link": "https://www.qbitai.com/2026/11/511870.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-22T14:03:54+08:00",
+      "abstract": "",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "COP31 fails to agree on climate deal in chaotic finale",
+      "link": "https://phys.org/news/2026-11-cop31-climate-chaotic.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-11-22T18:07:54+08:00",
+      "abstract": "The COP31 climate talks headed for a historic defeat Sunday after the EU and other countries refused to endorse a pact that omitted fossil fuels as the summit l",
       "tier": 2,
       "also": [
-        "NPR World"
+        "BBC World"
       ]
     },
     {
-      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-      "link": "https://www.qbitai.com/2026/11/511779.html",
-      "source": "量子位",
-      "category": "AI",
-      "published": "2026-11-21T14:35:59+08:00",
-      "abstract": "还实现可变形物体操控全球首通",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-      "link": "https://www.qbitai.com/2026/11/511570.html",
-      "source": "量子位",
-      "category": "AI",
-      "published": "2026-11-21T14:32:31+08:00",
-      "abstract": "专为本地部署而生",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
-      "link": "https://www.nature.com/articles/d41586-026-03803-8",
-      "source": "Nature",
+      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+      "source": "ScienceDaily",
       "category": "科学",
-      "published": "2026-11-21T00:00:00+08:00",
-      "abstract": "",
-      "tier": 1,
-      "also": []
+      "published": "2026-11-21T17:53:40+08:00",
+      "abstract": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the ",
+      "tier": 3,
+      "also": [
+        "Ars Technica"
+      ]
     },
     {
-      "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
-      "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
-      "source": "IEEE Spectrum",
-      "category": "科学",
-      "published": "2026-11-20T22:00:03+08:00",
-      "abstract": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news ag",
-      "tier": 2,
-      "also": []
-    },
-    {
-      "title": "邮寄假律师函为境外诈骗铺路 兼职代发为何沦为犯罪一环？",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-22/10735969.shtml",
+      "title": "AI时代 我们需要什么样的科研人才",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736331.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-11-22T10:27:35+08:00",
-      "abstract": "“从来没借过钱，哪来的催款通知？”一通来自外省的报警电话，牵出了一条藏在快递包裹里的犯罪链条。近日，上海闵行警方抓获了两名代发虚假律师函实施诈骗的犯罪嫌疑人。",
+      "published": "2026-11-23T10:44:53+08:00",
+      "abstract": "【“探问AI参与科研的边界”系列报道之六】",
       "tier": 1,
       "also": []
     },
     {
-      "title": "浙江探路综合高中 给成长多留一段“缓冲期”",
-      "link": "https://www.chinanews.com.cn/edu/2026/11-20/10735521.shtml",
+      "title": "两部门：实施数据领域高技能人才集群培养计划",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-23/10736240.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-11-20T20:41:09+08:00",
-      "abstract": "中新网杭州11月20日电 题：浙江探路综合高中 给成长多留一段“缓冲期”",
+      "published": "2026-11-23T08:14:52+08:00",
+      "abstract": "今天，国家数据局、教育部宣布成立全国数据职业教育教学指导委员会，实施数据领域高技能人才集群培养计划等系列行动计划。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "空手道世界杯：中国两支女队首次跻身四强 将争铜牌",
-      "link": "https://www.chinanews.com.cn/ty/2026/11-22/10735932.shtml",
+      "title": "西班牙网球名将阿尔卡拉斯首夺ATP年终总决赛冠军",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-23/10736322.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-11-22T06:06:03+08:00",
-      "abstract": "新华社杭州11月21日电(记者牛梦彤、夏亮)在21日的2026年空手道世界杯比赛中，中国女子团体组手队和女子团体型队均在半决赛中不敌卫冕冠军日本队，无缘决赛。不过，两队首次跻身世界杯四强，实现历史突破，并将于22日分别与西班牙队、伊朗队争夺铜牌。",
+      "published": "2026-11-23T10:46:39+08:00",
+      "abstract": "中新社北京11月23日电 当地时间22日，在意大利都灵进行的2026年男子职业网球选手协会(ATP)年终总决赛单打决赛中，赛会二号种子、西班牙名将阿尔卡拉斯以6:2、7:6(7)战胜世界排名第一、德国名将兹维列夫，职业生涯首次赢得该项赛事冠军。",
       "tier": 1,
       "also": []
     }

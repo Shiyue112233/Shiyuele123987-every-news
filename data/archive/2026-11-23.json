@@ -1,0 +1,267 @@
+{
+  "generated_at": "2026-11-23T10:56:48.049325+08:00",
+  "count": 20,
+  "quote": {
+    "text": "把问题写下来，答案往往就浮现了一半。",
+    "author": "工作手记"
+  },
+  "tool": {
+    "name": "Obsidian",
+    "price": "免费",
+    "category": "知识库",
+    "desc": "本地 Markdown 笔记库，双链把项目、专利、实验记录串成网。",
+    "url": "https://obsidian.md/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 15条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 91条",
+    "创业邦 30条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 35条",
+    "BBC Business 46条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 53条",
+    "DW 中文 50条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [],
+  "items": [
+    {
+      "title": "《“一老一小”服务体系建设实施方案》发布",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736289.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-23T10:03:08+08:00",
+      "abstract": "今天，由国家发展改革委等四部门联合印发的《“一老一小”服务体系建设实施方案》对外公布。《实施方案》围绕“一老一小”服务体系建设提出了哪些目标？",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "各族民众载歌载舞欢庆大理白族自治州成立70周年",
+      "link": "https://www.chinanews.com.cn/tp/2026/11-23/10736326.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-23T10:55:13+08:00",
+      "abstract": "11月22日晚，各族民众在大理市欢聚一堂载歌载舞，共庆云南省大理白族自治州成立70周年。大理白族自治州于1956年11月22日建州，是中国唯一白族自治州，地处云南中部偏西，苍山洱海相伴，汉族、白族、彝族、傈僳族等多个民族在此共居生活。中新社记者 李嘉娴 摄 11月22日晚，各族民众在大理市欢聚一堂载歌载舞，共庆云南省大",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "金价震荡回调，黄金挂钩理财“退烧”？",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736337.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-23T10:54:23+08:00",
+      "abstract": "金价震荡回调，黄金挂钩理财“退烧”？新发节奏放缓，部分产品净值承压",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-11-23T09:23:43+08:00",
+      "abstract": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-23T10:01:42+08:00",
+      "abstract": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+      "tier": 1,
+      "also": [
+        "France24"
+      ]
+    },
+    {
+      "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+      "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-23T05:33:44+08:00",
+      "abstract": "<p>No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia</p><p>A Russian warship docked in the Libyan port ",
+      "tier": 1,
+      "also": [
+        "BBC World",
+        "France24"
+      ]
+    },
+    {
+      "title": "韩国各地手机一天内三次警报大作，三天后韩国教育部长辞职",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736272.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-11-23T09:43:57+08:00",
+      "abstract": "原标题：韩国各地手机一天内三次警报大作，有人被惊醒，有人误以为战争爆发，三天后韩国教育部长辞职 | 国际早察",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "锐度·厚度·高度——从三个维度看广东加速从制造大省迈向制造强省",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736334.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-11-23T10:51:29+08:00",
+      "abstract": "记者 王军伟 颜之宏 孟盈如",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-23T09:05:07+08:00",
+      "abstract": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "“稳市”新政三箭齐发：融资端、成本端、制度端如何协同发力？",
+      "link": "http://forex.eastmoney.com/news/1131,202611233937072792.html",
+      "source": "东方财富",
+      "category": "财经",
+      "published": "2026-11-23T09:45:25+08:00",
+      "abstract": "“稳股市”三项新政同日出炉。 11月22日晚间，稳市组合拳三箭齐发：融资端，融资保证金比例从100%降至80%；成本端，沪深交易所、中国结算集体降费；制度端，创业板将引入做市商制度。 “这些举措直击市场痛点。”中信证券表示，在杠杆资金持续净流出、创业板指大幅调整的背景下，一方面通过降低融资保证金比例释放融资空间、提升市",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "GTA 6 首日销售额达到创纪录的 37.9 亿美元",
+      "link": "https://www.solidot.org/story?sid=85951",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-21T18:48:33+08:00",
+      "abstract": "GTA 6 开发商 Rockstar Games 母公司 Take-Two Interactive 披露，游戏的预购加上首日销售额达到创纪录的了 37.9 亿美元。这是娱乐产品历史上金额最高的首日收入，超过了《复仇者联盟 4：终局之战》的全球总票房 29 亿美元。Take-Two 未公布游戏具体的销售数量。GTA 6 ",
+      "tier": 2,
+      "also": [
+        "极客公园"
+      ]
+    },
+    {
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "category": "科技",
+      "published": "2026-11-23T08:08:00+08:00",
+      "abstract": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-11-22T20:07:41+08:00",
+      "abstract": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+      "link": "https://www.qbitai.com/2026/11/511904.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-22T14:21:47+08:00",
+      "abstract": "用葡萄糖发电控制血糖。",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "link": "https://www.qbitai.com/2026/11/511870.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-22T14:03:54+08:00",
+      "abstract": "",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "COP31 fails to agree on climate deal in chaotic finale",
+      "link": "https://phys.org/news/2026-11-cop31-climate-chaotic.html",
+      "source": "Phys.org",
+      "category": "科学",
+      "published": "2026-11-22T18:07:54+08:00",
+      "abstract": "The COP31 climate talks headed for a historic defeat Sunday after the EU and other countries refused to endorse a pact that omitted fossil fuels as the summit l",
+      "tier": 2,
+      "also": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+      "source": "ScienceDaily",
+      "category": "科学",
+      "published": "2026-11-21T17:53:40+08:00",
+      "abstract": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the ",
+      "tier": 3,
+      "also": [
+        "Ars Technica"
+      ]
+    },
+    {
+      "title": "AI时代 我们需要什么样的科研人才",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-23/10736331.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-11-23T10:44:53+08:00",
+      "abstract": "【“探问AI参与科研的边界”系列报道之六】",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "两部门：实施数据领域高技能人才集群培养计划",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-23/10736240.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-11-23T08:14:52+08:00",
+      "abstract": "今天，国家数据局、教育部宣布成立全国数据职业教育教学指导委员会，实施数据领域高技能人才集群培养计划等系列行动计划。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "西班牙网球名将阿尔卡拉斯首夺ATP年终总决赛冠军",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-23/10736322.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-11-23T10:46:39+08:00",
+      "abstract": "中新社北京11月23日电 当地时间22日，在意大利都灵进行的2026年男子职业网球选手协会(ATP)年终总决赛单打决赛中，赛会二号种子、西班牙名将阿尔卡拉斯以6:2、7:6(7)战胜世界排名第一、德国名将兹维列夫，职业生涯首次赢得该项赛事冠军。",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}
