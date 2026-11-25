@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-24T14:14:46.568257+08:00",
+  "generated_at": "2026-11-25T12:58:05.641541+08:00",
   "count": 20,
   "quote": {
-    "text": "别急着反驳，先确认你们说的是不是同一件事。",
-    "author": "沟通原则"
+    "text": "长期主义不是等得久，而是每天都往前走一点。",
+    "author": "工作手记"
   },
   "tool": {
-    "name": "Snipaste",
+    "name": "Everything + QuickLook",
     "price": "免费",
-    "category": "截图贴图",
-    "desc": "截图后把图钉在屏幕上，对着图表写记录、核对数据极方便。",
-    "url": "https://www.snipaste.com/"
+    "category": "文件预览",
+    "desc": "空格键直接预览 PDF/表格/图片，不必打开大软件。",
+    "url": "https://github.com/QL-Win/QuickLook"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 13条",
+    "中新网·教育 7条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 93条",
+    "东方财富 99条",
     "创业邦 30条",
     "Solidot 奇客 20条",
     "极客公园 30条",
@@ -28,12 +28,12 @@
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 22条",
-    "BBC Business 56条",
+    "BBC World 37条",
+    "BBC Business 49条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
-    "纽约时报·国际 51条",
-    "DW 中文 49条",
+    "纽约时报·国际 57条",
+    "DW 中文 58条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,242 +49,234 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "民主党人：将“动用全部权力”调查黄仁勋、特朗普",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-24/10736880.shtml",
+      "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737456.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-24T12:27:38+08:00",
-      "abstract": "中新网11月24日电 综合报道，英伟达公司23日宣布黄仁勋复职后，美国民主党多名参议员就此发声质疑。纽约州民主党参议员、参议院少数党领袖查克·舒默当天在社交媒体上表示，民主党将在2027年掌控国会后，“动用全部权力”调查特朗普政府、黄仁勋、其他英伟达高管以及任何为经济利益“出卖国家安全”的人的不当行为。",
+      "published": "2026-11-25T12:04:32+08:00",
+      "abstract": "中新网酒泉11月25日电 (记者 马帅莎)据中国载人航天工程办公室消息，神舟二十四号载人飞船入轨后，于北京时间11月25日11时56分，成功对接于空间站天和核心舱前向端口，整个对接过程历时约3.5小时。",
       "tier": 1,
       "also": [
+        "ZOL 科技",
+        "东方财富",
         "界面新闻"
       ]
     },
     {
-      "title": "自然资源部规范临时用地管理 促有效投资加快落地",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736919.shtml",
+      "title": "神舟二十四号载人飞船成功对接于空间站天和核心舱前向端口",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737454.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-24T14:09:22+08:00",
-      "abstract": "中新网北京11月24日电 (记者 庞无忌)记者24日获悉，自然资源部近日印发《关于规范临时用地管理的通知》(以下简称《通知》)，整合优化临时用地管理政策，进一步明确适用范围、使用期限和复垦责任等，并通过拓宽继续使用政策、推行联动审批等举措，降低企业用地时间和资金成本，为工程建设、地质勘查项目提供更高效的用地保障。",
+      "published": "2026-11-25T12:02:22+08:00",
+      "abstract": "新华社快讯：神舟二十四号载人飞船成功对接于空间站天和核心舱前向端口。",
       "tier": 1,
-      "also": []
+      "also": [
+        "ZOL 科技",
+        "东方财富",
+        "界面新闻"
+      ]
     },
     {
-      "title": "（机遇香港）港企“超级中国干线”服务拓展 赋能越南货源远航",
-      "link": "https://www.chinanews.com.cn/dwq/2026/11-24/10736911.shtml",
+      "title": "神舟二十四号载人飞船：“数智指挥官”上岗，助力推进舱总装",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737425.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-24T14:09:02+08:00",
-      "abstract": "中新社香港11月24日电 (记者 赵静怡)日前在香港举办的第16届亚洲物流航运及空运会议上，“越桂港陆空超级物流通道”宣布建立。香港空运货站旗下香港空运服务有限公司的“超级中国干线”延伸至越南，越南货物可经广西运抵香港，再转运至世界各地。业界认为，越南市场具有一定货运潜力，相关服务有望为香港国际航空货运带来新的货源。",
+      "published": "2026-11-25T11:27:36+08:00",
+      "abstract": "中新网上海11月25日电 (郑莹莹 马帅莎 范文超)北京时间11月25日8时18分，搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射。",
       "tier": 1,
-      "also": []
+      "also": [
+        "ZOL 科技",
+        "东方财富"
+      ]
     },
     {
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-11-24T12:36:31+08:00",
-      "abstract": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "published": "2026-11-25T12:49:55+08:00",
+      "abstract": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
       "tier": 1,
       "also": [
-        "Ars Technica",
-        "France24",
-        "TechCrunch",
-        "The Guardian·World",
-        "The Verge"
-      ]
-    },
-    {
-      "title": "The Return of Jensen Huang",
-      "link": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
-      "source": "纽约时报·国际",
-      "category": "国际",
-      "published": "2026-11-24T13:44:37+08:00",
-      "abstract": "The Nvidia C.E.O. is back, President Trump is celebrating and markets are rallying.",
-      "tier": 1,
-      "also": [
-        "Al Jazeera",
-        "BBC Business",
-        "BBC World",
-        "France24",
-        "TechCrunch"
-      ]
-    },
-    {
-      "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – as it happened",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-      "source": "The Guardian·World",
-      "category": "国际",
-      "published": "2026-11-24T11:04:41+08:00",
-      "abstract": "<p>This live blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive\">Je",
-      "tier": 1,
-      "also": [
-        "BBC Business",
-        "BBC Tech",
-        "BBC World",
-        "France24",
-        "TechCrunch",
-        "The Verge"
-      ]
-    },
-    {
-      "title": "UN chief calls for world to agree on AI oversight within a year",
-      "link": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "国际",
-      "published": "2026-11-24T10:27:19+08:00",
-      "abstract": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
-      "tier": 2,
-      "also": [
-        "France24"
-      ]
-    },
-    {
-      "title": "在一起，向未来：鸿蒙操作系统终端设备数突破1亿",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-24/10736865.shtml",
-      "source": "中新网·财经",
-      "category": "财经",
-      "published": "2026-11-24T11:38:32+08:00",
-      "abstract": "2026年11月，华为宣布搭载HarmonyOS5/6/7的手机、平板和电脑设备，已经正式突破一个亿，可获取的应用和服务超46万，注册开发者超1200万。这标志着鸿蒙生态跨越规模临界点，已融入日常生活，深入千行百业，进入发展新阶段。这是由众多合作伙伴、开发者协同攻坚和集体冲锋的结果，他们将中国互联网的应用创新、用户服务",
-      "tier": 1,
-      "also": [
-        "界面新闻"
-      ]
-    },
-    {
-      "title": "神舟二十四明日发射！商业航天板块走强 机构预测高增股来了",
-      "link": "http://finance.eastmoney.com/news/11139,202611243938313010.html",
-      "source": "东方财富",
-      "category": "财经",
-      "published": "2026-11-24T12:07:36+08:00",
-      "abstract": "商业航天概念11月24日早盘表现强势，板块中飞亚达、魅视科技、中京电子涨停；银禧科技、东华测试、新雷能涨超10%；鹿山新材、本川智能、泰嘉股份等跟涨。 神舟二十四即将发射 消息面上，新华社11月24日报道，神舟二十四号载人飞船瞄准11月25日8时18分发射，飞船入轨后将优先采用3.5小时自主快速交会对接策略，与空间站形",
-      "tier": 2,
-      "also": [
-        "界面新闻"
-      ]
-    },
-    {
-      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
-      "link": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "财经",
-      "published": "2026-11-24T05:40:30+08:00",
-      "abstract": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
-      "tier": 1,
-      "also": [
-        "France24",
-        "TechCrunch",
-        "The Verge"
-      ]
-    },
-    {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Tech",
-      "category": "科技",
-      "published": "2026-11-24T07:16:08+08:00",
-      "abstract": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "tier": 1,
-      "also": [
-        "Al Jazeera",
-        "TechCrunch",
         "The Guardian·World"
       ]
     },
     {
-      "title": "英伟达重新任命黄仁勋为 CEO",
-      "link": "https://www.solidot.org/story?sid=85969",
-      "source": "Solidot 奇客",
-      "category": "科技",
-      "published": "2026-11-23T22:30:59+08:00",
-      "abstract": "仅仅过了 10 天，英伟达宣布重新任命黄仁勋为总裁兼 CEO，重返董事会。董事会主席 Harvey C. Jones 在声明中称，董事会认为黄仁勋是领导英伟达的合适人选，他的复职符合股东、员工、合作伙伴和客户的最大利益。我们对黄仁勋充满信心，期待在他重掌公司领导权后与他携手共事。我们还要感谢 Colette Kress",
-      "tier": 2,
+      "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-25T12:31:18+08:00",
+      "abstract": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord p",
+      "tier": 1,
       "also": [
-        "东方财富",
-        "极客公园"
+        "The Guardian·World"
       ]
     },
     {
-      "title": "黄仁勋重返英伟达，市值涨31.48%；马斯克：AI 研发落后对手，出租算力比自研更赚钱；新一代 AI 模型更爱「爆粗口」",
-      "link": "http://www.geekpark.net/news/374375",
-      "source": "极客公园",
-      "category": "科技",
-      "published": "2026-11-24T08:28:30+08:00",
-      "abstract": "黄仁勋重返英伟达 黄仁勋在美国当地时间 11 月 23 日重返英伟达总部，现场员工聚集在大厅高声欢呼，迎接这位创办人回归。黄仁勋在现场表示：「感谢大家给我第二次机会，接下来我一定会成为更优秀的 CEO」。 「我很荣幸能重返英伟达，并在新一轮工业革命伊始领导这家全球最具影响力的科技公司之一，」黄仁勋表示。 「我将以最大的",
-      "tier": 2,
+      "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+      "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-25T11:57:11+08:00",
+      "abstract": "<p>Abelardo de la Espriella to take control of an operation involving scores of security personnel trying to free at least 20 hostages</p><p>Colombia’s presiden",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "美媒：黄仁勋向英伟达全体员工致歉 称正接受心理治疗",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737284.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-11-25T07:01:37+08:00",
+      "abstract": "中新网11月25日电 据美国有线电视新闻网(CNN)援引知情人士报道，当地时间24日，黄仁勋在长达1小时的英伟达全体员工会议上，向员工致歉。",
+      "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-      "link": "https://www.qbitai.com/2026/11/512329.html",
-      "source": "量子位",
-      "category": "AI",
-      "published": "2026-11-24T11:33:48+08:00",
-      "abstract": "12.9 北京，来MEET2027现场",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-25T10:59:27+08:00",
+      "abstract": "The verdict follows a months-long trial in New York.",
+      "tier": 1,
+      "also": [
+        "Al Jazeera",
+        "France24",
+        "The Verge"
+      ]
+    },
+    {
+      "title": "11月25日央行开展6170亿元隔夜逆回购操作",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737327.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-11-25T10:06:19+08:00",
+      "abstract": "中新网11月25日电 2026年11月25日中国人民银行以固定利率、数量招标方式开展了6170亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "因黄仁勋辞职而出走的工程师后悔了：愿意考虑重回英伟达",
+      "link": "https://www.jiemian.com/article/15371456.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-11-25T12:20:59+08:00",
+      "abstract": "该工程师表示，自己先前的做法可能“太仓促了”。",
+      "tier": 2,
+      "also": [
+        "开源中国"
+      ]
+    },
+    {
+      "title": "神舟二十四号计划 25 日 8 时发射",
+      "link": "https://www.solidot.org/story?sid=85977",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-24T18:24:21+08:00",
+      "abstract": "中国载人航天工程办公室星期二（11月24日）宣布，神舟二十四号计划于星期三（11月25日）早上8时18分发射。航天员乘组由汤洪波（指令长）、武毅以及巴基斯坦航天员穆罕默德·齐尚·阿里（载荷专家）组成。其中巴基斯坦航天员穆罕默德·齐尚·阿里（Muhammad Zeeshan Ali）将成为首位到访中国天宫空间站的外籍航天",
+      "tier": 2,
+      "also": [
+        "ZOL 科技",
+        "东方财富"
+      ]
+    },
+    {
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-11-25T01:34:34+08:00",
+      "abstract": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "tier": 2,
+      "also": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道",
+      "link": "http://www.geekpark.net/news/374438",
+      "source": "极客公园",
+      "category": "科技",
+      "published": "2026-11-25T08:44:18+08:00",
+      "abstract": "豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个",
       "tier": 2,
       "also": []
     },
     {
-      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-      "link": "https://www.qbitai.com/2026/11/512330.html",
+      "title": "Google Cloud 出海峰会报名开启",
+      "link": "https://www.qbitai.com/2026/11/512370.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-11-24T11:30:46+08:00",
-      "abstract": "中国AI数据平台加速崛起",
+      "published": "2026-11-24T14:52:29+08:00",
+      "abstract": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
       "tier": 2,
       "also": []
     },
     {
-      "title": "Hexa-substituted benzene synthesis with non-classical carbocations",
-      "link": "https://www.nature.com/articles/s41586-026-11449-9",
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "link": "https://www.qbitai.com/2026/11/512362.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-24T14:35:06+08:00",
+      "abstract": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Fight AI slop without punishing legitimate researchers",
+      "link": "https://www.nature.com/articles/d41586-026-03824-3",
       "source": "Nature",
       "category": "科学",
-      "published": "2026-11-23T00:00:00+08:00",
+      "published": "2026-11-24T00:00:00+08:00",
       "abstract": "",
       "tier": 1,
       "also": []
     },
     {
-      "title": "Learn How 5G NTN Architecture, Mobility, and Testing Shape 6G",
-      "link": "https://content.knowledgehub.wiley.com/5g-ntn-takes-flight-a-deep-dive-into-nr-ntn-technology-and-testing-aspects/",
+      "title": "Mitsubishi Electric Research Lab CEO on How He Reached the C-Suite",
+      "link": "https://spectrum.ieee.org/mitsubishi-electric-research-lab-ceo",
       "source": "IEEE Spectrum",
       "category": "科学",
-      "published": "2026-11-23T22:08:53+08:00",
-      "abstract": "What you will learn about: How 3GPP standards from Release 15 to Release 19 built the foundation of NR-NTN, and why NTN extends 5G coverage to oceans, rural reg",
+      "published": "2026-11-25T03:00:01+08:00",
+      "abstract": "The trajectory from researcher to top executive at a leading R&D organization doesn’t happen overnight. It took Anthony Vetro nearly 30 years to climb the corpo",
       "tier": 2,
       "also": []
     },
     {
-      "title": "“猫鸟之争”的背后：一座城市如何安放流浪猫？",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736921.shtml",
+      "title": "会“拐弯”的指路牌，越多越好",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737440.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-11-24T14:14:12+08:00",
-      "abstract": "11月初，成都浣花溪公园里，流浪猫捕鸟的画面，撕开了一道爱心与生态之间的微妙裂痕。爱猫者投喂护猫，观鸟者忧心迁徙落脚的鸟儿，这场“猫鸟之争”，背后是困扰很多城市的流浪猫治理难题。",
+      "published": "2026-11-25T11:53:01+08:00",
+      "abstract": "会“拐弯”的指路牌，越多越好(民生观)",
       "tier": 1,
       "also": []
     },
     {
-      "title": "为了明年少些“毛毛虫” 北京大学生冬季忙挖蛹",
-      "link": "https://www.chinanews.com.cn/edu/2026/11-24/10736825.shtml",
+      "title": "湖南农业大学成立中药资源学院 拓展园艺学科发展新赛道",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-25/10737375.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-11-24T10:28:16+08:00",
-      "abstract": "课堂搬到田野",
+      "published": "2026-11-25T11:17:09+08:00",
+      "abstract": "中新网长沙11月25日电(庹炼)24日，湖南农业大学中药资源学院揭牌成立。这是湖南农业大学服务国家种业振兴与中医药强省战略的重要举措，旨在推动园艺学科从“茶蔬果花药”传统边界向食药同源和大健康产业等国家重大需求延伸布局，培育园艺学科新增长点，助力学校“双一流”建设。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "补时被绝平，U17男足世界杯中国队2比2摩洛哥队",
-      "link": "https://www.chinanews.com.cn/ty/2026/11-24/10736889.shtml",
+      "title": "福建第十二届老健会三明开幕 银发体育盛会创历届之最",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-25/10737428.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-11-24T13:29:36+08:00",
-      "abstract": "中新网北京11月24日电(记者 刘星晨)当地时间23日，在2026年卡塔尔U17男足世界杯(世少赛)H组第二轮比赛中，中国队凭借赵松源的两粒进球一度2:0领先劲旅摩洛哥队，但在补时读秒阶段被对手扳平。比赛以2:2收官。这是国字号男足时隔21年再次在世界杯赛场取得进球并收获积分。",
+      "published": "2026-11-25T11:34:06+08:00",
+      "abstract": "中新网三明11月25日电 (雷朝良)福建省第十二届老年人体育健身大会24日在三明市开幕。本届大会以“欢乐老健会幸福新时代”为主题，坚持与省运会“同标同向、同样精彩、同样圆满”，高标准打造老年友好型特色赛事体系，生动展现新时代八闽老年人健康向上、老有所乐的精神风貌。",
       "tier": 1,
       "also": []
     }
