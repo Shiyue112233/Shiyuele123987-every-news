@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-25T12:58:05.641541+08:00",
+  "generated_at": "2026-11-26T12:15:30.278526+08:00",
   "count": 20,
   "quote": {
-    "text": "长期主义不是等得久，而是每天都往前走一点。",
-    "author": "工作手记"
+    "text": "标准定得清楚，执行才不会走样。",
+    "author": "工程手记"
   },
   "tool": {
-    "name": "Everything + QuickLook",
+    "name": "7-Zip / NanaZip",
     "price": "免费",
-    "category": "文件预览",
-    "desc": "空格键直接预览 PDF/表格/图片，不必打开大软件。",
-    "url": "https://github.com/QL-Win/QuickLook"
+    "category": "压缩",
+    "desc": "无广告、支持 7z，压缩率高，长期归档首选。",
+    "url": "https://www.7-zip.org/"
   },
   "sources_ok": [
     "中新网·滚动 30条",
     "中新网·国际 30条",
     "中新网·财经 30条",
     "中新网·社会 30条",
-    "中新网·教育 7条",
+    "中新网·教育 11条",
     "中新网·体育 30条",
     "界面新闻 30条",
-    "东方财富 99条",
+    "东方财富 93条",
     "创业邦 30条",
     "Solidot 奇客 20条",
     "极客公园 30条",
@@ -28,12 +28,12 @@
     "开源中国 50条",
     "ZOL 科技 100条",
     "量子位 10条",
-    "BBC World 37条",
-    "BBC Business 49条",
+    "BBC World 30条",
+    "BBC Business 50条",
     "BBC Tech 21条",
     "The Guardian·World 45条",
-    "纽约时报·国际 57条",
-    "DW 中文 58条",
+    "纽约时报·国际 58条",
+    "DW 中文 57条",
     "Al Jazeera 25条",
     "France24 24条",
     "NPR World 10条",
@@ -49,193 +49,184 @@
   "sources_failed": [],
   "items": [
     {
-      "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737456.shtml",
+      "title": "中国提出到2030年建成覆盖完善、性能领先的新一代通信网",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-26/10738003.shtml",
       "source": "中新网·滚动",
       "category": "要闻",
-      "published": "2026-11-25T12:04:32+08:00",
-      "abstract": "中新网酒泉11月25日电 (记者 马帅莎)据中国载人航天工程办公室消息，神舟二十四号载人飞船入轨后，于北京时间11月25日11时56分，成功对接于空间站天和核心舱前向端口，整个对接过程历时约3.5小时。",
+      "published": "2026-11-26T11:52:00+08:00",
+      "abstract": "中新社北京11月26日电 (记者 刘亮)中国工信部26日公布，经国务院同意，工信部联合国家网信办、国家发改委近日印发《新一代通信网建设实施方案》，提出到2030年，建成覆盖完善、性能领先的新一代通信网。",
       "tier": 1,
       "also": [
-        "ZOL 科技",
-        "东方财富",
-        "界面新闻"
-      ]
-    },
-    {
-      "title": "神舟二十四号载人飞船成功对接于空间站天和核心舱前向端口",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737454.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-11-25T12:02:22+08:00",
-      "abstract": "新华社快讯：神舟二十四号载人飞船成功对接于空间站天和核心舱前向端口。",
-      "tier": 1,
-      "also": [
-        "ZOL 科技",
-        "东方财富",
-        "界面新闻"
-      ]
-    },
-    {
-      "title": "神舟二十四号载人飞船：“数智指挥官”上岗，助力推进舱总装",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737425.shtml",
-      "source": "中新网·滚动",
-      "category": "要闻",
-      "published": "2026-11-25T11:27:36+08:00",
-      "abstract": "中新网上海11月25日电 (郑莹莹 马帅莎 范文超)北京时间11月25日8时18分，搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射。",
-      "tier": 1,
-      "also": [
-        "ZOL 科技",
         "东方财富"
       ]
     },
     {
-      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-      "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "title": "商务部就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-26/10737998.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-26T11:40:59+08:00",
+      "abstract": "中新网11月26日电 据商务部网站消息，11月26日，商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "中国牵头制定！这一国际标准成30余个欧洲国家重要技术参考",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-26/10738006.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-26T11:59:00+08:00",
+      "abstract": "记者今天从国家数据局了解到，由我国专家牵头制定的人工智能训练数据质量国际标准(ISO/IEC 5259-4:2024)已被欧洲相关机构采纳，成为30余个欧洲国家人工智能合规评估的重要技术参考，将应用于人工智能训练数据采集、标注、质量判断等环节。我国在人工智能国际规则制定中持续发挥重要作用。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "US announces new tariffs on host of countries including China",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "国际",
-      "published": "2026-11-25T12:49:55+08:00",
-      "abstract": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+      "published": "2026-11-26T12:10:58+08:00",
+      "abstract": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
       "tier": 1,
       "also": [
-        "The Guardian·World"
+        "France24"
       ]
     },
     {
-      "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
-      "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-      "source": "纽约时报·国际",
-      "category": "国际",
-      "published": "2026-11-25T12:31:18+08:00",
-      "abstract": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord p",
-      "tier": 1,
-      "also": [
-        "The Guardian·World"
-      ]
-    },
-    {
-      "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
-      "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+      "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+      "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
       "source": "The Guardian·World",
       "category": "国际",
-      "published": "2026-11-25T11:57:11+08:00",
-      "abstract": "<p>Abelardo de la Espriella to take control of an operation involving scores of security personnel trying to free at least 20 hostages</p><p>Colombia’s presiden",
+      "published": "2026-11-26T08:39:10+08:00",
+      "abstract": "<p>Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred</p><p>A crash involving a fuel tanker igni",
       "tier": 1,
       "also": [
-        "Al Jazeera"
+        "BBC World",
+        "France24"
       ]
     },
     {
-      "title": "美媒：黄仁勋向英伟达全体员工致歉 称正接受心理治疗",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737284.shtml",
+      "title": "美国第三季度经济增长率上修至4.3% 好于市场预期",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737875.shtml",
       "source": "中新网·国际",
       "category": "国际",
-      "published": "2026-11-25T07:01:37+08:00",
-      "abstract": "中新网11月25日电 据美国有线电视新闻网(CNN)援引知情人士报道，当地时间24日，黄仁勋在长达1小时的英伟达全体员工会议上，向员工致歉。",
+      "published": "2026-11-26T08:21:00+08:00",
+      "abstract": "中新社华盛顿11月25日电(记者 沙晗汀)美国商务部当地时间25日公布的修正数据显示，今年第三季度美国实际国内生产总值(GDP)环比按年率计算增长4.3%，较首次预估数据上修0.9个百分点，好于市场普遍预期。",
       "tier": 1,
       "also": [
         "东方财富"
       ]
     },
     {
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "财经",
-      "published": "2026-11-25T10:59:27+08:00",
-      "abstract": "The verdict follows a months-long trial in New York.",
+      "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
+      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-26T04:45:09+08:00",
+      "abstract": "Prime Minister Benjamin Netanyahu is accused of bribery, fraud and breach of trust in a long-running trial that has divided the country. He denies all wrongdoin",
       "tier": 1,
       "also": [
         "Al Jazeera",
+        "BBC World"
+      ]
+    },
+    {
+      "title": "业绩刚回暖，水井坊总经理上任不足半年离职",
+      "link": "https://www.jiemian.com/article/15376483.html",
+      "source": "界面新闻",
+      "category": "财经",
+      "published": "2026-11-26T12:04:08+08:00",
+      "abstract": "经营修复再迎考验。",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-26T08:07:51+08:00",
+      "abstract": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "tier": 1,
+      "also": [
+        "Ars Technica",
         "France24",
+        "TechCrunch",
         "The Verge"
       ]
     },
     {
-      "title": "11月25日央行开展6170亿元隔夜逆回购操作",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737327.shtml",
-      "source": "中新网·财经",
-      "category": "财经",
-      "published": "2026-11-25T10:06:19+08:00",
-      "abstract": "中新网11月25日电 2026年11月25日中国人民银行以固定利率、数量招标方式开展了6170亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
-      "tier": 1,
-      "also": [
-        "东方财富"
-      ]
-    },
-    {
-      "title": "因黄仁勋辞职而出走的工程师后悔了：愿意考虑重回英伟达",
-      "link": "https://www.jiemian.com/article/15371456.html",
+      "title": "蔡磊发文回应“病情进入终末期”",
+      "link": "https://www.jiemian.com/article/15376676.html",
       "source": "界面新闻",
       "category": "财经",
-      "published": "2026-11-25T12:20:59+08:00",
-      "abstract": "该工程师表示，自己先前的做法可能“太仓促了”。",
+      "published": "2026-11-26T12:02:18+08:00",
+      "abstract": "",
       "tier": 2,
+      "also": []
+    },
+    {
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "category": "科技",
+      "published": "2026-11-25T18:52:09+08:00",
+      "abstract": "The verdict follows a months-long trial in New York.",
+      "tier": 1,
       "also": [
-        "开源中国"
+        "Ars Technica"
       ]
     },
     {
-      "title": "神舟二十四号计划 25 日 8 时发射",
-      "link": "https://www.solidot.org/story?sid=85977",
+      "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
+      "link": "https://www.solidot.org/story?sid=85992",
       "source": "Solidot 奇客",
       "category": "科技",
-      "published": "2026-11-24T18:24:21+08:00",
-      "abstract": "中国载人航天工程办公室星期二（11月24日）宣布，神舟二十四号计划于星期三（11月25日）早上8时18分发射。航天员乘组由汤洪波（指令长）、武毅以及巴基斯坦航天员穆罕默德·齐尚·阿里（载荷专家）组成。其中巴基斯坦航天员穆罕默德·齐尚·阿里（Muhammad Zeeshan Ali）将成为首位到访中国天宫空间站的外籍航天",
+      "published": "2026-11-25T23:26:31+08:00",
+      "abstract": "AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。他让分析程序运行了整晚，第二天对结果非常吃惊。Anthropic 最新版本的Claude 表现不仅优于其它大模型，而且超过了针对蛋白质序列训练",
       "tier": 2,
       "also": [
-        "ZOL 科技",
-        "东方财富"
+        "Nature"
       ]
     },
     {
-      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-      "source": "Ars Technica",
-      "category": "科技",
-      "published": "2026-11-25T01:34:34+08:00",
-      "abstract": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
-      "tier": 2,
-      "also": [
-        "TechCrunch"
-      ]
-    },
-    {
-      "title": "豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道",
-      "link": "http://www.geekpark.net/news/374438",
+      "title": "黄仁勋复职后首次主持全员大会：向员工道歉；iPhone Duo 零部件成本创历代 iPhone 新高；Anthropic 跌破发行价｜极客早知道",
+      "link": "http://www.geekpark.net/news/374500",
       "source": "极客公园",
       "category": "科技",
-      "published": "2026-11-25T08:44:18+08:00",
-      "abstract": "豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个",
+      "published": "2026-11-26T08:19:57+08:00",
+      "abstract": "黄仁勋复职后首次主持全员大会：向员工道歉，称将调整管理方式 当地时间 11 月 24 日，英伟达 CEO 黄仁勋在复职后首次召开的公司全员大会上向员工道歉，承认自己违反了公司行为准则，并表示已经开始接受每日一个半小时的心理治疗。 他称自己犯下了「非常严重的个人错误」，伤害了家人，也辜负了员工，并感谢公司董事会给予自己第",
       "tier": 2,
       "also": []
     },
     {
-      "title": "Google Cloud 出海峰会报名开启",
-      "link": "https://www.qbitai.com/2026/11/512370.html",
+      "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+      "link": "https://www.qbitai.com/2026/11/512828.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-11-24T14:52:29+08:00",
-      "abstract": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
+      "published": "2026-11-26T10:53:14+08:00",
+      "abstract": "叠满海淀最强AI Buff。",
       "tier": 2,
       "also": []
     },
     {
-      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-      "link": "https://www.qbitai.com/2026/11/512362.html",
+      "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+      "link": "https://www.qbitai.com/2026/11/512819.html",
       "source": "量子位",
       "category": "AI",
-      "published": "2026-11-24T14:35:06+08:00",
-      "abstract": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+      "published": "2026-11-26T08:40:37+08:00",
+      "abstract": "合着全让A➗揽了",
       "tier": 2,
       "also": []
     },
     {
-      "title": "Fight AI slop without punishing legitimate researchers",
-      "link": "https://www.nature.com/articles/d41586-026-03824-3",
+      "title": "The leading cities in the world for high-quality research in 2025",
+      "link": "https://www.nature.com/articles/d41586-026-03468-3",
       "source": "Nature",
       "category": "科学",
-      "published": "2026-11-24T00:00:00+08:00",
+      "published": "2026-11-25T00:00:00+08:00",
       "abstract": "",
       "tier": 1,
       "also": []
@@ -251,32 +242,32 @@
       "also": []
     },
     {
-      "title": "会“拐弯”的指路牌，越多越好",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737440.shtml",
+      "title": "从雪域高原来到山城 西藏芒康青少年组团来渝 “走亲”",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-26/10738002.shtml",
       "source": "中新网·社会",
       "category": "社会",
-      "published": "2026-11-25T11:53:01+08:00",
-      "abstract": "会“拐弯”的指路牌，越多越好(民生观)",
+      "published": "2026-11-26T11:48:43+08:00",
+      "abstract": "中新网重庆11月26日电 (梁钦卿)渝芒携手赴山城，石榴花开少年行。“渝芒走亲·山水相连”2026年芒康青少年走进重庆研学实践“三交”(交往、交流、交融)活动25日在重庆市两江新区龙兴实验小学校启动，来自西藏芒康的近40名青少年开启山城研学实践之旅。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "湖南农业大学成立中药资源学院 拓展园艺学科发展新赛道",
-      "link": "https://www.chinanews.com.cn/edu/2026/11-25/10737375.shtml",
+      "title": "广东中小学卫生与健康教育授课比赛在汕头举行",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-26/10737999.shtml",
       "source": "中新网·教育",
       "category": "教育",
-      "published": "2026-11-25T11:17:09+08:00",
-      "abstract": "中新网长沙11月25日电(庹炼)24日，湖南农业大学中药资源学院揭牌成立。这是湖南农业大学服务国家种业振兴与中医药强省战略的重要举措，旨在推动园艺学科从“茶蔬果花药”传统边界向食药同源和大健康产业等国家重大需求延伸布局，培育园艺学科新增长点，助力学校“双一流”建设。",
+      "published": "2026-11-26T11:48:05+08:00",
+      "abstract": "中新网广东汕头11月26日电(李怡青 林大森)2026年广东省中小学卫生与健康教育授课比赛和学校卫生专业技术人员技能比赛26日在广东汕头开幕。经过广东各地市层层选拔，21个地市及省属学校的130名健康教师、校医同台展开角逐。",
       "tier": 1,
       "also": []
     },
     {
-      "title": "福建第十二届老健会三明开幕 银发体育盛会创历届之最",
-      "link": "https://www.chinanews.com.cn/ty/2026/11-25/10737428.shtml",
+      "title": "全国青少年足球训练工作会议在北京召开",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-26/10738000.shtml",
       "source": "中新网·体育",
       "category": "体育",
-      "published": "2026-11-25T11:34:06+08:00",
-      "abstract": "中新网三明11月25日电 (雷朝良)福建省第十二届老年人体育健身大会24日在三明市开幕。本届大会以“欢乐老健会幸福新时代”为主题，坚持与省运会“同标同向、同样精彩、同样圆满”，高标准打造老年友好型特色赛事体系，生动展现新时代八闽老年人健康向上、老有所乐的精神风貌。",
+      "published": "2026-11-26T11:49:28+08:00",
+      "abstract": "中新网北京11月26日电 2026年全国青少年足球训练工作会议近日在北京召开。国家体育总局副局长、中国足协党委书记张家胜出席会议并讲话，中国足协主席宋凯参加会议并作总结发言，中国足协副主席万建斌主持会议。",
       "tier": 1,
       "also": []
     }
