@@ -1,0 +1,278 @@
+{
+  "generated_at": "2026-11-28T12:04:00.868908+08:00",
+  "count": 20,
+  "quote": {
+    "text": "看得远的人，容得下当下的慢。",
+    "author": "工作手记"
+  },
+  "tool": {
+    "name": "Pandoc",
+    "price": "免费",
+    "category": "文档转换",
+    "desc": "Markdown 一键转 Word/PPT/PDF，报告与专利交底书复用同一份源文件。",
+    "url": "https://pandoc.org/"
+  },
+  "sources_ok": [
+    "中新网·滚动 30条",
+    "中新网·国际 30条",
+    "中新网·财经 30条",
+    "中新网·社会 30条",
+    "中新网·教育 15条",
+    "中新网·体育 30条",
+    "界面新闻 30条",
+    "东方财富 93条",
+    "创业邦 30条",
+    "Solidot 奇客 20条",
+    "极客公园 30条",
+    "少数派 10条",
+    "开源中国 50条",
+    "ZOL 科技 100条",
+    "量子位 10条",
+    "BBC World 22条",
+    "BBC Business 53条",
+    "BBC Tech 21条",
+    "The Guardian·World 45条",
+    "纽约时报·国际 59条",
+    "DW 中文 57条",
+    "Al Jazeera 25条",
+    "France24 24条",
+    "NPR World 10条",
+    "Ars Technica 20条",
+    "The Verge 10条",
+    "TechCrunch 20条",
+    "MIT Tech Review 10条",
+    "Nature 75条",
+    "IEEE Spectrum 30条",
+    "Phys.org 30条",
+    "ScienceDaily 60条"
+  ],
+  "sources_failed": [],
+  "items": [
+    {
+      "title": "天津地铁8号线﻿开通运营",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739165.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-28T11:49:00+08:00",
+      "abstract": "11月28日，天津地铁8号线正式开通运营。线路全长36.4公里，串联5个行政区，连接7条线路，进一步织密中心城区轨道交通网络。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "歼-35A飞抵珠海 将首次真机进馆展出",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-28/10739155.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-28T10:51:13+08:00",
+      "abstract": "今天(28日)上午，歼-35A飞抵珠海，它将在第十六届中国国际航空航天博览会上，首次以真机形式亮相1号馆，面向全球观众近距离静态展示。",
+      "tier": 1,
+      "also": [
+        "东方财富",
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "稳中有进、持续向优 今年前10个月物流业总收入12.3万亿元",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-28/10739153.shtml",
+      "source": "中新网·滚动",
+      "category": "要闻",
+      "published": "2026-11-28T10:42:59+08:00",
+      "abstract": "中国物流与采购联合会今天(28日)发布今年前10个月物流运行数据。今年1月至10月，我国物流市场呈现规模稳中有进、结构持续向优的良好态势，物流供给端积极变革，综合效能和韧性有所增强，国际物流通道高效畅通。",
+      "tier": 1,
+      "also": [
+        "界面新闻"
+      ]
+    },
+    {
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "国际",
+      "published": "2026-11-28T01:19:31+08:00",
+      "abstract": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "Princess Kate’s Cancer Documentary ‘Heal’: 3 Takeaways",
+      "link": "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html",
+      "source": "纽约时报·国际",
+      "category": "国际",
+      "published": "2026-11-28T09:35:00+08:00",
+      "abstract": "‘Heal,’ a 30-minute authorized documentary released this week, offers glimpses into Catherine’s recovery since her 2024 cancer diagnosis and treatment.",
+      "tier": 1,
+      "also": [
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
+      "link": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+      "source": "The Guardian·World",
+      "category": "国际",
+      "published": "2026-11-28T07:28:50+08:00",
+      "abstract": "<p>Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employees</p><p><a href=\"https://www.theguardian.co",
+      "tier": 1,
+      "also": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "广西壮族自治区政府原主席蓝天立一审被判死缓",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-27/10738930.shtml",
+      "source": "中新网·国际",
+      "category": "国际",
+      "published": "2026-11-27T18:55:43+08:00",
+      "abstract": "中新社北京11月27日电 (记者 张素)记者从中国最高人民法院获悉，11月27日，湖南省常德市中级人民法院一审公开宣判广西壮族自治区党委原副书记、自治区政府原主席蓝天立受贿一案。",
+      "tier": 1,
+      "also": [
+        "DW 中文"
+      ]
+    },
+    {
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-26T22:28:22+08:00",
+      "abstract": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
+      "tier": 1,
+      "also": [
+        "The Guardian·World"
+      ]
+    },
+    {
+      "title": "港股上行 恒生科技指数领跑大市",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-27/10739070.shtml",
+      "source": "中新网·财经",
+      "category": "财经",
+      "published": "2026-11-27T21:54:13+08:00",
+      "abstract": "中新社香港11月27日电 (记者 戴小橦)11月23日至27日当周，港股三大指数全线走高，恒生科技指数涨幅领跑大市。截至27日收盘，香港恒生指数累计上涨1.27%，报22694.77点；恒生科技指数累计升3.61%，报3637.88点；国企指数上涨1.19%，报7644.18点。",
+      "tier": 1,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "财经",
+      "published": "2026-11-26T17:27:44+08:00",
+      "abstract": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "tier": 1,
+      "also": [
+        "Ars Technica",
+        "TechCrunch"
+      ]
+    },
+    {
+      "title": "The best Black Friday deals Ars could find",
+      "link": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-11-28T01:05:37+08:00",
+      "abstract": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+      "tier": 2,
+      "also": [
+        "The Verge"
+      ]
+    },
+    {
+      "title": "Kimi 向科学家提供最高 2 万美元 API 免费额度",
+      "link": "https://www.solidot.org/story?sid=86015",
+      "source": "Solidot 奇客",
+      "category": "科技",
+      "published": "2026-11-28T00:14:48+08:00",
+      "abstract": "Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入。月之暗面表示，“科学始终源于人类的好奇心、严谨的探索精神，以及对未知世界的不懈追求。一个有价值的科学假设，往往需要经过大量的文献调研、数据分析和反复验证。而一次意料之外的发现，也可能成为下",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "AI 硬件竞争白热化，OpenAI 反诉苹果窃密；iPhone 18 量产再度推迟；王兴回应美团与小微试点合作",
+      "link": "http://www.geekpark.net/news/374621",
+      "source": "极客公园",
+      "category": "科技",
+      "published": "2026-11-28T08:53:50+08:00",
+      "abstract": "OpenAI 转守为攻：反诉苹果窃密，喊话「不公平竞争」 当地时间周五（27 日），OpenAI 在美国加利福尼亚州圣何塞联邦法院对苹果提起反诉，指控苹果窃取其商业机密，并阻挠其与硬件供应商合作。 今年 7 月，苹果曾以窃取商业机密为由起诉 OpenAI。随着 OpenAI 反诉，这场官司从苹果一方起诉变成了双方互诉。",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+      "link": "https://www.qbitai.com/2026/11/513305.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-27T15:29:10+08:00",
+      "abstract": "网页App双端亮出聊天账单",
+      "tier": 2,
+      "also": [
+        "东方财富"
+      ]
+    },
+    {
+      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+      "link": "https://www.qbitai.com/2026/11/513352.html",
+      "source": "量子位",
+      "category": "AI",
+      "published": "2026-11-27T22:07:33+08:00",
+      "abstract": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "The haunting loveliness of boglands: Books in brief",
+      "link": "https://www.nature.com/articles/d41586-026-03885-4",
+      "source": "Nature",
+      "category": "科学",
+      "published": "2026-11-27T00:00:00+08:00",
+      "abstract": "",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+      "link": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+      "source": "IEEE Spectrum",
+      "category": "科学",
+      "published": "2026-11-27T22:00:01+08:00",
+      "abstract": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn’t expect to get the job.At the time, pr",
+      "tier": 2,
+      "also": []
+    },
+    {
+      "title": "商家出餐晚了 配送超时由谁担责？算法协商回应骑手关切→",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-28/10739167.shtml",
+      "source": "中新网·社会",
+      "category": "社会",
+      "published": "2026-11-28T11:52:00+08:00",
+      "abstract": "外卖骑手送外卖时，遇到商家迟迟不出餐，最后配送超时，这个责任该由谁承担？遇到恶意投诉，快递员能不能为自己申辩？对于新就业形态劳动者来说，这些看似细小的问题，实际上都关系着他们每天的收入和保障。而决定这些问题如何处理的，往往是平台背后的一套算法规则。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "“不可忘却的记忆”国家公祭日主题思政教育活动在南京举行",
+      "link": "https://www.chinanews.com.cn/edu/2026/11-28/10739117.shtml",
+      "source": "中新网·教育",
+      "category": "教育",
+      "published": "2026-11-28T09:35:47+08:00",
+      "abstract": "中新网南京11月28日电 (记者 朱晓颖)“不可忘却的记忆”国家公祭日主题思政教育活动27日在南京市金陵中学举行。",
+      "tier": 1,
+      "also": []
+    },
+    {
+      "title": "劈波斩浪真“艇”燃 X9联盟第五届赛艇联赛落幕",
+      "link": "https://www.chinanews.com.cn/ty/2026/11-27/10739044.shtml",
+      "source": "中新网·体育",
+      "category": "体育",
+      "published": "2026-11-27T21:45:38+08:00",
+      "abstract": "中新网深圳11月27日电 (索有为 谢梁晖 郑佳宜)深圳西丽湖国际科教城X9高校院所联盟(下称“X9联盟”)第五届赛艇联赛收官之战27日在深圳大学城举行，经过三站激烈角逐，哈工大(深圳)夺得本届联赛年度总冠军。",
+      "tier": 1,
+      "also": []
+    }
+  ]
+}
